@@ -114,7 +114,44 @@ def review_section(reviews):
     return "".join(content)+"</ul>"
 
 
-def jurisdiction_page(j,ed,reviews):
+def amount_label(observation):
+    amount = observation["amount"]
+    if amount is None:
+        return "Suppressed" if observation["status"] == "x" else "Unavailable"
+    return f"{amount:,}" + (" ("+e(observation["status"])+")" if observation["status"] else "")
+
+
+def investment_panel(ed, code):
+    series = ed["countries"].get(code)
+    if not series:
+        return ""
+    rows = [(str(year), [amount_label(series["values"][str(year)])]) for year in reversed(ed["years"])]
+    return ('<h2>Canadian direct investment in '+e(series["label"])+'</h2>'
+            '<p>Year-end book value of Canadian outward direct investment, in millions of Canadian dollars. '
+            'These national statistics cover investment across the economy and cannot identify a company or transaction in the leaked records.</p>'
+            +table("Year-end Canadian investment position", ["Year", "CAD millions"], rows)
+            +'<p>'+sourced(ed["source"],"Statistics Canada · Table 36-10-0008-01")+' · Series '+e(series["vector"])
+            +' · Checked '+e(ed["checked_at"])+' · '+link("../../records/investment/","Compare destinations")+'</p>')
+
+
+def investment_index(ed, countries):
+    lookup = {p["code"]: p["name"] for p in countries}
+    rows = []
+    years = list(reversed(ed["years"]))
+    for code, series in sorted(ed["countries"].items(), key=lambda pair: lookup[pair[0]].casefold()):
+        rows.append((link("../../places/"+code.lower()+"/", lookup[code]),
+                     [amount_label(series["values"][str(y)]) for y in years]))
+    desc = f"Compare year-end Canadian direct investment positions for {len(rows)} destinations from {min(years)} to {max(years)}, in millions of Canadian dollars."
+    body = ('<p class="lead">'+e(desc)+'</p><p>Pick a destination to see its investment series alongside the historical archive. '
+            'The two sources cover different periods and populations. Investment positions measure holdings at year end. '
+            'They cannot establish who used an offshore structure or whether tax was owed.</p><p>'
+            +sourced(ed["source"],"Statistics Canada · Table 36-10-0008-01")+' · Checked '+e(ed["checked_at"])+'</p>'
+            +'<div class="record-scroll" tabindex="0">'+table("Canadian outward investment at book value",["Destination", *map(str,years)],rows)+'</div>'
+            +'<p>Suppressed figures are confidential. Unavailable figures have no published value. A published zero is shown as 0.</p>')
+    return "records/investment/", "Canadian direct investment abroad by destination", desc, body
+
+
+def jurisdiction_page(j,ed,reviews,investment=None):
     if not SLUG.fullmatch(j["code"]):
         raise ValueError("Invalid incorporation label")
     total=sum(j["investigations"].values())
@@ -134,10 +171,12 @@ def jurisdiction_page(j,ed,reviews):
         body.append("<p>The archive uses a historical, regional or otherwise distinct jurisdiction label. The atlas has no verified OECD match for this label.</p>")
     else:
         body.append("<p>This edition has no matching OECD review for this jurisdiction.</p>")
+    if investment:
+        body.append(investment_panel(investment, j.get("iso3")))
     return "incorporation/"+j["code"]+"/",title,desc,"".join(body)
 
 
-def place_page(p, ed, incs, reviews):
+def place_page(p, ed, incs, reviews, investment=None):
     code=p["code"]
     name=p["name"]
     totals=Counter()
@@ -150,6 +189,8 @@ def place_page(p, ed, incs, reviews):
           f'<p>ICIJ export dated {e(ed["source_edition"])}. Archive checked {e(ed["checked_at"])}. Each investigation has its own historical coverage.</p>',
           '<div class="record-scroll" tabindex="0" role="region" aria-label="Record counts">'+place_table(p,ed["investigations"])+'</div>',
           '<p>Each row counts records carrying this country tag. A tag can identify a correspondence address or other source-specific connection. One record can carry several country tags. Officer records include both people and organizations.</p>']
+    if investment:
+        body.append(investment_panel(investment, code))
     if incs:
         rows=[]
         for inv in ed["investigations"]:
@@ -213,6 +254,7 @@ def trail_page(trail,checked):
 def build(root=ROOT):
     ed=read(root/"data/icij.json")
     check_archive(ed)
+    investment=read(root/"data/investment.json")
     oecd=read(root/"data/oecd.json")
     trails=read(root/"data/trails.json")
     if not trails.get("trails") or not oecd.get("jurisdictions"):
@@ -234,12 +276,13 @@ def build(root=ROOT):
         for p in countries:
             incs=[j for j in ed["jurisdictions"] if j.get("iso3")==p["code"]]
             reviews=[r for r in oecd["jurisdictions"] if r.get("iso3")==p["code"]]
-            save(place_page(p,ed,incs,reviews))
+            save(place_page(p,ed,incs,reviews,investment))
         for j in ed["jurisdictions"]:
             reviews=[r for r in oecd["jurisdictions"] if j.get("iso3") and r.get("iso3")==j["iso3"]]
-            save(jurisdiction_page(j,ed,reviews))
+            save(jurisdiction_page(j,ed,reviews,investment))
         for inv in ed["investigations"]:
             save(investigation_page(inv,ed,countries))
+        save(investment_index(investment, countries))
         for trail in trails["trails"]:
             save(trail_page(trail,trails["checked_at"]))
         directory='<p class="lead">Read how a country appears in the archive, or start with an investigation to check its coverage and contributing sources.</p><h2>Investigations</h2><ul>'
@@ -250,11 +293,13 @@ def build(root=ROOT):
         directory+="".join('<li>'+link("../incorporation/"+j["code"]+"/",j["name"])+'</li>' for j in ed["jurisdictions"])
         directory+='</ul><h2>Linked countries and territories</h2><ul class="record-index">'
         directory+="".join('<li>'+link("../places/"+p["code"].lower()+"/",p["name"])+'</li>' for p in countries)+'</ul>'
+        directory+='<p>'+link("../records/investment/","Canadian direct investment abroad by destination")+'</p>'
         save(("records/","Offshore records by country and investigation","Browse source-linked summaries of countries and investigations in ICIJ’s Offshore Leaks Database.",directory))
         index=(stage/"index.html").read_text()
         if index.count("{{CANADA}}")!=1:
             raise ValueError("Missing Canada opening table")
         index=index.replace("{{CANADA}}",place_table(next(p for p in countries if p["code"]=="CAN"),ed["investigations"]))
+        index=index.replace("</main>", '<section><h2>Where do Canadians invest abroad?</h2><p>'+link("./records/investment/", "Compare five years of investment by destination")+' using Statistics Canada’s annual book values.</p></section></main>')
         dataset={"@type":"Dataset","@id":BASE+"#archive","name":"Offshore Leaks record counts by country and investigation",
                  "creator":{"@type":"Organization","name":"International Consortium of Investigative Journalists"},
                  "isBasedOn":ed["source_url"],"license":"https://opendatacommons.org/licenses/odbl/1-0/",
@@ -265,9 +310,9 @@ def build(root=ROOT):
             ET.SubElement(ET.SubElement(xml,"url"),"loc").text=BASE+path
         put(stage/"sitemap.xml",ET.tostring(xml,encoding="unicode",xml_declaration=True))
         # Oldest verified component is the latest date through which all three inputs were checked.
-        dates=[ed["checked_at"],oecd["source"]["checked_at"],trails["checked_at"]]
+        dates=[ed["checked_at"],oecd["source"]["checked_at"],trails["checked_at"],investment["checked_at"]]
         checked=min(date.fromisoformat(v[:10]) for v in dates).isoformat()
-        status={"checked_at":checked,"archive_checked_at":ed["checked_at"],"country_count":len(countries),
+        status={"checked_at":checked,"investment_checked_at":investment["checked_at"],"investment_latest_year":max(investment["years"]),"archive_checked_at":ed["checked_at"],"country_count":len(countries),
                 "investigation_count":len(ed["investigations"]),"jurisdiction_count":len(ed["jurisdictions"]),
                 "entity_count":sum(i["counts"]["entities"] for i in ed["investigations"]),
                 "source_edition":ed.get("source_edition"),"oecd_checked_at":oecd["source"]["checked_at"],

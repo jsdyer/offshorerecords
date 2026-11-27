@@ -4,6 +4,7 @@ Explore five investigations in the International Consortium of Investigative Jou
 
 <!-- coolcode:guide -->
 Start with Canada in the Pandora Papers. Compare the number of directly tagged entities, officers and addresses. Follow a recorded company relationship to its ICIJ source, then check the jurisdiction of incorporation and the years covered. The OECD panel dates its separate review of how the jurisdiction exchanges tax information on request.
+Compare the latest five annual Canadian direct investment positions on destination pages, with Statistics Canada’s source series and units.
 <!-- /coolcode:guide -->
 
 The source counts describe entries in historical records. An officer can be a person or a company. One record can refer to multiple countries. Its country tag can come from residence, a correspondence address, nationality or other source-specific fields. The incorporation jurisdiction is a separate field. Case findings, amounts of money or current ownership require additional evidence.
@@ -31,3 +32,5 @@ The worked relationship examples are curated in `collectors/trails.py`. Set the 
 Run `python scripts/refresh.py` with Python 3.11 or newer to download the current ICIJ ZIP, aggregate it, verify the example relationships and refresh the OECD table. The OECD collector attaches a dated publication URL where an unambiguous publisher record is available. `python scripts/build.py` and `python scripts/check_pages.py` rebuild and verify every canonical page and internal route before publishing. An ICIJ export date identifies when the file was generated. The investigation cutoff dates identify what time period the underlying historical records cover.
 
 The linked-country view belongs to the node’s country tags. The incorporation view belongs to the entity’s registered jurisdiction. The two views keep their populations separate. A source label can represent a provider or a corporate registry; any ranking of counts here describes only the contents of this archive.
+
+The destination comparison uses Statistics Canada table 36-10-0008-01. Open a destination to see its five most recent annual outward investment positions, in CAD millions. Suppressed values keep their published status. The normal source refresh also downloads the official CSV.

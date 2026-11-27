@@ -12,7 +12,7 @@ import tempfile
 from urllib.request import Request, urlopen
 
 ROOT=Path(__file__).resolve().parents[1]
-SOURCES=("icij","oecd","trails")
+SOURCES=("icij","oecd","trails","investment")
 
 
 def refresh():
@@ -26,7 +26,7 @@ def refresh():
         with urlopen(req,timeout=120) as incoming, archive.open("wb") as dest:
             shutil.copyfileobj(incoming,dest,1024*1024)
         def run(source):
-            args = {"icij":["--archive",str(archive)],"trails":[str(archive)],"oecd":[]}[source]
+            args = {"icij":["--archive",str(archive)],"trails":[str(archive)],"oecd":[], "investment":[]}[source]
             subprocess.run([sys.executable,"collectors/"+source+".py",*args],cwd=work,check=True,timeout=1100)
         with ThreadPoolExecutor(max_workers=len(SOURCES)) as pool:
             list(pool.map(run,SOURCES))

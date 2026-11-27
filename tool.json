@@ -1,7 +1,7 @@
 {
   "id": "offshorerecords",
   "title": "Offshore Records Atlas",
-  "description": "Explore how countries appear in five offshore investigations, trace documented company roles and read dated tax-transparency reviews.",
+  "description": "Explore five offshore investigations, trace documented company roles and compare Canadian direct investment and tax-transparency reviews by destination.",
   "category": "explorers",
   "tags": [
     "offshore records",
@@ -19,7 +19,7 @@
   "data_info": {
     "mode": "snapshot",
     "cadence": "Monthly",
-    "detail": "ICIJ archive counts, documented organization relationships and OECD tax-information exchange reviews, with source dates shown separately.",
+    "detail": "ICIJ records, OECD transparency reviews and Statistics Canada outward direct investment positions, with separate source dates.",
     "probes": [
       {
         "label": "Sources checked",

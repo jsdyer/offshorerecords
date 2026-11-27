@@ -1,0 +1,4123 @@
+{
+  "source": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610000801",
+  "download": "https://www150.statcan.gc.ca/n1/tbl/csv/36100008-eng.zip",
+  "measure": "Canadian direct investment abroad - total book value",
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "countries": {
+    "ABW": {
+      "label": "Aruba",
+      "vector": "v7117685",
+      "values": {
+        "2021": {
+          "amount": 2,
+          "status": ""
+        },
+        "2022": {
+          "amount": 34,
+          "status": ""
+        },
+        "2023": {
+          "amount": 13,
+          "status": ""
+        },
+        "2024": {
+          "amount": 13,
+          "status": ""
+        },
+        "2025": {
+          "amount": 12,
+          "status": ""
+        }
+      }
+    },
+    "AGO": {
+      "label": "Angola",
+      "vector": "v7117771",
+      "values": {
+        "2021": {
+          "amount": 17,
+          "status": ""
+        },
+        "2022": {
+          "amount": 18,
+          "status": ""
+        },
+        "2023": {
+          "amount": null,
+          "status": ".."
+        },
+        "2024": {
+          "amount": 14,
+          "status": ""
+        },
+        "2025": {
+          "amount": 13,
+          "status": ""
+        }
+      }
+    },
+    "ALB": {
+      "label": "Albania",
+      "vector": "v7117725",
+      "values": {
+        "2021": {
+          "amount": null,
+          "status": ".."
+        },
+        "2022": {
+          "amount": null,
+          "status": ".."
+        },
+        "2023": {
+          "amount": 49,
+          "status": ""
+        },
+        "2024": {
+          "amount": 52,
+          "status": ""
+        },
+        "2025": {
+          "amount": 52,
+          "status": ""
+        }
+      }
+    },
+    "ARE": {
+      "label": "United Arab Emirates",
+      "vector": "v7117856",
+      "values": {
+        "2021": {
+          "amount": -145,
+          "status": ""
+        },
+        "2022": {
+          "amount": 149,
+          "status": ""
+        },
+        "2023": {
+          "amount": 471,
+          "status": ""
+        },
+        "2024": {
+          "amount": 687,
+          "status": ""
+        },
+        "2025": {
+          "amount": 767,
+          "status": ""
+        }
+      }
+    },
+    "ARG": {
+      "label": "Argentina",
+      "vector": "v7117704",
+      "values": {
+        "2021": {
+          "amount": 6412,
+          "status": ""
+        },
+        "2022": {
+          "amount": 6406,
+          "status": ""
+        },
+        "2023": {
+          "amount": 6770,
+          "status": ""
+        },
+        "2024": {
+          "amount": 8210,
+          "status": ""
+        },
+        "2025": {
+          "amount": 4315,
+          "status": ""
+        }
+      }
+    },
+    "ARM": {
+      "label": "Armenia",
+      "vector": "v7117726",
+      "values": {
+        "2021": {
+          "amount": 265,
+          "status": ""
+        },
+        "2022": {
+          "amount": 267,
+          "status": ""
+        },
+        "2023": {
+          "amount": null,
+          "status": ".."
+        },
+        "2024": {
+          "amount": 3,
+          "status": ""
+        },
+        "2025": {
+          "amount": 4,
+          "status": ""
+        }
+      }
+    },
+    "ATG": {
+      "label": "Antigua and Barbuda",
+      "vector": "v7117684",
+      "values": {
+        "2021": {
+          "amount": 152,
+          "status": ""
+        },
+        "2022": {
+          "amount": 13,
+          "status": ""
+        },
+        "2023": {
+          "amount": 9,
+          "status": ""
+        },
+        "2024": {
+          "amount": null,
+          "status": ".."
+        },
+        "2025": {
+          "amount": null,
+          "status": ".."
+        }
+      }
+    },
+    "AUS": {
+      "label": "Australia",
+      "vector": "v7117817",
+      "values": {
+        "2021": {
+          "amount": 52983,
+          "status": ""
+        },
+        "2022": {
+          "amount": 55542,
+          "status": ""
+        },
+        "2023": {
+          "amount": 50385,
+          "status": ""
+        },
+        "2024": {
+          "amount": 48406,
+          "status": ""
+        },
+        "2025": {
+          "amount": 50130,
+          "status": ""
+        }
+      }
+    },
+    "AUT": {
+      "label": "Austria",
+      "vector": "v7117727",
+      "values": {
+        "2021": {
+          "amount": 6454,
+          "status": ""
+        },
+        "2022": {
+          "amount": 6096,
+          "status": ""
+        },
+        "2023": {
+          "amount": 6727,
+          "status": ""
+        },
+        "2024": {
+          "amount": 4782,
+          "status": ""
+        },
+        "2025": {
+          "amount": 6104,
+          "status": ""
+        }
+      }
+    },
+    "BEL": {
+      "label": "Belgium",
+      "vector": "v7117728",
+      "values": {
+        "2021": {
+          "amount": 1259,
+          "status": ""
+        },
+        "2022": {
+          "amount": -3,
+          "status": ""
+        },
+        "2023": {
+          "amount": 1888,
+          "status": ""
+        },
+        "2024": {
+          "amount": 2088,
+          "status": ""
+        },
+        "2025": {
+          "amount": 2171,
+          "status": ""
+        }
+      }
+    },
+    "BFA": {
+      "label": "Burkina Faso",
+      "vector": "v7117774",
+      "values": {
+        "2021": {
+          "amount": 1621,
+          "status": ""
+        },
+        "2022": {
+          "amount": 1057,
+          "status": ""
+        },
+        "2023": {
+          "amount": 936,
+          "status": ""
+        },
+        "2024": {
+          "amount": 828,
+          "status": ""
+        },
+        "2025": {
+          "amount": 671,
+          "status": ""
+        }
+      }
+    },
+    "BGD": {
+      "label": "Bangladesh",
+      "vector": "v7117819",
+      "values": {
+        "2021": {
+          "amount": -6,
+          "status": ""
+        },
+        "2022": {
+          "amount": -1,
+          "status": ""
+        },
+        "2023": {
+          "amount": null,
+          "status": ".."
+        },
+        "2024": {
+          "amount": null,
+          "status": ".."
+        },
+        "2025": {
+          "amount": null,
+          "status": ".."
+        }
+      }
+    },
+    "BGR": {
+      "label": "Bulgaria",
+      "vector": "v7117729",
+      "values": {
+        "2021": {
+          "amount": 41,
+          "status": ""
+        },
+        "2022": {
+          "amount": 22,
+          "status": ""
+        },
+        "2023": {
+          "amount": 719,
+          "status": ""
+        },
+        "2024": {
+          "amount": 720,
+          "status": ""
+        },
+        "2025": {
+          "amount": 734,
+          "status": ""
+        }
+      }
+    },
+    "BHR": {
+      "label": "Bahrain",
+      "vector": "v7117818",
+      "values": {
+        "2021": {
+          "amount": 16,
+          "status": ""
+        },
+        "2022": {
+          "amount": 10,
+          "status": ""
+        },
+        "2023": {
+          "amount": 1,
+          "status": ""
+        },
+        "2024": {
+          "amount": 2,
+          "status": ""
+        },
+        "2025": {
+          "amount": 2,
+          "status": ""
+        }
+      }
+    },
+    "BHS": {
+      "label": "Bahamas",
+      "vector": "v7117686",
+      "values": {
+        "2021": {
+          "amount": 19798,
+          "status": ""
+        },
+        "2022": {
+          "amount": 20549,
+          "status": ""
+        },
+        "2023": {
+          "amount": 21876,
+          "status": ""
+        },
+        "2024": {
+          "amount": 18420,
+          "status": ""
+        },
+        "2025": {
+          "amount": 17354,
+          "status": ""
+        }
+      }
+    },
+    "BLZ": {
+      "label": "Belize",
+      "vector": "v7117705",
+      "values": {
+        "2021": {
+          "amount": 134,
+          "status": ""
+        },
+        "2022": {
+          "amount": 297,
+          "status": ""
+        },
+        "2023": {
+          "amount": 418,
+          "status": ""
+        },
+        "2024": {
+          "amount": 420,
+          "status": ""
+        },
+        "2025": {
+          "amount": 417,
+          "status": ""
+        }
+      }
+    },
+    "BMU": {
+      "label": "Bermuda",
+      "vector": "v7117688",
+      "values": {
+        "2021": {
+          "amount": 114038,
+          "status": ""
+        },
+        "2022": {
+          "amount": 130411,
+          "status": ""
+        },
+        "2023": {
+          "amount": 141709,
+          "status": ""
+        },
+        "2024": {
+          "amount": 138404,
+          "status": ""
+        },
+        "2025": {
+          "amount": 141033,
+          "status": ""
+        }
+      }
+    },
+    "BOL": {
+      "label": "Bolivia",
+      "vector": "v7117706",
+      "values": {
+        "2021": {
+          "amount": 118,
+          "status": ""
+        },
+        "2022": {
+          "amount": 163,
+          "status": ""
+        },
+        "2023": {
+          "amount": 152,
+          "status": ""
+        },
+        "2024": {
+          "amount": 188,
+          "status": ""
+        },
+        "2025": {
+          "amount": 247,
+          "status": ""
+        }
+      }
+    },
+    "BRA": {
+      "label": "Brazil",
+      "vector": "v7117707",
+      "values": {
+        "2021": {
+          "amount": 18818,
+          "status": ""
+        },
+        "2022": {
+          "amount": 21707,
+          "status": ""
+        },
+        "2023": {
+          "amount": 20603,
+          "status": ""
+        },
+        "2024": {
+          "amount": 19727,
+          "status": ""
+        },
+        "2025": {
+          "amount": 24587,
+          "status": ""
+        }
+      }
+    },
+    "BRB": {
+      "label": "Barbados",
+      "vector": "v7117687",
+      "values": {
+        "2021": {
+          "amount": 86752,
+          "status": ""
+        },
+        "2022": {
+          "amount": 85410,
+          "status": ""
+        },
+        "2023": {
+          "amount": 74247,
+          "status": ""
+        },
+        "2024": {
+          "amount": 86593,
+          "status": ""
+        },
+        "2025": {
+          "amount": 84361,
+          "status": ""
+        }
+      }
+    },
+    "BWA": {
+      "label": "Botswana",
+      "vector": "v7117773",
+      "values": {
+        "2021": {
+          "amount": 167,
+          "status": ""
+        },
+        "2022": {
+          "amount": 137,
+          "status": ""
+        },
+        "2023": {
+          "amount": 551,
+          "status": ""
+        },
+        "2024": {
+          "amount": 576,
+          "status": ""
+        },
+        "2025": {
+          "amount": 665,
+          "status": ""
+        }
+      }
+    },
+    "CHE": {
+      "label": "Switzerland",
+      "vector": "v7117762",
+      "values": {
+        "2021": {
+          "amount": 4483,
+          "status": ""
+        },
+        "2022": {
+          "amount": 11655,
+          "status": ""
+        },
+        "2023": {
+          "amount": 7154,
+          "status": ""
+        },
+        "2024": {
+          "amount": 17515,
+          "status": ""
+        },
+        "2025": {
+          "amount": 20313,
+          "status": ""
+        }
+      }
+    },
+    "CHL": {
+      "label": "Chile",
+      "vector": "v7117708",
+      "values": {
+        "2021": {
+          "amount": 14944,
+          "status": ""
+        },
+        "2022": {
+          "amount": 23850,
+          "status": ""
+        },
+        "2023": {
+          "amount": 27082,
+          "status": ""
+        },
+        "2024": {
+          "amount": 36410,
+          "status": ""
+        },
+        "2025": {
+          "amount": 39094,
+          "status": ""
+        }
+      }
+    },
+    "CHN": {
+      "label": "China",
+      "vector": "v7117845",
+      "values": {
+        "2021": {
+          "amount": 12820,
+          "status": ""
+        },
+        "2022": {
+          "amount": 14989,
+          "status": ""
+        },
+        "2023": {
+          "amount": 14508,
+          "status": ""
+        },
+        "2024": {
+          "amount": 13370,
+          "status": ""
+        },
+        "2025": {
+          "amount": 15040,
+          "status": ""
+        }
+      }
+    },
+    "CIV": {
+      "label": "Côte d'Ivoire",
+      "vector": "v7117787",
+      "values": {
+        "2021": {
+          "amount": 797,
+          "status": ""
+        },
+        "2022": {
+          "amount": 374,
+          "status": ""
+        },
+        "2023": {
+          "amount": 695,
+          "status": ""
+        },
+        "2024": {
+          "amount": 208,
+          "status": ""
+        },
+        "2025": {
+          "amount": 425,
+          "status": ""
+        }
+      }
+    },
+    "CMR": {
+      "label": "Cameroon",
+      "vector": "v7117775",
+      "values": {
+        "2021": {
+          "amount": 7,
+          "status": ""
+        },
+        "2022": {
+          "amount": 28,
+          "status": ""
+        },
+        "2023": {
+          "amount": 38,
+          "status": ""
+        },
+        "2024": {
+          "amount": 107,
+          "status": ""
+        },
+        "2025": {
+          "amount": 134,
+          "status": ""
+        }
+      }
+    },
+    "COD": {
+      "label": "Congo, Democratic Republic of the",
+      "vector": "v7117778",
+      "values": {
+        "2021": {
+          "amount": 88,
+          "status": ""
+        },
+        "2022": {
+          "amount": 75,
+          "status": ""
+        },
+        "2023": {
+          "amount": 118,
+          "status": ""
+        },
+        "2024": {
+          "amount": 70,
+          "status": ""
+        },
+        "2025": {
+          "amount": 76,
+          "status": ""
+        }
+      }
+    },
+    "COG": {
+      "label": "Congo",
+      "vector": "v7117777",
+      "values": {
+        "2021": {
+          "amount": 19,
+          "status": ""
+        },
+        "2022": {
+          "amount": null,
+          "status": ".."
+        },
+        "2023": {
+          "amount": 5,
+          "status": ""
+        },
+        "2024": {
+          "amount": 5,
+          "status": ""
+        },
+        "2025": {
+          "amount": 5,
+          "status": ""
+        }
+      }
+    },
+    "COL": {
+      "label": "Colombia",
+      "vector": "v7117709",
+      "values": {
+        "2021": {
+          "amount": 6244,
+          "status": ""
+        },
+        "2022": {
+          "amount": 8699,
+          "status": ""
+        },
+        "2023": {
+          "amount": 9533,
+          "status": ""
+        },
+        "2024": {
+          "amount": 9088,
+          "status": ""
+        },
+        "2025": {
+          "amount": 9838,
+          "status": ""
+        }
+      }
+    },
+    "CRI": {
+      "label": "Costa Rica",
+      "vector": "v7117710",
+      "values": {
+        "2021": {
+          "amount": 86,
+          "status": ""
+        },
+        "2022": {
+          "amount": 108,
+          "status": ""
+        },
+        "2023": {
+          "amount": 225,
+          "status": ""
+        },
+        "2024": {
+          "amount": 238,
+          "status": ""
+        },
+        "2025": {
+          "amount": 236,
+          "status": ""
+        }
+      }
+    },
+    "CUB": {
+      "label": "Cuba",
+      "vector": "v7117691",
+      "values": {
+        "2021": {
+          "amount": 356,
+          "status": ""
+        },
+        "2022": {
+          "amount": 399,
+          "status": ""
+        },
+        "2023": {
+          "amount": 406,
+          "status": ""
+        },
+        "2024": {
+          "amount": 445,
+          "status": ""
+        },
+        "2025": {
+          "amount": 463,
+          "status": ""
+        }
+      }
+    },
+    "CYM": {
+      "label": "Cayman Islands",
+      "vector": "v7117690",
+      "values": {
+        "2021": {
+          "amount": 54927,
+          "status": ""
+        },
+        "2022": {
+          "amount": 58916,
+          "status": ""
+        },
+        "2023": {
+          "amount": 74660,
+          "status": ""
+        },
+        "2024": {
+          "amount": 80053,
+          "status": ""
+        },
+        "2025": {
+          "amount": 79684,
+          "status": ""
+        }
+      }
+    },
+    "CYP": {
+      "label": "Cyprus",
+      "vector": "v7117731",
+      "values": {
+        "2021": {
+          "amount": 1419,
+          "status": ""
+        },
+        "2022": {
+          "amount": 2183,
+          "status": ""
+        },
+        "2023": {
+          "amount": 3643,
+          "status": ""
+        },
+        "2024": {
+          "amount": 4073,
+          "status": ""
+        },
+        "2025": {
+          "amount": 4279,
+          "status": ""
+        }
+      }
+    },
+    "CZE": {
+      "label": "Czechia",
+      "vector": "v7117732",
+      "values": {
+        "2021": {
+          "amount": 170,
+          "status": ""
+        },
+        "2022": {
+          "amount": 288,
+          "status": ""
+        },
+        "2023": {
+          "amount": 346,
+          "status": ""
+        },
+        "2024": {
+          "amount": 375,
+          "status": ""
+        },
+        "2025": {
+          "amount": 516,
+          "status": ""
+        }
+      }
+    },
+    "DEU": {
+      "label": "Germany",
+      "vector": "v7117740",
+      "values": {
+        "2021": {
+          "amount": 9667,
+          "status": ""
+        },
+        "2022": {
+          "amount": 12212,
+          "status": ""
+        },
+        "2023": {
+          "amount": 13353,
+          "status": ""
+        },
+        "2024": {
+          "amount": 17129,
+          "status": ""
+        },
+        "2025": {
+          "amount": 22280,
+          "status": ""
+        }
+      }
+    },
+    "DMA": {
+      "label": "Dominica",
+      "vector": "v7117692",
+      "values": {
+        "2021": {
+          "amount": 7,
+          "status": ""
+        },
+        "2022": {
+          "amount": 3,
+          "status": ""
+        },
+        "2023": {
+          "amount": 1,
+          "status": ""
+        },
+        "2024": {
+          "amount": 1,
+          "status": ""
+        },
+        "2025": {
+          "amount": null,
+          "status": ".."
+        }
+      }
+    },
+    "DNK": {
+      "label": "Denmark",
+      "vector": "v7117734",
+      "values": {
+        "2021": {
+          "amount": 583,
+          "status": ""
+        },
+        "2022": {
+          "amount": 987,
+          "status": ""
+        },
+        "2023": {
+          "amount": 854,
+          "status": ""
+        },
+        "2024": {
+          "amount": 844,
+          "status": ""
+        },
+        "2025": {
+          "amount": 948,
+          "status": ""
+        }
+      }
+    },
+    "DOM": {
+      "label": "Dominican Republic",
+      "vector": "v7117693",
+      "values": {
+        "2021": {
+          "amount": 894,
+          "status": ""
+        },
+        "2022": {
+          "amount": 1172,
+          "status": ""
+        },
+        "2023": {
+          "amount": 1324,
+          "status": ""
+        },
+        "2024": {
+          "amount": 1504,
+          "status": ""
+        },
+        "2025": {
+          "amount": 1482,
+          "status": ""
+        }
+      }
+    },
+    "DZA": {
+      "label": "Algeria",
+      "vector": "v7117770",
+      "values": {
+        "2021": {
+          "amount": 21,
+          "status": ""
+        },
+        "2022": {
+          "amount": 12,
+          "status": ""
+        },
+        "2023": {
+          "amount": 19,
+          "status": ""
+        },
+        "2024": {
+          "amount": 4,
+          "status": ""
+        },
+        "2025": {
+          "amount": 5,
+          "status": ""
+        }
+      }
+    },
+    "ECU": {
+      "label": "Ecuador",
+      "vector": "v7117711",
+      "values": {
+        "2021": {
+          "amount": 2326,
+          "status": ""
+        },
+        "2022": {
+          "amount": 3608,
+          "status": ""
+        },
+        "2023": {
+          "amount": 3843,
+          "status": ""
+        },
+        "2024": {
+          "amount": 5160,
+          "status": ""
+        },
+        "2025": {
+          "amount": 4977,
+          "status": ""
+        }
+      }
+    },
+    "EGY": {
+      "label": "Egypt",
+      "vector": "v7117779",
+      "values": {
+        "2021": {
+          "amount": 31,
+          "status": ""
+        },
+        "2022": {
+          "amount": 22,
+          "status": ""
+        },
+        "2023": {
+          "amount": 46,
+          "status": ""
+        },
+        "2024": {
+          "amount": 51,
+          "status": ""
+        },
+        "2025": {
+          "amount": 50,
+          "status": ""
+        }
+      }
+    },
+    "ERI": {
+      "label": "Eritrea",
+      "vector": "v7117780",
+      "values": {
+        "2021": {
+          "amount": 363,
+          "status": ""
+        },
+        "2022": {
+          "amount": null,
+          "status": ".."
+        },
+        "2023": {
+          "amount": null,
+          "status": ".."
+        },
+        "2024": {
+          "amount": null,
+          "status": ".."
+        },
+        "2025": {
+          "amount": null,
+          "status": ".."
+        }
+      }
+    },
+    "ESP": {
+      "label": "Spain",
+      "vector": "v7117760",
+      "values": {
+        "2021": {
+          "amount": 6423,
+          "status": ""
+        },
+        "2022": {
+          "amount": 7075,
+          "status": ""
+        },
+        "2023": {
+          "amount": 11061,
+          "status": ""
+        },
+        "2024": {
+          "amount": 9388,
+          "status": ""
+        },
+        "2025": {
+          "amount": 11335,
+          "status": ""
+        }
+      }
+    },
+    "EST": {
+      "label": "Estonia",
+      "vector": "v7117735",
+      "values": {
+        "2021": {
+          "amount": 27,
+          "status": ""
+        },
+        "2022": {
+          "amount": 34,
+          "status": ""
+        },
+        "2023": {
+          "amount": 2,
+          "status": ""
+        },
+        "2024": {
+          "amount": 2,
+          "status": ""
+        },
+        "2025": {
+          "amount": 2,
+          "status": ""
+        }
+      }
+    },
+    "ETH": {
+      "label": "Ethiopia",
+      "vector": "v7117781",
+      "values": {
+        "2021": {
+          "amount": 5,
+          "status": ""
+        },
+        "2022": {
+          "amount": 6,
+          "status": ""
+        },
+        "2023": {
+          "amount": 8,
+          "status": ""
+        },
+        "2024": {
+          "amount": 200,
+          "status": ""
+        },
+        "2025": {
+          "amount": 200,
+          "status": ""
+        }
+      }
+    },
+    "FIN": {
+      "label": "Finland",
+      "vector": "v7117736",
+      "values": {
+        "2021": {
+          "amount": 3070,
+          "status": ""
+        },
+        "2022": {
+          "amount": 3728,
+          "status": ""
+        },
+        "2023": {
+          "amount": 3361,
+          "status": ""
+        },
+        "2024": {
+          "amount": 3773,
+          "status": ""
+        },
+        "2025": {
+          "amount": 4120,
+          "status": ""
+        }
+      }
+    },
+    "FRA": {
+      "label": "France",
+      "vector": "v7117737",
+      "values": {
+        "2021": {
+          "amount": 14015,
+          "status": ""
+        },
+        "2022": {
+          "amount": 11225,
+          "status": ""
+        },
+        "2023": {
+          "amount": 12190,
+          "status": ""
+        },
+        "2024": {
+          "amount": 13471,
+          "status": ""
+        },
+        "2025": {
+          "amount": 14095,
+          "status": ""
+        }
+      }
+    },
+    "GAB": {
+      "label": "Gabon",
+      "vector": "v7117782",
+      "values": {
+        "2021": {
+          "amount": 1,
+          "status": ""
+        },
+        "2022": {
+          "amount": 130,
+          "status": ""
+        },
+        "2023": {
+          "amount": 8,
+          "status": ""
+        },
+        "2024": {
+          "amount": 8,
+          "status": ""
+        },
+        "2025": {
+          "amount": 8,
+          "status": ""
+        }
+      }
+    },
+    "GBR": {
+      "label": "United Kingdom",
+      "vector": "v7117767",
+      "values": {
+        "2021": {
+          "amount": 99650,
+          "status": ""
+        },
+        "2022": {
+          "amount": 113270,
+          "status": ""
+        },
+        "2023": {
+          "amount": 108160,
+          "status": ""
+        },
+        "2024": {
+          "amount": 127890,
+          "status": ""
+        },
+        "2025": {
+          "amount": 141467,
+          "status": ""
+        }
+      }
+    },
+    "GEO": {
+      "label": "Georgia",
+      "vector": "v7117738",
+      "values": {
+        "2021": {
+          "amount": null,
+          "status": ".."
+        },
+        "2022": {
+          "amount": -6,
+          "status": ""
+        },
+        "2023": {
+          "amount": null,
+          "status": ".."
+        },
+        "2024": {
+          "amount": 3,
+          "status": ""
+        },
+        "2025": {
+          "amount": 7,
+          "status": ""
+        }
+      }
+    },
+    "GGY": {
+      "label": "Guernsey",
+      "vector": "v1271725711",
+      "values": {
+        "2021": {
+          "amount": 2851,
+          "status": ""
+        },
+        "2022": {
+          "amount": 3623,
+          "status": ""
+        },
+        "2023": {
+          "amount": 3166,
+          "status": ""
+        },
+        "2024": {
+          "amount": 2324,
+          "status": ""
+        },
+        "2025": {
+          "amount": 828,
+          "status": ""
+        }
+      }
+    },
+    "GHA": {
+      "label": "Ghana",
+      "vector": "v7117784",
+      "values": {
+        "2021": {
+          "amount": -158,
+          "status": ""
+        },
+        "2022": {
+          "amount": 434,
+          "status": ""
+        },
+        "2023": {
+          "amount": 52,
+          "status": ""
+        },
+        "2024": {
+          "amount": 452,
+          "status": ""
+        },
+        "2025": {
+          "amount": 501,
+          "status": ""
+        }
+      }
+    },
+    "GIN": {
+      "label": "Guinea",
+      "vector": "v7117785",
+      "values": {
+        "2021": {
+          "amount": 3,
+          "status": ""
+        },
+        "2022": {
+          "amount": 21,
+          "status": ""
+        },
+        "2023": {
+          "amount": 76,
+          "status": ""
+        },
+        "2024": {
+          "amount": 161,
+          "status": ""
+        },
+        "2025": {
+          "amount": 154,
+          "status": ""
+        }
+      }
+    },
+    "GMB": {
+      "label": "Gambia",
+      "vector": "v7117783",
+      "values": {
+        "2021": {
+          "amount": 21,
+          "status": ""
+        },
+        "2022": {
+          "amount": 1,
+          "status": ""
+        },
+        "2023": {
+          "amount": null,
+          "status": ".."
+        },
+        "2024": {
+          "amount": null,
+          "status": ".."
+        },
+        "2025": {
+          "amount": null,
+          "status": ".."
+        }
+      }
+    },
+    "GRC": {
+      "label": "Greece",
+      "vector": "v7117741",
+      "values": {
+        "2021": {
+          "amount": 200,
+          "status": ""
+        },
+        "2022": {
+          "amount": 200,
+          "status": ""
+        },
+        "2023": {
+          "amount": 123,
+          "status": ""
+        },
+        "2024": {
+          "amount": 70,
+          "status": ""
+        },
+        "2025": {
+          "amount": 77,
+          "status": ""
+        }
+      }
+    },
+    "GRD": {
+      "label": "Grenada",
+      "vector": "v7117694",
+      "values": {
+        "2021": {
+          "amount": 1,
+          "status": ""
+        },
+        "2022": {
+          "amount": null,
+          "status": ".."
+        },
+        "2023": {
+          "amount": -153,
+          "status": ""
+        },
+        "2024": {
+          "amount": -155,
+          "status": ""
+        },
+        "2025": {
+          "amount": -155,
+          "status": ""
+        }
+      }
+    },
+    "GTM": {
+      "label": "Guatemala",
+      "vector": "v7117714",
+      "values": {
+        "2021": {
+          "amount": 184,
+          "status": ""
+        },
+        "2022": {
+          "amount": 235,
+          "status": ""
+        },
+        "2023": {
+          "amount": 125,
+          "status": ""
+        },
+        "2024": {
+          "amount": 91,
+          "status": ""
+        },
+        "2025": {
+          "amount": 88,
+          "status": ""
+        }
+      }
+    },
+    "GUF": {
+      "label": "French Guiana",
+      "vector": "v7117713",
+      "values": {
+        "2021": {
+          "amount": 227,
+          "status": ""
+        },
+        "2022": {
+          "amount": 284,
+          "status": ""
+        },
+        "2023": {
+          "amount": 296,
+          "status": ""
+        },
+        "2024": {
+          "amount": 370,
+          "status": ""
+        },
+        "2025": {
+          "amount": 351,
+          "status": ""
+        }
+      }
+    },
+    "GUY": {
+      "label": "Guyana",
+      "vector": "v7117715",
+      "values": {
+        "2021": {
+          "amount": 597,
+          "status": ""
+        },
+        "2022": {
+          "amount": 304,
+          "status": ""
+        },
+        "2023": {
+          "amount": 166,
+          "status": ""
+        },
+        "2024": {
+          "amount": 421,
+          "status": ""
+        },
+        "2025": {
+          "amount": 435,
+          "status": ""
+        }
+      }
+    },
+    "HKG": {
+      "label": "Hong Kong",
+      "vector": "v7117823",
+      "values": {
+        "2021": {
+          "amount": 26658,
+          "status": ""
+        },
+        "2022": {
+          "amount": 26688,
+          "status": ""
+        },
+        "2023": {
+          "amount": 26421,
+          "status": ""
+        },
+        "2024": {
+          "amount": 27211,
+          "status": ""
+        },
+        "2025": {
+          "amount": 26604,
+          "status": ""
+        }
+      }
+    },
+    "HND": {
+      "label": "Honduras",
+      "vector": "v7117716",
+      "values": {
+        "2021": {
+          "amount": 14,
+          "status": ""
+        },
+        "2022": {
+          "amount": 7,
+          "status": ""
+        },
+        "2023": {
+          "amount": 22,
+          "status": ""
+        },
+        "2024": {
+          "amount": 23,
+          "status": ""
+        },
+        "2025": {
+          "amount": 22,
+          "status": ""
+        }
+      }
+    },
+    "HRV": {
+      "label": "Croatia",
+      "vector": "v7117730",
+      "values": {
+        "2021": {
+          "amount": null,
+          "status": ".."
+        },
+        "2022": {
+          "amount": -11,
+          "status": ""
+        },
+        "2023": {
+          "amount": 15,
+          "status": ""
+        },
+        "2024": {
+          "amount": 14,
+          "status": ""
+        },
+        "2025": {
+          "amount": 15,
+          "status": ""
+        }
+      }
+    },
+    "HTI": {
+      "label": "Haiti",
+      "vector": "v7117696",
+      "values": {
+        "2021": {
+          "amount": 14,
+          "status": ""
+        },
+        "2022": {
+          "amount": 12,
+          "status": ""
+        },
+        "2023": {
+          "amount": 9,
+          "status": ""
+        },
+        "2024": {
+          "amount": 11,
+          "status": ""
+        },
+        "2025": {
+          "amount": 11,
+          "status": ""
+        }
+      }
+    },
+    "HUN": {
+      "label": "Hungary",
+      "vector": "v7117742",
+      "values": {
+        "2021": {
+          "amount": 27865,
+          "status": ""
+        },
+        "2022": {
+          "amount": 25371,
+          "status": ""
+        },
+        "2023": {
+          "amount": 11664,
+          "status": ""
+        },
+        "2024": {
+          "amount": 4382,
+          "status": ""
+        },
+        "2025": {
+          "amount": 5290,
+          "status": ""
+        }
+      }
+    },
+    "IDN": {
+      "label": "Indonesia",
+      "vector": "v7117825",
+      "values": {
+        "2021": {
+          "amount": 6328,
+          "status": ""
+        },
+        "2022": {
+          "amount": 6293,
+          "status": ""
+        },
+        "2023": {
+          "amount": 4694,
+          "status": ""
+        },
+        "2024": {
+          "amount": 4731,
+          "status": ""
+        },
+        "2025": {
+          "amount": 4468,
+          "status": ""
+        }
+      }
+    },
+    "IMN": {
+      "label": "Isle of Man",
+      "vector": "v1271725721",
+      "values": {
+        "2021": {
+          "amount": 2239,
+          "status": ""
+        },
+        "2022": {
+          "amount": 2034,
+          "status": ""
+        },
+        "2023": {
+          "amount": 2489,
+          "status": ""
+        },
+        "2024": {
+          "amount": 2514,
+          "status": ""
+        },
+        "2025": {
+          "amount": 2523,
+          "status": ""
+        }
+      }
+    },
+    "IND": {
+      "label": "India",
+      "vector": "v7117824",
+      "values": {
+        "2021": {
+          "amount": 3677,
+          "status": ""
+        },
+        "2022": {
+          "amount": 3938,
+          "status": ""
+        },
+        "2023": {
+          "amount": 7661,
+          "status": ""
+        },
+        "2024": {
+          "amount": 9246,
+          "status": ""
+        },
+        "2025": {
+          "amount": 11419,
+          "status": ""
+        }
+      }
+    },
+    "IRL": {
+      "label": "Ireland",
+      "vector": "v7117744",
+      "values": {
+        "2021": {
+          "amount": 13076,
+          "status": ""
+        },
+        "2022": {
+          "amount": 13748,
+          "status": ""
+        },
+        "2023": {
+          "amount": 23335,
+          "status": ""
+        },
+        "2024": {
+          "amount": 22153,
+          "status": ""
+        },
+        "2025": {
+          "amount": 26056,
+          "status": ""
+        }
+      }
+    },
+    "IRN": {
+      "label": "Iran",
+      "vector": "v7117827",
+      "values": {
+        "2021": {
+          "amount": 9,
+          "status": ""
+        },
+        "2022": {
+          "amount": 5,
+          "status": ""
+        },
+        "2023": {
+          "amount": 5,
+          "status": ""
+        },
+        "2024": {
+          "amount": 5,
+          "status": ""
+        },
+        "2025": {
+          "amount": 5,
+          "status": ""
+        }
+      }
+    },
+    "IRQ": {
+      "label": "Iraq",
+      "vector": "v7117826",
+      "values": {
+        "2021": {
+          "amount": 2,
+          "status": ""
+        },
+        "2022": {
+          "amount": 2,
+          "status": ""
+        },
+        "2023": {
+          "amount": null,
+          "status": ".."
+        },
+        "2024": {
+          "amount": null,
+          "status": ".."
+        },
+        "2025": {
+          "amount": null,
+          "status": ".."
+        }
+      }
+    },
+    "ISL": {
+      "label": "Iceland",
+      "vector": "v7117743",
+      "values": {
+        "2021": {
+          "amount": 4889,
+          "status": ""
+        },
+        "2022": {
+          "amount": 4,
+          "status": ""
+        },
+        "2023": {
+          "amount": 4,
+          "status": ""
+        },
+        "2024": {
+          "amount": 4,
+          "status": ""
+        },
+        "2025": {
+          "amount": 4,
+          "status": ""
+        }
+      }
+    },
+    "ISR": {
+      "label": "Israel",
+      "vector": "v7117828",
+      "values": {
+        "2021": {
+          "amount": 1250,
+          "status": ""
+        },
+        "2022": {
+          "amount": 1607,
+          "status": ""
+        },
+        "2023": {
+          "amount": 1414,
+          "status": ""
+        },
+        "2024": {
+          "amount": 1833,
+          "status": ""
+        },
+        "2025": {
+          "amount": 2766,
+          "status": ""
+        }
+      }
+    },
+    "ITA": {
+      "label": "Italy",
+      "vector": "v7117745",
+      "values": {
+        "2021": {
+          "amount": 1695,
+          "status": ""
+        },
+        "2022": {
+          "amount": 1736,
+          "status": ""
+        },
+        "2023": {
+          "amount": 1971,
+          "status": ""
+        },
+        "2024": {
+          "amount": 4490,
+          "status": ""
+        },
+        "2025": {
+          "amount": 5130,
+          "status": ""
+        }
+      }
+    },
+    "JAM": {
+      "label": "Jamaica",
+      "vector": "v7117697",
+      "values": {
+        "2021": {
+          "amount": 47,
+          "status": ""
+        },
+        "2022": {
+          "amount": 79,
+          "status": ""
+        },
+        "2023": {
+          "amount": 209,
+          "status": ""
+        },
+        "2024": {
+          "amount": 213,
+          "status": ""
+        },
+        "2025": {
+          "amount": 378,
+          "status": ""
+        }
+      }
+    },
+    "JEY": {
+      "label": "Jersey",
+      "vector": "v1271725731",
+      "values": {
+        "2021": {
+          "amount": 28957,
+          "status": ""
+        },
+        "2022": {
+          "amount": 27068,
+          "status": ""
+        },
+        "2023": {
+          "amount": 28063,
+          "status": ""
+        },
+        "2024": {
+          "amount": 26922,
+          "status": ""
+        },
+        "2025": {
+          "amount": 28485,
+          "status": ""
+        }
+      }
+    },
+    "JOR": {
+      "label": "Jordan",
+      "vector": "v7117830",
+      "values": {
+        "2021": {
+          "amount": 7,
+          "status": ""
+        },
+        "2022": {
+          "amount": 1,
+          "status": ""
+        },
+        "2023": {
+          "amount": 5,
+          "status": ""
+        },
+        "2024": {
+          "amount": 6,
+          "status": ""
+        },
+        "2025": {
+          "amount": 6,
+          "status": ""
+        }
+      }
+    },
+    "JPN": {
+      "label": "Japan",
+      "vector": "v7117829",
+      "values": {
+        "2021": {
+          "amount": 4755,
+          "status": ""
+        },
+        "2022": {
+          "amount": 4597,
+          "status": ""
+        },
+        "2023": {
+          "amount": 5251,
+          "status": ""
+        },
+        "2024": {
+          "amount": 5351,
+          "status": ""
+        },
+        "2025": {
+          "amount": 5840,
+          "status": ""
+        }
+      }
+    },
+    "KAZ": {
+      "label": "Kazakhstan",
+      "vector": "v7117831",
+      "values": {
+        "2021": {
+          "amount": 1198,
+          "status": ""
+        },
+        "2022": {
+          "amount": 2696,
+          "status": ""
+        },
+        "2023": {
+          "amount": 1563,
+          "status": ""
+        },
+        "2024": {
+          "amount": 616,
+          "status": ""
+        },
+        "2025": {
+          "amount": 1590,
+          "status": ""
+        }
+      }
+    },
+    "KEN": {
+      "label": "Kenya",
+      "vector": "v7117788",
+      "values": {
+        "2021": {
+          "amount": 125,
+          "status": ""
+        },
+        "2022": {
+          "amount": 90,
+          "status": ""
+        },
+        "2023": {
+          "amount": 39,
+          "status": ""
+        },
+        "2024": {
+          "amount": 43,
+          "status": ""
+        },
+        "2025": {
+          "amount": 38,
+          "status": ""
+        }
+      }
+    },
+    "KGZ": {
+      "label": "Kyrgyzstan",
+      "vector": "v7117834",
+      "values": {
+        "2021": {
+          "amount": 254,
+          "status": ""
+        },
+        "2022": {
+          "amount": 36,
+          "status": ""
+        },
+        "2023": {
+          "amount": 29,
+          "status": ""
+        },
+        "2024": {
+          "amount": 32,
+          "status": ""
+        },
+        "2025": {
+          "amount": 32,
+          "status": ""
+        }
+      }
+    },
+    "KHM": {
+      "label": "Cambodia",
+      "vector": "v7117822",
+      "values": {
+        "2021": {
+          "amount": 1338,
+          "status": ""
+        },
+        "2022": {
+          "amount": 1712,
+          "status": ""
+        },
+        "2023": {
+          "amount": 2242,
+          "status": ""
+        },
+        "2024": {
+          "amount": 3208,
+          "status": ""
+        },
+        "2025": {
+          "amount": 3812,
+          "status": ""
+        }
+      }
+    },
+    "KOR": {
+      "label": "South Korea",
+      "vector": "v7117850",
+      "values": {
+        "2021": {
+          "amount": 2578,
+          "status": ""
+        },
+        "2022": {
+          "amount": 2323,
+          "status": ""
+        },
+        "2023": {
+          "amount": 2324,
+          "status": ""
+        },
+        "2024": {
+          "amount": 2657,
+          "status": ""
+        },
+        "2025": {
+          "amount": 3790,
+          "status": ""
+        }
+      }
+    },
+    "KWT": {
+      "label": "Kuwait",
+      "vector": "v7117833",
+      "values": {
+        "2021": {
+          "amount": 1,
+          "status": ""
+        },
+        "2022": {
+          "amount": -17,
+          "status": ""
+        },
+        "2023": {
+          "amount": null,
+          "status": ".."
+        },
+        "2024": {
+          "amount": null,
+          "status": ".."
+        },
+        "2025": {
+          "amount": null,
+          "status": ".."
+        }
+      }
+    },
+    "LBN": {
+      "label": "Lebanon",
+      "vector": "v7117835",
+      "values": {
+        "2021": {
+          "amount": null,
+          "status": ".."
+        },
+        "2022": {
+          "amount": 1,
+          "status": ""
+        },
+        "2023": {
+          "amount": 1,
+          "status": ""
+        },
+        "2024": {
+          "amount": 7,
+          "status": ""
+        },
+        "2025": {
+          "amount": 7,
+          "status": ""
+        }
+      }
+    },
+    "LBR": {
+      "label": "Liberia",
+      "vector": "v7117790",
+      "values": {
+        "2021": {
+          "amount": null,
+          "status": ".."
+        },
+        "2022": {
+          "amount": 2,
+          "status": ""
+        },
+        "2023": {
+          "amount": 3,
+          "status": ""
+        },
+        "2024": {
+          "amount": 3,
+          "status": ""
+        },
+        "2025": {
+          "amount": 3,
+          "status": ""
+        }
+      }
+    },
+    "LBY": {
+      "label": "Libya",
+      "vector": "v7117791",
+      "values": {
+        "2021": {
+          "amount": 1,
+          "status": ""
+        },
+        "2022": {
+          "amount": 3,
+          "status": ""
+        },
+        "2023": {
+          "amount": 3,
+          "status": ""
+        },
+        "2024": {
+          "amount": 2,
+          "status": ""
+        },
+        "2025": {
+          "amount": 2,
+          "status": ""
+        }
+      }
+    },
+    "LCA": {
+      "label": "Saint Lucia",
+      "vector": "v7117700",
+      "values": {
+        "2021": {
+          "amount": 87,
+          "status": ""
+        },
+        "2022": {
+          "amount": 83,
+          "status": ""
+        },
+        "2023": {
+          "amount": 138,
+          "status": ""
+        },
+        "2024": {
+          "amount": 141,
+          "status": ""
+        },
+        "2025": {
+          "amount": 129,
+          "status": ""
+        }
+      }
+    },
+    "LIE": {
+      "label": "Liechtenstein",
+      "vector": "v7117747",
+      "values": {
+        "2021": {
+          "amount": -20,
+          "status": ""
+        },
+        "2022": {
+          "amount": -16,
+          "status": ""
+        },
+        "2023": {
+          "amount": null,
+          "status": ".."
+        },
+        "2024": {
+          "amount": null,
+          "status": ".."
+        },
+        "2025": {
+          "amount": null,
+          "status": ".."
+        }
+      }
+    },
+    "LKA": {
+      "label": "Sri Lanka",
+      "vector": "v7117851",
+      "values": {
+        "2021": {
+          "amount": -10,
+          "status": ""
+        },
+        "2022": {
+          "amount": 161,
+          "status": ""
+        },
+        "2023": {
+          "amount": 229,
+          "status": ""
+        },
+        "2024": {
+          "amount": 303,
+          "status": ""
+        },
+        "2025": {
+          "amount": 234,
+          "status": ""
+        }
+      }
+    },
+    "LSO": {
+      "label": "Lesotho",
+      "vector": "v7117789",
+      "values": {
+        "2021": {
+          "amount": null,
+          "status": ".."
+        },
+        "2022": {
+          "amount": 1,
+          "status": ""
+        },
+        "2023": {
+          "amount": 7,
+          "status": ""
+        },
+        "2024": {
+          "amount": 6,
+          "status": ""
+        },
+        "2025": {
+          "amount": 6,
+          "status": ""
+        }
+      }
+    },
+    "LTU": {
+      "label": "Lithuania",
+      "vector": "v7117748",
+      "values": {
+        "2021": {
+          "amount": 7,
+          "status": ""
+        },
+        "2022": {
+          "amount": 4,
+          "status": ""
+        },
+        "2023": {
+          "amount": 7,
+          "status": ""
+        },
+        "2024": {
+          "amount": 11,
+          "status": ""
+        },
+        "2025": {
+          "amount": 11,
+          "status": ""
+        }
+      }
+    },
+    "LUX": {
+      "label": "Luxembourg",
+      "vector": "v7117749",
+      "values": {
+        "2021": {
+          "amount": 95497,
+          "status": ""
+        },
+        "2022": {
+          "amount": 90392,
+          "status": ""
+        },
+        "2023": {
+          "amount": 93910,
+          "status": ""
+        },
+        "2024": {
+          "amount": 107582,
+          "status": ""
+        },
+        "2025": {
+          "amount": 107950,
+          "status": ""
+        }
+      }
+    },
+    "LVA": {
+      "label": "Latvia",
+      "vector": "v7117746",
+      "values": {
+        "2021": {
+          "amount": 3,
+          "status": ""
+        },
+        "2022": {
+          "amount": 2,
+          "status": ""
+        },
+        "2023": {
+          "amount": null,
+          "status": ".."
+        },
+        "2024": {
+          "amount": null,
+          "status": ".."
+        },
+        "2025": {
+          "amount": null,
+          "status": ".."
+        }
+      }
+    },
+    "MAC": {
+      "label": "Macao",
+      "vector": "v7117836",
+      "values": {
+        "2021": {
+          "amount": 7,
+          "status": ""
+        },
+        "2022": {
+          "amount": 17,
+          "status": ""
+        },
+        "2023": {
+          "amount": 6,
+          "status": ""
+        },
+        "2024": {
+          "amount": 2,
+          "status": ""
+        },
+        "2025": {
+          "amount": 2,
+          "status": ""
+        }
+      }
+    },
+    "MAR": {
+      "label": "Morocco",
+      "vector": "v7117797",
+      "values": {
+        "2021": {
+          "amount": 82,
+          "status": ""
+        },
+        "2022": {
+          "amount": 141,
+          "status": ""
+        },
+        "2023": {
+          "amount": 243,
+          "status": ""
+        },
+        "2024": {
+          "amount": 348,
+          "status": ""
+        },
+        "2025": {
+          "amount": 367,
+          "status": ""
+        }
+      }
+    },
+    "MCO": {
+      "label": "Monaco",
+      "vector": "v7117751",
+      "values": {
+        "2021": {
+          "amount": -12,
+          "status": ""
+        },
+        "2022": {
+          "amount": -7,
+          "status": ""
+        },
+        "2023": {
+          "amount": 2,
+          "status": ""
+        },
+        "2024": {
+          "amount": 2,
+          "status": ""
+        },
+        "2025": {
+          "amount": 2,
+          "status": ""
+        }
+      }
+    },
+    "MDG": {
+      "label": "Madagascar",
+      "vector": "v7117792",
+      "values": {
+        "2021": {
+          "amount": 58,
+          "status": ""
+        },
+        "2022": {
+          "amount": 76,
+          "status": ""
+        },
+        "2023": {
+          "amount": 55,
+          "status": ""
+        },
+        "2024": {
+          "amount": 53,
+          "status": ""
+        },
+        "2025": {
+          "amount": 42,
+          "status": ""
+        }
+      }
+    },
+    "MEX": {
+      "label": "Mexico",
+      "vector": "v7117698",
+      "values": {
+        "2021": {
+          "amount": 29307,
+          "status": ""
+        },
+        "2022": {
+          "amount": 34700,
+          "status": ""
+        },
+        "2023": {
+          "amount": 48054,
+          "status": ""
+        },
+        "2024": {
+          "amount": 51497,
+          "status": ""
+        },
+        "2025": {
+          "amount": 65968,
+          "status": ""
+        }
+      }
+    },
+    "MLI": {
+      "label": "Mali",
+      "vector": "v7117794",
+      "values": {
+        "2021": {
+          "amount": 1223,
+          "status": ""
+        },
+        "2022": {
+          "amount": 1515,
+          "status": ""
+        },
+        "2023": {
+          "amount": 1480,
+          "status": ""
+        },
+        "2024": {
+          "amount": 1391,
+          "status": ""
+        },
+        "2025": {
+          "amount": 2265,
+          "status": ""
+        }
+      }
+    },
+    "MLT": {
+      "label": "Malta",
+      "vector": "v7117750",
+      "values": {
+        "2021": {
+          "amount": -286,
+          "status": ""
+        },
+        "2022": {
+          "amount": -251,
+          "status": ""
+        },
+        "2023": {
+          "amount": 1241,
+          "status": ""
+        },
+        "2024": {
+          "amount": 2697,
+          "status": ""
+        },
+        "2025": {
+          "amount": 1852,
+          "status": ""
+        }
+      }
+    },
+    "MMR": {
+      "label": "Myanmar",
+      "vector": "v7117839",
+      "values": {
+        "2021": {
+          "amount": 1,
+          "status": ""
+        },
+        "2022": {
+          "amount": -2,
+          "status": ""
+        },
+        "2023": {
+          "amount": 1,
+          "status": ""
+        },
+        "2024": {
+          "amount": null,
+          "status": ".."
+        },
+        "2025": {
+          "amount": null,
+          "status": ".."
+        }
+      }
+    },
+    "MNG": {
+      "label": "Mongolia",
+      "vector": "v7117838",
+      "values": {
+        "2021": {
+          "amount": 394,
+          "status": ""
+        },
+        "2022": {
+          "amount": 244,
+          "status": ""
+        },
+        "2023": {
+          "amount": 340,
+          "status": ""
+        },
+        "2024": {
+          "amount": 652,
+          "status": ""
+        },
+        "2025": {
+          "amount": 783,
+          "status": ""
+        }
+      }
+    },
+    "MOZ": {
+      "label": "Mozambique",
+      "vector": "v7117798",
+      "values": {
+        "2021": {
+          "amount": 3,
+          "status": ""
+        },
+        "2022": {
+          "amount": -4,
+          "status": ""
+        },
+        "2023": {
+          "amount": 4,
+          "status": ""
+        },
+        "2024": {
+          "amount": 3,
+          "status": ""
+        },
+        "2025": {
+          "amount": 4,
+          "status": ""
+        }
+      }
+    },
+    "MRT": {
+      "label": "Mauritania",
+      "vector": "v7117795",
+      "values": {
+        "2021": {
+          "amount": -27,
+          "status": ""
+        },
+        "2022": {
+          "amount": -1520,
+          "status": ""
+        },
+        "2023": {
+          "amount": -1161,
+          "status": ""
+        },
+        "2024": {
+          "amount": -1194,
+          "status": ""
+        },
+        "2025": {
+          "amount": -695,
+          "status": ""
+        }
+      }
+    },
+    "MUS": {
+      "label": "Mauritius",
+      "vector": "v7117796",
+      "values": {
+        "2021": {
+          "amount": 5174,
+          "status": ""
+        },
+        "2022": {
+          "amount": 5028,
+          "status": ""
+        },
+        "2023": {
+          "amount": 5287,
+          "status": ""
+        },
+        "2024": {
+          "amount": 5820,
+          "status": ""
+        },
+        "2025": {
+          "amount": 5847,
+          "status": ""
+        }
+      }
+    },
+    "MWI": {
+      "label": "Malawi",
+      "vector": "v7117793",
+      "values": {
+        "2021": {
+          "amount": -1,
+          "status": ""
+        },
+        "2022": {
+          "amount": 1,
+          "status": ""
+        },
+        "2023": {
+          "amount": null,
+          "status": ".."
+        },
+        "2024": {
+          "amount": null,
+          "status": ".."
+        },
+        "2025": {
+          "amount": null,
+          "status": ".."
+        }
+      }
+    },
+    "MYS": {
+      "label": "Malaysia",
+      "vector": "v7117837",
+      "values": {
+        "2021": {
+          "amount": 1338,
+          "status": ""
+        },
+        "2022": {
+          "amount": 1449,
+          "status": ""
+        },
+        "2023": {
+          "amount": 1242,
+          "status": ""
+        },
+        "2024": {
+          "amount": 1423,
+          "status": ""
+        },
+        "2025": {
+          "amount": 1725,
+          "status": ""
+        }
+      }
+    },
+    "NAM": {
+      "label": "Namibia",
+      "vector": "v7117799",
+      "values": {
+        "2021": {
+          "amount": 1728,
+          "status": ""
+        },
+        "2022": {
+          "amount": 1033,
+          "status": ""
+        },
+        "2023": {
+          "amount": 654,
+          "status": ""
+        },
+        "2024": {
+          "amount": 745,
+          "status": ""
+        },
+        "2025": {
+          "amount": 1142,
+          "status": ""
+        }
+      }
+    },
+    "NER": {
+      "label": "Niger",
+      "vector": "v7117800",
+      "values": {
+        "2021": {
+          "amount": 85,
+          "status": ""
+        },
+        "2022": {
+          "amount": 101,
+          "status": ""
+        },
+        "2023": {
+          "amount": 127,
+          "status": ""
+        },
+        "2024": {
+          "amount": 91,
+          "status": ""
+        },
+        "2025": {
+          "amount": 97,
+          "status": ""
+        }
+      }
+    },
+    "NGA": {
+      "label": "Nigeria",
+      "vector": "v7117801",
+      "values": {
+        "2021": {
+          "amount": -27,
+          "status": ""
+        },
+        "2022": {
+          "amount": 82,
+          "status": ""
+        },
+        "2023": {
+          "amount": 2,
+          "status": ""
+        },
+        "2024": {
+          "amount": 2,
+          "status": ""
+        },
+        "2025": {
+          "amount": 4,
+          "status": ""
+        }
+      }
+    },
+    "NIC": {
+      "label": "Nicaragua",
+      "vector": "v7117717",
+      "values": {
+        "2021": {
+          "amount": 756,
+          "status": ""
+        },
+        "2022": {
+          "amount": 110,
+          "status": ""
+        },
+        "2023": {
+          "amount": 63,
+          "status": ""
+        },
+        "2024": {
+          "amount": 28,
+          "status": ""
+        },
+        "2025": {
+          "amount": 27,
+          "status": ""
+        }
+      }
+    },
+    "NLD": {
+      "label": "Netherlands",
+      "vector": "v7117752",
+      "values": {
+        "2021": {
+          "amount": 58591,
+          "status": ""
+        },
+        "2022": {
+          "amount": 76665,
+          "status": ""
+        },
+        "2023": {
+          "amount": 75168,
+          "status": ""
+        },
+        "2024": {
+          "amount": 82833,
+          "status": ""
+        },
+        "2025": {
+          "amount": 90955,
+          "status": ""
+        }
+      }
+    },
+    "NOR": {
+      "label": "Norway",
+      "vector": "v7117753",
+      "values": {
+        "2021": {
+          "amount": 86,
+          "status": ""
+        },
+        "2022": {
+          "amount": 1077,
+          "status": ""
+        },
+        "2023": {
+          "amount": 882,
+          "status": ""
+        },
+        "2024": {
+          "amount": 1003,
+          "status": ""
+        },
+        "2025": {
+          "amount": 649,
+          "status": ""
+        }
+      }
+    },
+    "NZL": {
+      "label": "New Zealand",
+      "vector": "v7117841",
+      "values": {
+        "2021": {
+          "amount": 1746,
+          "status": ""
+        },
+        "2022": {
+          "amount": 1843,
+          "status": ""
+        },
+        "2023": {
+          "amount": 1958,
+          "status": ""
+        },
+        "2024": {
+          "amount": 2718,
+          "status": ""
+        },
+        "2025": {
+          "amount": 3468,
+          "status": ""
+        }
+      }
+    },
+    "OMN": {
+      "label": "Oman",
+      "vector": "v7117842",
+      "values": {
+        "2021": {
+          "amount": 307,
+          "status": ""
+        },
+        "2022": {
+          "amount": 363,
+          "status": ""
+        },
+        "2023": {
+          "amount": 358,
+          "status": ""
+        },
+        "2024": {
+          "amount": 89,
+          "status": ""
+        },
+        "2025": {
+          "amount": 93,
+          "status": ""
+        }
+      }
+    },
+    "PAK": {
+      "label": "Pakistan",
+      "vector": "v7117843",
+      "values": {
+        "2021": {
+          "amount": -1,
+          "status": ""
+        },
+        "2022": {
+          "amount": 252,
+          "status": ""
+        },
+        "2023": {
+          "amount": 245,
+          "status": ""
+        },
+        "2024": {
+          "amount": 498,
+          "status": ""
+        },
+        "2025": {
+          "amount": 493,
+          "status": ""
+        }
+      }
+    },
+    "PAN": {
+      "label": "Panama",
+      "vector": "v7117718",
+      "values": {
+        "2021": {
+          "amount": 3446,
+          "status": ""
+        },
+        "2022": {
+          "amount": 4371,
+          "status": ""
+        },
+        "2023": {
+          "amount": 5461,
+          "status": ""
+        },
+        "2024": {
+          "amount": 5583,
+          "status": ""
+        },
+        "2025": {
+          "amount": 5388,
+          "status": ""
+        }
+      }
+    },
+    "PER": {
+      "label": "Peru",
+      "vector": "v7117720",
+      "values": {
+        "2021": {
+          "amount": 17233,
+          "status": ""
+        },
+        "2022": {
+          "amount": 15322,
+          "status": ""
+        },
+        "2023": {
+          "amount": 13279,
+          "status": ""
+        },
+        "2024": {
+          "amount": 17779,
+          "status": ""
+        },
+        "2025": {
+          "amount": 19069,
+          "status": ""
+        }
+      }
+    },
+    "PHL": {
+      "label": "Philippines",
+      "vector": "v7117846",
+      "values": {
+        "2021": {
+          "amount": 963,
+          "status": ""
+        },
+        "2022": {
+          "amount": 979,
+          "status": ""
+        },
+        "2023": {
+          "amount": 939,
+          "status": ""
+        },
+        "2024": {
+          "amount": 1182,
+          "status": ""
+        },
+        "2025": {
+          "amount": 1702,
+          "status": ""
+        }
+      }
+    },
+    "PNG": {
+      "label": "Papua New Guinea",
+      "vector": "v7117844",
+      "values": {
+        "2021": {
+          "amount": 85,
+          "status": ""
+        },
+        "2022": {
+          "amount": 94,
+          "status": ""
+        },
+        "2023": {
+          "amount": 322,
+          "status": ""
+        },
+        "2024": {
+          "amount": 452,
+          "status": ""
+        },
+        "2025": {
+          "amount": 493,
+          "status": ""
+        }
+      }
+    },
+    "POL": {
+      "label": "Poland",
+      "vector": "v7117754",
+      "values": {
+        "2021": {
+          "amount": 473,
+          "status": ""
+        },
+        "2022": {
+          "amount": 674,
+          "status": ""
+        },
+        "2023": {
+          "amount": 1597,
+          "status": ""
+        },
+        "2024": {
+          "amount": 1357,
+          "status": ""
+        },
+        "2025": {
+          "amount": 2064,
+          "status": ""
+        }
+      }
+    },
+    "PRT": {
+      "label": "Portugal",
+      "vector": "v7117755",
+      "values": {
+        "2021": {
+          "amount": 1696,
+          "status": ""
+        },
+        "2022": {
+          "amount": 1867,
+          "status": ""
+        },
+        "2023": {
+          "amount": 2064,
+          "status": ""
+        },
+        "2024": {
+          "amount": 1861,
+          "status": ""
+        },
+        "2025": {
+          "amount": 512,
+          "status": ""
+        }
+      }
+    },
+    "PRY": {
+      "label": "Paraguay",
+      "vector": "v7117719",
+      "values": {
+        "2021": {
+          "amount": 3,
+          "status": ""
+        },
+        "2022": {
+          "amount": 9,
+          "status": ""
+        },
+        "2023": {
+          "amount": 81,
+          "status": ""
+        },
+        "2024": {
+          "amount": 176,
+          "status": ""
+        },
+        "2025": {
+          "amount": 176,
+          "status": ""
+        }
+      }
+    },
+    "QAT": {
+      "label": "Qatar",
+      "vector": "v7117847",
+      "values": {
+        "2021": {
+          "amount": 4,
+          "status": ""
+        },
+        "2022": {
+          "amount": 3,
+          "status": ""
+        },
+        "2023": {
+          "amount": 1,
+          "status": ""
+        },
+        "2024": {
+          "amount": 4,
+          "status": ""
+        },
+        "2025": {
+          "amount": 4,
+          "status": ""
+        }
+      }
+    },
+    "ROU": {
+      "label": "Romania",
+      "vector": "v7117756",
+      "values": {
+        "2021": {
+          "amount": 176,
+          "status": ""
+        },
+        "2022": {
+          "amount": 461,
+          "status": ""
+        },
+        "2023": {
+          "amount": 300,
+          "status": ""
+        },
+        "2024": {
+          "amount": 294,
+          "status": ""
+        },
+        "2025": {
+          "amount": 275,
+          "status": ""
+        }
+      }
+    },
+    "RUS": {
+      "label": "Russian Federation",
+      "vector": "v7117757",
+      "values": {
+        "2021": {
+          "amount": -637,
+          "status": ""
+        },
+        "2022": {
+          "amount": 314,
+          "status": ""
+        },
+        "2023": {
+          "amount": 92,
+          "status": ""
+        },
+        "2024": {
+          "amount": 102,
+          "status": ""
+        },
+        "2025": {
+          "amount": 153,
+          "status": ""
+        }
+      }
+    },
+    "RWA": {
+      "label": "Rwanda",
+      "vector": "v7117802",
+      "values": {
+        "2021": {
+          "amount": 1,
+          "status": ""
+        },
+        "2022": {
+          "amount": 1,
+          "status": ""
+        },
+        "2023": {
+          "amount": null,
+          "status": ".."
+        },
+        "2024": {
+          "amount": null,
+          "status": ".."
+        },
+        "2025": {
+          "amount": null,
+          "status": ".."
+        }
+      }
+    },
+    "SAU": {
+      "label": "Saudi Arabia",
+      "vector": "v7117848",
+      "values": {
+        "2021": {
+          "amount": -11,
+          "status": ""
+        },
+        "2022": {
+          "amount": 32,
+          "status": ""
+        },
+        "2023": {
+          "amount": 12,
+          "status": ""
+        },
+        "2024": {
+          "amount": 17,
+          "status": ""
+        },
+        "2025": {
+          "amount": 40,
+          "status": ""
+        }
+      }
+    },
+    "SDN": {
+      "label": "Sudan",
+      "vector": "v7117807",
+      "values": {
+        "2021": {
+          "amount": null,
+          "status": ".."
+        },
+        "2022": {
+          "amount": null,
+          "status": ".."
+        },
+        "2023": {
+          "amount": null,
+          "status": ".."
+        },
+        "2024": {
+          "amount": -9,
+          "status": ""
+        },
+        "2025": {
+          "amount": -9,
+          "status": ""
+        }
+      }
+    },
+    "SEN": {
+      "label": "Senegal",
+      "vector": "v7117803",
+      "values": {
+        "2021": {
+          "amount": 68,
+          "status": ""
+        },
+        "2022": {
+          "amount": 221,
+          "status": ""
+        },
+        "2023": {
+          "amount": 24,
+          "status": ""
+        },
+        "2024": {
+          "amount": 2751,
+          "status": ""
+        },
+        "2025": {
+          "amount": 3260,
+          "status": ""
+        }
+      }
+    },
+    "SGP": {
+      "label": "Singapore",
+      "vector": "v7117849",
+      "values": {
+        "2021": {
+          "amount": 24079,
+          "status": ""
+        },
+        "2022": {
+          "amount": 14991,
+          "status": ""
+        },
+        "2023": {
+          "amount": 23253,
+          "status": ""
+        },
+        "2024": {
+          "amount": 32119,
+          "status": ""
+        },
+        "2025": {
+          "amount": 34660,
+          "status": ""
+        }
+      }
+    },
+    "SLE": {
+      "label": "Sierra Leone",
+      "vector": "v7117805",
+      "values": {
+        "2021": {
+          "amount": null,
+          "status": ".."
+        },
+        "2022": {
+          "amount": -9,
+          "status": ""
+        },
+        "2023": {
+          "amount": null,
+          "status": ".."
+        },
+        "2024": {
+          "amount": null,
+          "status": ".."
+        },
+        "2025": {
+          "amount": null,
+          "status": ".."
+        }
+      }
+    },
+    "SLV": {
+      "label": "El Salvador",
+      "vector": "v7117712",
+      "values": {
+        "2021": {
+          "amount": 134,
+          "status": ""
+        },
+        "2022": {
+          "amount": 7,
+          "status": ""
+        },
+        "2023": {
+          "amount": 5,
+          "status": ""
+        },
+        "2024": {
+          "amount": 4,
+          "status": ""
+        },
+        "2025": {
+          "amount": 3,
+          "status": ""
+        }
+      }
+    },
+    "SUR": {
+      "label": "Suriname",
+      "vector": "v7117721",
+      "values": {
+        "2021": {
+          "amount": 614,
+          "status": ""
+        },
+        "2022": {
+          "amount": 1110,
+          "status": ""
+        },
+        "2023": {
+          "amount": -4,
+          "status": ""
+        },
+        "2024": {
+          "amount": -4,
+          "status": ""
+        },
+        "2025": {
+          "amount": -5,
+          "status": ""
+        }
+      }
+    },
+    "SVK": {
+      "label": "Slovakia",
+      "vector": "v7117758",
+      "values": {
+        "2021": {
+          "amount": 98,
+          "status": ""
+        },
+        "2022": {
+          "amount": 72,
+          "status": ""
+        },
+        "2023": {
+          "amount": 79,
+          "status": ""
+        },
+        "2024": {
+          "amount": 61,
+          "status": ""
+        },
+        "2025": {
+          "amount": 63,
+          "status": ""
+        }
+      }
+    },
+    "SVN": {
+      "label": "Slovenia",
+      "vector": "v7117759",
+      "values": {
+        "2021": {
+          "amount": -1,
+          "status": ""
+        },
+        "2022": {
+          "amount": null,
+          "status": ".."
+        },
+        "2023": {
+          "amount": 2,
+          "status": ""
+        },
+        "2024": {
+          "amount": 3,
+          "status": ""
+        },
+        "2025": {
+          "amount": 3,
+          "status": ""
+        }
+      }
+    },
+    "SWE": {
+      "label": "Sweden",
+      "vector": "v7117761",
+      "values": {
+        "2021": {
+          "amount": 3329,
+          "status": ""
+        },
+        "2022": {
+          "amount": 8782,
+          "status": ""
+        },
+        "2023": {
+          "amount": 6533,
+          "status": ""
+        },
+        "2024": {
+          "amount": 6501,
+          "status": ""
+        },
+        "2025": {
+          "amount": 8578,
+          "status": ""
+        }
+      }
+    },
+    "SWZ": {
+      "label": "Eswatini",
+      "vector": "v7117808",
+      "values": {
+        "2021": {
+          "amount": 357,
+          "status": ""
+        },
+        "2022": {
+          "amount": 330,
+          "status": ""
+        },
+        "2023": {
+          "amount": 26,
+          "status": ""
+        },
+        "2024": {
+          "amount": 26,
+          "status": ""
+        },
+        "2025": {
+          "amount": 26,
+          "status": ""
+        }
+      }
+    },
+    "SYC": {
+      "label": "Seychelles",
+      "vector": "v7117804",
+      "values": {
+        "2021": {
+          "amount": 2,
+          "status": ""
+        },
+        "2022": {
+          "amount": null,
+          "status": ".."
+        },
+        "2023": {
+          "amount": 1209,
+          "status": ""
+        },
+        "2024": {
+          "amount": 1573,
+          "status": ""
+        },
+        "2025": {
+          "amount": 1573,
+          "status": ""
+        }
+      }
+    },
+    "TGO": {
+      "label": "Togo",
+      "vector": "v7117810",
+      "values": {
+        "2021": {
+          "amount": null,
+          "status": ".."
+        },
+        "2022": {
+          "amount": -1,
+          "status": ""
+        },
+        "2023": {
+          "amount": -1,
+          "status": ""
+        },
+        "2024": {
+          "amount": -1,
+          "status": ""
+        },
+        "2025": {
+          "amount": -1,
+          "status": ""
+        }
+      }
+    },
+    "THA": {
+      "label": "Thailand",
+      "vector": "v7117854",
+      "values": {
+        "2021": {
+          "amount": 313,
+          "status": ""
+        },
+        "2022": {
+          "amount": 561,
+          "status": ""
+        },
+        "2023": {
+          "amount": 605,
+          "status": ""
+        },
+        "2024": {
+          "amount": 444,
+          "status": ""
+        },
+        "2025": {
+          "amount": 448,
+          "status": ""
+        }
+      }
+    },
+    "TJK": {
+      "label": "Tajikistan",
+      "vector": "v7117853",
+      "values": {
+        "2021": {
+          "amount": 4,
+          "status": ""
+        },
+        "2022": {
+          "amount": 4,
+          "status": ""
+        },
+        "2023": {
+          "amount": 2,
+          "status": ""
+        },
+        "2024": {
+          "amount": 2,
+          "status": ""
+        },
+        "2025": {
+          "amount": 2,
+          "status": ""
+        }
+      }
+    },
+    "TTO": {
+      "label": "Trinidad and Tobago",
+      "vector": "v7117701",
+      "values": {
+        "2021": {
+          "amount": 218,
+          "status": ""
+        },
+        "2022": {
+          "amount": 215,
+          "status": ""
+        },
+        "2023": {
+          "amount": 76,
+          "status": ""
+        },
+        "2024": {
+          "amount": 185,
+          "status": ""
+        },
+        "2025": {
+          "amount": 418,
+          "status": ""
+        }
+      }
+    },
+    "TUN": {
+      "label": "Tunisia",
+      "vector": "v7117811",
+      "values": {
+        "2021": {
+          "amount": 4,
+          "status": ""
+        },
+        "2022": {
+          "amount": 3,
+          "status": ""
+        },
+        "2023": {
+          "amount": 159,
+          "status": ""
+        },
+        "2024": {
+          "amount": 174,
+          "status": ""
+        },
+        "2025": {
+          "amount": 183,
+          "status": ""
+        }
+      }
+    },
+    "TUR": {
+      "label": "Türkiye",
+      "vector": "v7117763",
+      "values": {
+        "2021": {
+          "amount": 1707,
+          "status": ""
+        },
+        "2022": {
+          "amount": 992,
+          "status": ""
+        },
+        "2023": {
+          "amount": 2856,
+          "status": ""
+        },
+        "2024": {
+          "amount": 4126,
+          "status": ""
+        },
+        "2025": {
+          "amount": 3315,
+          "status": ""
+        }
+      }
+    },
+    "TWN": {
+      "label": "Taiwan",
+      "vector": "v7117855",
+      "values": {
+        "2021": {
+          "amount": -102,
+          "status": ""
+        },
+        "2022": {
+          "amount": 116,
+          "status": ""
+        },
+        "2023": {
+          "amount": 182,
+          "status": ""
+        },
+        "2024": {
+          "amount": 246,
+          "status": ""
+        },
+        "2025": {
+          "amount": 253,
+          "status": ""
+        }
+      }
+    },
+    "TZA": {
+      "label": "Tanzania, United Republic of",
+      "vector": "v7117809",
+      "values": {
+        "2021": {
+          "amount": 378,
+          "status": ""
+        },
+        "2022": {
+          "amount": 322,
+          "status": ""
+        },
+        "2023": {
+          "amount": 365,
+          "status": ""
+        },
+        "2024": {
+          "amount": 358,
+          "status": ""
+        },
+        "2025": {
+          "amount": 360,
+          "status": ""
+        }
+      }
+    },
+    "UGA": {
+      "label": "Uganda",
+      "vector": "v7117812",
+      "values": {
+        "2021": {
+          "amount": 4,
+          "status": ""
+        },
+        "2022": {
+          "amount": -32,
+          "status": ""
+        },
+        "2023": {
+          "amount": 9,
+          "status": ""
+        },
+        "2024": {
+          "amount": 17,
+          "status": ""
+        },
+        "2025": {
+          "amount": 17,
+          "status": ""
+        }
+      }
+    },
+    "UKR": {
+      "label": "Ukraine",
+      "vector": "v7117765",
+      "values": {
+        "2021": {
+          "amount": 57,
+          "status": ""
+        },
+        "2022": {
+          "amount": 53,
+          "status": ""
+        },
+        "2023": {
+          "amount": 81,
+          "status": ""
+        },
+        "2024": {
+          "amount": 100,
+          "status": ""
+        },
+        "2025": {
+          "amount": 132,
+          "status": ""
+        }
+      }
+    },
+    "URY": {
+      "label": "Uruguay",
+      "vector": "v7117722",
+      "values": {
+        "2021": {
+          "amount": 1190,
+          "status": ""
+        },
+        "2022": {
+          "amount": -335,
+          "status": ""
+        },
+        "2023": {
+          "amount": 1200,
+          "status": ""
+        },
+        "2024": {
+          "amount": 1797,
+          "status": ""
+        },
+        "2025": {
+          "amount": 1944,
+          "status": ""
+        }
+      }
+    },
+    "USA": {
+      "label": "United States",
+      "vector": "v7117702",
+      "values": {
+        "2021": {
+          "amount": 896771,
+          "status": ""
+        },
+        "2022": {
+          "amount": 1015076,
+          "status": ""
+        },
+        "2023": {
+          "amount": 1127073,
+          "status": ""
+        },
+        "2024": {
+          "amount": 1212601,
+          "status": ""
+        },
+        "2025": {
+          "amount": 1203419,
+          "status": ""
+        }
+      }
+    },
+    "VEN": {
+      "label": "Venezuela",
+      "vector": "v7117723",
+      "values": {
+        "2021": {
+          "amount": 1,
+          "status": ""
+        },
+        "2022": {
+          "amount": -12,
+          "status": ""
+        },
+        "2023": {
+          "amount": 12,
+          "status": ""
+        },
+        "2024": {
+          "amount": 13,
+          "status": ""
+        },
+        "2025": {
+          "amount": 2,
+          "status": ""
+        }
+      }
+    },
+    "VGB": {
+      "label": "British Virgin Islands",
+      "vector": "v7117689",
+      "values": {
+        "2021": {
+          "amount": 13012,
+          "status": ""
+        },
+        "2022": {
+          "amount": 17182,
+          "status": ""
+        },
+        "2023": {
+          "amount": 14664,
+          "status": ""
+        },
+        "2024": {
+          "amount": 13999,
+          "status": ""
+        },
+        "2025": {
+          "amount": 14132,
+          "status": ""
+        }
+      }
+    },
+    "VNM": {
+      "label": "Viet Nam",
+      "vector": "v7117857",
+      "values": {
+        "2021": {
+          "amount": 4809,
+          "status": ""
+        },
+        "2022": {
+          "amount": 5599,
+          "status": ""
+        },
+        "2023": {
+          "amount": 4619,
+          "status": ""
+        },
+        "2024": {
+          "amount": 4740,
+          "status": ""
+        },
+        "2025": {
+          "amount": 4641,
+          "status": ""
+        }
+      }
+    },
+    "YEM": {
+      "label": "Yemen",
+      "vector": "v7117858",
+      "values": {
+        "2021": {
+          "amount": null,
+          "status": ".."
+        },
+        "2022": {
+          "amount": 39,
+          "status": ""
+        },
+        "2023": {
+          "amount": null,
+          "status": ".."
+        },
+        "2024": {
+          "amount": null,
+          "status": ".."
+        },
+        "2025": {
+          "amount": null,
+          "status": ".."
+        }
+      }
+    },
+    "ZAF": {
+      "label": "South Africa",
+      "vector": "v7117806",
+      "values": {
+        "2021": {
+          "amount": 1702,
+          "status": ""
+        },
+        "2022": {
+          "amount": 843,
+          "status": ""
+        },
+        "2023": {
+          "amount": 516,
+          "status": ""
+        },
+        "2024": {
+          "amount": 707,
+          "status": ""
+        },
+        "2025": {
+          "amount": 831,
+          "status": ""
+        }
+      }
+    },
+    "ZMB": {
+      "label": "Zambia",
+      "vector": "v7117814",
+      "values": {
+        "2021": {
+          "amount": -146,
+          "status": ""
+        },
+        "2022": {
+          "amount": 72,
+          "status": ""
+        },
+        "2023": {
+          "amount": -36,
+          "status": ""
+        },
+        "2024": {
+          "amount": 78,
+          "status": ""
+        },
+        "2025": {
+          "amount": 161,
+          "status": ""
+        }
+      }
+    },
+    "ZWE": {
+      "label": "Zimbabwe",
+      "vector": "v7117815",
+      "values": {
+        "2021": {
+          "amount": 4,
+          "status": ""
+        },
+        "2022": {
+          "amount": -1,
+          "status": ""
+        },
+        "2023": {
+          "amount": -1,
+          "status": ""
+        },
+        "2024": {
+          "amount": 1,
+          "status": ""
+        },
+        "2025": {
+          "amount": null,
+          "status": ".."
+        }
+      }
+    }
+  },
+  "checked_at": "2026-11-27"
+}
