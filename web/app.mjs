@@ -140,7 +140,12 @@ function renderTrail(trail) {
     panel.append(link('Compare the British Virgin Islands’ incorporation counts and OECD review →', './?jurisdiction=british-virgin-islands#jurisdictions'));
   }
   if (trail.id === 'bml-betsson') {
-    panel.append(link('Read the field note tracing BML Group Limited to dated company and licensing records →', 'https://coolcode.ca/field-notes/reading-offshore-records/'));
+    const related = element('p', null, 'source-links');
+    related.append(
+      link('Read BML Group Limited’s Malta licence profile in Gambling Regulator Watch', 'https://coolcode.ca/gamblingregulatorwatch/records/bml-group-limited-662add5114/'),
+      link('Read the field note tracing BML Group Limited to dated company and licensing records', 'https://coolcode.ca/field-notes/reading-offshore-records/'),
+    );
+    panel.append(related);
   }
 }
 

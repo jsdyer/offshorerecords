@@ -11,6 +11,7 @@ from playwright.sync_api import expect, sync_playwright
 
 ROOT = Path(__file__).resolve().parents[1]
 DIST = ROOT / "dist"
+BML_LICENCE = "https://coolcode.ca/gamblingregulatorwatch/records/bml-group-limited-662add5114/"
 
 
 class QuietHandler(SimpleHTTPRequestHandler):
@@ -66,6 +67,8 @@ def check_desktop(page, url):
         node = next(n for n in trail["nodes"] if n["id"] == trail["edges"][0]["from"])
         expect(panel.locator(".relation h4 a").first).to_have_attribute("href", node["url"])
         expect(panel.locator(".permanent a")).to_have_attribute("href", f"./trails/{trail['id']}/")
+        licence_link = panel.locator(f'a[href="{BML_LICENCE}"]')
+        expect(licence_link).to_have_count(1 if trail["id"] == "bml-betsson" else 0)
     page.locator("#trail-result .permanent a").click()
     expect(page.get_by_role("heading", level=1)).to_have_text(trails[-1]["title"])
     page.goto(url + "?country=CAN&role=entities&investigation=bahamas-leaks")
@@ -100,6 +103,11 @@ def check_static(page, url):
     assert page.evaluate("document.documentElement.scrollWidth === window.innerWidth")
     page.locator(".opening-case").click()
     expect(page.get_by_role("heading", level=1)).to_contain_text("Canadian trustee")
+    expect(page.locator(f'a[href="{BML_LICENCE}"]')).to_have_count(0)
+    page.goto(url + "trails/bml-betsson/")
+    licence_link = page.get_by_role("link", name="Read BML Group Limited’s Malta licence profile in Gambling Regulator Watch")
+    expect(licence_link).to_have_attribute("href", BML_LICENCE)
+    expect(licence_link.locator("..").get_by_role("link", name="Read the field note", exact=False)).to_be_visible()
 
 
 def main():

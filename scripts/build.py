@@ -202,6 +202,11 @@ def trail_page(trail,checked):
     body+=['</ul><h2>How to read this example</h2><p>'+e(trail["note"])+'</p>',
            '<p>ICIJ’s historical records document the roles shown above. This entry supplies no finding of tax evasion or other misconduct.</p>',
            '<p>'+link("../../#trails","Explore more organization relationships")+'</p>']
+    if trail["id"] == "bml-betsson":
+        licence = link("https://coolcode.ca/gamblingregulatorwatch/records/bml-group-limited-662add5114/",
+                       "Read BML Group Limited’s Malta licence profile in Gambling Regulator Watch")
+        field_note = link(NOTE, "Read the field note tracing BML Group Limited to dated company and licensing records")
+        body.append(f"<p>{licence} · {field_note}</p>")
     return path,trail["title"],trail["summary"],"".join(body)
 
 
