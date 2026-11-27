@@ -3,37 +3,81 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="description" content="{{DESCRIPTION}}">
-  <title>{{TITLE}} · CoolCode</title>
+  <meta name="theme-color" content="#172c49">
+  <meta name="description" content="Compare ICIJ offshore record counts by country and investigation, inspect sourced corporate roles, and read a separate OECD information-exchange review.">
+  <title>Offshore Records Atlas · Compare ICIJ investigations by country and record type</title>
   <link rel="stylesheet" href="./style.css">
+  <link rel="icon" href="./favicon.svg">
+  <script defer src="/assets/tool-metrics.js" referrerpolicy="no-referrer"></script>
   <script type="module" src="./app.mjs"></script>
-  {{VISIT_COUNTER}}
 </head>
-<body data-tool-id="{{TOOL_ID}}">
-  <a class="skip" href="#main">Skip to content</a>
-  <header><a href="https://coolcode.ca/">← CoolCode.ca</a><a href="{{SOURCE_URL}}">Source &amp; instructions ↗</a></header>
-  <main id="main">
-    <h1>{{TITLE}}</h1>
-    <p class="intro">{{DESCRIPTION}}</p>
-    <section aria-labelledby="example-title">
-      <h2 id="example-title">Remove duplicate lines</h2>
-      <p>Edit the city names or paste your own list, one item per line. The first copy of each line keeps its place.</p>
-      <p id="status" role="status" aria-live="polite">3 unique lines. 1 duplicate removed.</p>
-      <div class="panels">
-        <div><label for="input">Original lines</label><textarea id="input" rows="5" maxlength="100000" spellcheck="false" placeholder="Paste one item per line">Halifax
-Langley
-Halifax
-Vancouver</textarea></div>
-        <div><label for="output">Cleaned lines</label><textarea id="output" rows="5" readonly spellcheck="false">Halifax
-Langley
-Vancouver</textarea></div>
+<body data-tool-id="offshorerecords">
+<a class="skip" href="#main">Skip to the atlas</a>
+<header class="mast"><div class="wrap"><a class="home" href="https://coolcode.ca/">← CoolCode.ca</a><nav aria-label="Atlas sections"><a href="#compare">Compare</a><a href="#trails">Corporate records</a><a href="#methods">Methods</a></nav></div></header>
+<main class="wrap" id="main">
+  <div class="intro">
+    <h1>Offshore Records <em>Atlas</em></h1>
+    <p>See how many records link a country to five ICIJ investigations, then follow a corporate relationship to its source.</p>
+    <a class="opening-case" href="./trails/canada-trustee-bvi/">Follow a Canadian trustee’s shareholder role in ONEIPA LIMITED →</a>
+  </div>
+
+  <section class="comparison" id="compare" aria-labelledby="compare-heading">
+    <div class="query-head">
+      <div><h2 id="compare-heading">Compare country links</h2><p>Choose a country and the kind of record to count.</p></div>
+      <div class="selectors">
+        <div><label for="country">Find a country</label><select id="country" disabled><option value="CAN">Canada</option></select></div>
+        <div><label for="role">Record type</label><select id="role" disabled><option value="entities">Entities</option><option value="officers">Officers</option><option value="intermediaries">Intermediaries</option><option value="addresses">Addresses</option><option value="others">Other records</option></select></div>
+        <div><label for="investigation">Investigation</label><select id="investigation" disabled><option value="">All five investigations</option></select></div>
       </div>
-      <div class="actions"><button id="sample" type="button">Restore example</button><button id="clear" type="button">Clear</button><button id="copy" type="button" hidden>Copy result</button></div>
-      <noscript><p>This tool needs JavaScript to process your text. The source is available above.</p></noscript>
-    </section>
-    <!-- common-use-links -->
-    <aside aria-label="Privacy"><strong>Stays on your device.</strong> The browser processes your text in this tab. Reloading clears it.</aside>
-  </main>
-  <footer>Part of <a href="https://coolcode.ca/">the CoolCode collection</a>. {{ISSUE_LINK}}</footer>
+    </div>
+    <div class="results">
+      <div id="canada-static" class="table-scroll">{{CANADA}}</div>
+      <div id="matrix" hidden>
+        <div class="reading"><div><h3 id="matrix-title"></h3><p id="matrix-figure" aria-live="polite"></p></div><a id="country-profile">Country profile →</a></div>
+        <p id="role-description" class="hint"></p>
+        <div class="table-scroll" role="region" aria-label="Country counts by investigation" tabindex="0">
+          <table class="matrix-table"><thead><tr><th scope="col">Investigation</th><th scope="col">Source coverage</th><th scope="col" class="numeric" id="count-column">Records</th></tr></thead><tbody id="matrix-rows"></tbody></table>
+        </div>
+        <p class="source-note" id="matrix-links"></p>
+      </div>
+      <p class="source-note">Counts are database records. A country link can describe an address or another recorded connection. It cannot establish nationality, tax residence or wrongdoing.</p>
+      <p id="icij-status" class="status" role="status"></p>
+      <noscript><p><a href="./places/can/">Read Canada’s full country profile</a> or <a href="./records/">browse the static directory</a>.</p></noscript>
+    </div>
+  </section>
+
+  <section class="section" id="jurisdictions" aria-labelledby="jurisdiction-heading">
+    <div class="section-header"><div><h2 id="jurisdiction-heading">Where entities were incorporated</h2><p>Look up the jurisdiction recorded for an entity. Compare its records across investigations, then read the OECD’s separate assessment.</p></div><div class="section-control"><label for="jurisdiction">Incorporation jurisdiction</label><select id="jurisdiction" disabled><option>Choose a jurisdiction</option></select></div></div>
+    <div class="jurisdiction-grid">
+      <article class="jurisdiction-data"><h3 id="incorporation-title">Entity records by investigation</h3><div id="incorporation-rows"></div>
+      <p id="incorporation-source" class="source-note"></p></article>
+      <aside class="context" aria-labelledby="oecd-heading"><h3 id="oecd-heading">OECD tax-information exchange review</h3><p class="hint">This jurisdiction-level review concerns tax authorities’ ability to exchange information on request. It does not assess any company in the leaks.</p>
+      <div id="oecd-result"></div><p id="oecd-status" class="status" role="status"></p></aside>
+    </div>
+  </section>
+
+  <section class="section" id="trails" aria-labelledby="trails-heading">
+    <div class="section-header"><div><h2 id="trails-heading">Follow a corporate relationship</h2><p>See which organisation held a named role in another organisation’s record. Each link opens the underlying evidence.</p></div><div class="section-control"><label for="trail">Corporate example</label><select id="trail" disabled><option>Choose a record</option></select></div></div>
+    <article class="trail" id="trail-result"></article>
+    <p class="status" id="trail-status" role="status"></p>
+    <p class="source-note"><a href="https://coolcode.ca/field-notes/reading-offshore-records/">Read the field note on interpreting offshore records →</a></p>
+  </section>
+
+  <section class="section method" id="methods" aria-labelledby="methods-heading">
+    <h2 id="methods-heading">Sources and interpretation</h2>
+    <div class="method-content">
+      <p><strong>Coverage varies by investigation.</strong> Each release draws on different providers, records and years. A higher count in one release does not measure growth in offshore activity. A record can link to several countries.</p>
+      <p><strong>Corporate roles have dates and directions.</strong> A shareholder, an intermediary and a registered agent describe different relationships. Blank relationship dates leave the period unknown. A listed name alone does not show ownership today.</p>
+      <p><strong>OECD reviews answer a different question.</strong> Read the review year and status alongside the rating. The assessment year can differ from the ICIJ source window.</p>
+      <p><strong>Using the atlas.</strong> Your filters run in your browser against the published files. Following a source link opens that publisher’s website.</p>
+      <p><strong>When updates run.</strong> The atlas is scheduled to check its sources on the third of each month at 11:23 UTC. <a href="./data/status.json">See the last successful checks.</a></p>
+      <p id="source-edition" class="source-note"></p>
+      <p class="source-note">Source data from the International Consortium of Investigative Journalists. The database is licensed under the <a href="https://opendatacommons.org/licenses/odbl/1-0/">Open Database Licence (ODbL)</a>. Its individual contents are available under <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>.</p>
+      <a class="download" href="./data/icij.json" download>Download the aggregate records (JSON)</a>
+      <p class="source-links"><a href="https://offshoreleaks.icij.org/pages/database">ICIJ database and terms</a><a href="https://offshoreleaks.icij.org/pages/howtouse">How to use the ICIJ database</a><a href="https://www.oecd.org/en/networks/global-forum-tax-transparency/resources/exchange-of-information-on-request-ratings.html">OECD ratings table</a><a href="./records/">Browse source-linked profiles</a></p>
+    </div>
+  </section>
+</main>
+<footer><div class="wrap"><a href="https://coolcode.ca/">CoolCode.ca</a><nav aria-label="Project links"><a href="https://github.com/jsdyer/offshorerecords">Source and documentation</a><a href="https://coolcode.ca/report/?tool=offshorerecords" referrerpolicy="no-referrer">Report an issue</a></nav></div></footer>
 </body>
 </html>

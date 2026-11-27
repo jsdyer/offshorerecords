@@ -1,0 +1,5267 @@
+{
+  "source": {
+    "name": "OECD Global Forum on Transparency and Exchange of Information for Tax Purposes",
+    "url": "https://www.oecd.org/en/networks/global-forum-tax-transparency/resources/exchange-of-information-on-request-ratings.html",
+    "edition_url": "https://datawrapper.dwcdn.net/LGXCI/75/",
+    "data_url": "https://datawrapper.dwcdn.net/LGXCI/75/data.csv",
+    "updated_at": "2026-11-03",
+    "checked_at": "2026-11-27",
+    "scope": "Jurisdiction-level peer reviews of how tax authorities provide information on request. Each jurisdiction shows its latest listed assessment and the publisher’s review history. Years identify report publication. A Phase 1 assessment covers the legal framework and carries no overall rating. Monitoring updates are separate from rated peer reviews.",
+    "report_dates": "Exact dates and report links come from unambiguous matches to OECD Publishing’s registered DOIs in the Global Forum series. Other entries link to the edition of the official ratings table.",
+    "report_index_url": "https://api.crossref.org/works?filter=issn:2219-469X",
+    "csv_sha256": "e82134d445019e8496c8c186b32e51ffb3d0a47c300572f07fde1d7238236970",
+    "jurisdiction_count": 176,
+    "assessment_rows": 329
+  },
+  "jurisdictions": [
+    {
+      "jurisdiction": "Albania",
+      "iso3": "ALB",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2016,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2016-07-26",
+          "url": "https://doi.org/10.1787/9789264258730-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2023,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2023-03-28",
+          "url": "https://doi.org/10.1787/0fdc1657-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2023,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2023-03-28",
+      "url": "https://doi.org/10.1787/0fdc1657-en"
+    },
+    {
+      "jurisdiction": "Algeria",
+      "iso3": "DZA",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2026,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2026-11-03",
+          "url": "https://doi.org/10.1787/a8ad6b5a-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2026,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2026-11-03",
+      "url": "https://doi.org/10.1787/a8ad6b5a-en"
+    },
+    {
+      "jurisdiction": "Andorra",
+      "iso3": "AND",
+      "reviews": [
+        {
+          "rating": "Partially Compliant",
+          "round": 1,
+          "review_year": 2014,
+          "status": "Full peer review",
+          "source_outcome": "Partially Compliant",
+          "published_on": "2014-08-04",
+          "url": "https://doi.org/10.1787/9789264217454-en"
+        },
+        {
+          "rating": "Provisionally Largely Compliant",
+          "round": null,
+          "review_year": 2017,
+          "status": "Provisional fast-track rating",
+          "source_outcome": "Provisionally Largely Compliant",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2019,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2019-11-12",
+          "url": "https://doi.org/10.1787/7f57533b-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2019,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2019-11-12",
+      "url": "https://doi.org/10.1787/7f57533b-en"
+    },
+    {
+      "jurisdiction": "Angola",
+      "iso3": "AGO",
+      "reviews": [
+        {
+          "rating": null,
+          "round": null,
+          "review_year": null,
+          "status": "Not yet reviewed",
+          "source_outcome": "Not yet reviewed",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        }
+      ],
+      "rating": null,
+      "round": null,
+      "review_year": null,
+      "status": "Not yet reviewed",
+      "source_outcome": "Not yet reviewed",
+      "published_on": null,
+      "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+    },
+    {
+      "jurisdiction": "Anguilla",
+      "iso3": "AIA",
+      "reviews": [
+        {
+          "rating": "Partially Compliant",
+          "round": 1,
+          "review_year": 2014,
+          "status": "Full peer review",
+          "source_outcome": "Partially Compliant",
+          "published_on": "2014-08-04",
+          "url": "https://doi.org/10.1787/9789264217478-en"
+        },
+        {
+          "rating": "Non-Compliant",
+          "round": 2,
+          "review_year": 2020,
+          "status": "Full peer review",
+          "source_outcome": "Non-Compliant",
+          "published_on": "2020-09-01",
+          "url": "https://doi.org/10.1787/ac228609-en"
+        },
+        {
+          "rating": "Partially Compliant",
+          "round": 2,
+          "review_year": 2023,
+          "status": "Supplementary peer review",
+          "source_outcome": "Partially Compliant",
+          "published_on": "2023-07-19",
+          "url": "https://doi.org/10.1787/e8051e38-en"
+        }
+      ],
+      "rating": "Partially Compliant",
+      "round": 2,
+      "review_year": 2023,
+      "status": "Supplementary peer review",
+      "source_outcome": "Partially Compliant",
+      "published_on": "2023-07-19",
+      "url": "https://doi.org/10.1787/e8051e38-en"
+    },
+    {
+      "jurisdiction": "Antigua and Barbuda",
+      "iso3": "ATG",
+      "reviews": [
+        {
+          "rating": "Partially Compliant",
+          "round": 1,
+          "review_year": 2014,
+          "status": "Full peer review",
+          "source_outcome": "Partially Compliant",
+          "published_on": "2014-08-04",
+          "url": "https://doi.org/10.1787/9789264217492-en"
+        },
+        {
+          "rating": "Provisionally Largely Compliant",
+          "round": null,
+          "review_year": 2017,
+          "status": "Provisional fast-track rating",
+          "source_outcome": "Provisionally Largely Compliant",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        },
+        {
+          "rating": "Partially Compliant",
+          "round": 2,
+          "review_year": 2023,
+          "status": "Full peer review",
+          "source_outcome": "Partially Compliant",
+          "published_on": "2023-07-19",
+          "url": "https://doi.org/10.1787/df906926-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2026,
+          "status": "In-depth peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2026-01-21",
+          "url": "https://doi.org/10.1787/8d903677-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2026,
+      "status": "In-depth peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2026-01-21",
+      "url": "https://doi.org/10.1787/8d903677-en"
+    },
+    {
+      "jurisdiction": "Argentina",
+      "iso3": "ARG",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264205505-en"
+        },
+        {
+          "rating": "Compliant",
+          "round": 2,
+          "review_year": 2023,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": "2023-07-19",
+          "url": "https://doi.org/10.1787/cff0754d-en"
+        }
+      ],
+      "rating": "Compliant",
+      "round": 2,
+      "review_year": 2023,
+      "status": "Full peer review",
+      "source_outcome": "Compliant",
+      "published_on": "2023-07-19",
+      "url": "https://doi.org/10.1787/cff0754d-en"
+    },
+    {
+      "jurisdiction": "Armenia",
+      "iso3": "ARM",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2025,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2025-03-18",
+          "url": "https://doi.org/10.1787/d71a53f0-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2025,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2025-03-18",
+      "url": "https://doi.org/10.1787/d71a53f0-en"
+    },
+    {
+      "jurisdiction": "Aruba",
+      "iso3": "ABW",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2015,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2015-03-16",
+          "url": "https://doi.org/10.1787/9789264231436-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2018,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2018-10-17",
+          "url": "https://doi.org/10.1787/9789264306042-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2018,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2018-10-17",
+      "url": "https://doi.org/10.1787/9789264306042-en"
+    },
+    {
+      "jurisdiction": "Australia",
+      "iso3": "AUS",
+      "reviews": [
+        {
+          "rating": "Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264205529-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2017,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2017-08-21",
+          "url": "https://doi.org/10.1787/9789264280069-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2017,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2017-08-21",
+      "url": "https://doi.org/10.1787/9789264280069-en"
+    },
+    {
+      "jurisdiction": "Austria",
+      "iso3": "AUT",
+      "reviews": [
+        {
+          "rating": "Partially Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Partially Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264202573-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2015,
+          "status": "Supplementary peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2015-08-03",
+          "url": "https://doi.org/10.1787/16238b77-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2018,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2018-10-15",
+          "url": "https://doi.org/10.1787/9789264306059-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2018,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2018-10-15",
+      "url": "https://doi.org/10.1787/9789264306059-en"
+    },
+    {
+      "jurisdiction": "Azerbaijan",
+      "iso3": "AZE",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2016,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2016-11-04",
+          "url": "https://doi.org/10.1787/9789264266049-en"
+        },
+        {
+          "rating": "Compliant",
+          "round": 2,
+          "review_year": 2024,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": "2024-11-21",
+          "url": "https://doi.org/10.1787/61475f9f-en"
+        }
+      ],
+      "rating": "Compliant",
+      "round": 2,
+      "review_year": 2024,
+      "status": "Full peer review",
+      "source_outcome": "Compliant",
+      "published_on": "2024-11-21",
+      "url": "https://doi.org/10.1787/61475f9f-en"
+    },
+    {
+      "jurisdiction": "Bahamas",
+      "iso3": "BHS",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264202795-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2018,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2018-04-04",
+          "url": "https://doi.org/10.1787/9789264291805-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2018,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2018-04-04",
+      "url": "https://doi.org/10.1787/9789264291805-en"
+    },
+    {
+      "jurisdiction": "Bahrain",
+      "iso3": "BHR",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264205468-en"
+        },
+        {
+          "rating": "Compliant",
+          "round": 2,
+          "review_year": 2018,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": "2018-10-15",
+          "url": "https://doi.org/10.1787/9789264306080-en"
+        }
+      ],
+      "rating": "Compliant",
+      "round": 2,
+      "review_year": 2018,
+      "status": "Full peer review",
+      "source_outcome": "Compliant",
+      "published_on": "2018-10-15",
+      "url": "https://doi.org/10.1787/9789264306080-en"
+    },
+    {
+      "jurisdiction": "Barbados",
+      "iso3": "BRB",
+      "reviews": [
+        {
+          "rating": "Partially Compliant",
+          "round": 1,
+          "review_year": 2014,
+          "status": "Full peer review",
+          "source_outcome": "Partially Compliant",
+          "published_on": "2014-04-24",
+          "url": "https://doi.org/10.1787/9789264209978-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2016,
+          "status": "Supplementary peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2016-11-14",
+          "url": "https://doi.org/10.1787/ec977d12-en"
+        },
+        {
+          "rating": "Partially Compliant",
+          "round": 2,
+          "review_year": 2020,
+          "status": "Full peer review",
+          "source_outcome": "Partially Compliant",
+          "published_on": "2020-04-06",
+          "url": "https://doi.org/10.1787/fbb6ecef-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2022,
+          "status": "Supplementary peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2022-11-09",
+          "url": "https://doi.org/10.1787/5b2561d4-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2022,
+      "status": "Supplementary peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2022-11-09",
+      "url": "https://doi.org/10.1787/5b2561d4-en"
+    },
+    {
+      "jurisdiction": "Belarus",
+      "iso3": "BLR",
+      "reviews": [
+        {
+          "rating": null,
+          "round": null,
+          "review_year": null,
+          "status": "Not yet reviewed",
+          "source_outcome": "Not yet reviewed",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        }
+      ],
+      "rating": null,
+      "round": null,
+      "review_year": null,
+      "status": "Not yet reviewed",
+      "source_outcome": "Not yet reviewed",
+      "published_on": null,
+      "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+    },
+    {
+      "jurisdiction": "Belgium",
+      "iso3": "BEL",
+      "reviews": [
+        {
+          "rating": "Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264192065-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2018,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2018-04-04",
+          "url": "https://doi.org/10.1787/9789264290839-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2018,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2018-04-04",
+      "url": "https://doi.org/10.1787/9789264290839-en"
+    },
+    {
+      "jurisdiction": "Belize",
+      "iso3": "BLZ",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2014,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2014-10-29",
+          "url": "https://doi.org/10.1787/9789264222854-en"
+        },
+        {
+          "rating": "Partially Compliant",
+          "round": 2,
+          "review_year": 2023,
+          "status": "Full peer review",
+          "source_outcome": "Partially Compliant",
+          "published_on": "2023-07-19",
+          "url": "https://doi.org/10.1787/f74baa49-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2026,
+          "status": "In-depth peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2026-04-29",
+          "url": "https://doi.org/10.1787/1bce4ec5-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2026,
+      "status": "In-depth peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2026-04-29",
+      "url": "https://doi.org/10.1787/1bce4ec5-en"
+    },
+    {
+      "jurisdiction": "Benin",
+      "iso3": "BEN",
+      "reviews": [
+        {
+          "rating": null,
+          "round": 2,
+          "review_year": 2026,
+          "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+          "source_outcome": "Phase 1 only**",
+          "published_on": "2026-01-21",
+          "url": "https://doi.org/10.1787/4cfacc95-en"
+        }
+      ],
+      "rating": null,
+      "round": 2,
+      "review_year": 2026,
+      "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+      "source_outcome": "Phase 1 only**",
+      "published_on": "2026-01-21",
+      "url": "https://doi.org/10.1787/4cfacc95-en"
+    },
+    {
+      "jurisdiction": "Bermuda",
+      "iso3": "BMU",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264202597-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2017,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2017-08-21",
+          "url": "https://doi.org/10.1787/9789264280083-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2017,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2017-08-21",
+      "url": "https://doi.org/10.1787/9789264280083-en"
+    },
+    {
+      "jurisdiction": "Bosnia and Herzegovina",
+      "iso3": "BIH",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2024,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2024-11-21",
+          "url": "https://doi.org/10.1787/4bfc35b0-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2024,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2024-11-21",
+      "url": "https://doi.org/10.1787/4bfc35b0-en"
+    },
+    {
+      "jurisdiction": "Botswana",
+      "iso3": "BWA",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2016,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2016-03-14",
+          "url": "https://doi.org/10.1787/9789264250734-en"
+        },
+        {
+          "rating": "Partially Compliant",
+          "round": 2,
+          "review_year": 2019,
+          "status": "Full peer review",
+          "source_outcome": "Partially Compliant",
+          "published_on": "2019-07-30",
+          "url": "https://doi.org/10.1787/d32b72f9-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2023,
+          "status": "Supplementary peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2023-11-08",
+          "url": "https://doi.org/10.1787/1372013f-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2023,
+      "status": "Supplementary peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2023-11-08",
+      "url": "https://doi.org/10.1787/1372013f-en"
+    },
+    {
+      "jurisdiction": "Brazil",
+      "iso3": "BRA",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264202610-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2018,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2018-10-15",
+          "url": "https://doi.org/10.1787/9789264306103-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2018,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2018-10-15",
+      "url": "https://doi.org/10.1787/9789264306103-en"
+    },
+    {
+      "jurisdiction": "British Virgin Islands",
+      "iso3": "VGB",
+      "reviews": [
+        {
+          "rating": "Non-Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Non-Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264202634-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2015,
+          "status": "Supplementary peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        },
+        {
+          "rating": "Partially Compliant",
+          "round": 2,
+          "review_year": 2022,
+          "status": "Full peer review",
+          "source_outcome": "Partially Compliant",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        },
+        {
+          "rating": "Partially Compliant",
+          "round": 2,
+          "review_year": 2025,
+          "status": "Supplementary peer review",
+          "source_outcome": "Partially Compliant",
+          "published_on": "2025-03-18",
+          "url": "https://doi.org/10.1787/973eefa7-en"
+        }
+      ],
+      "rating": "Partially Compliant",
+      "round": 2,
+      "review_year": 2025,
+      "status": "Supplementary peer review",
+      "source_outcome": "Partially Compliant",
+      "published_on": "2025-03-18",
+      "url": "https://doi.org/10.1787/973eefa7-en"
+    },
+    {
+      "jurisdiction": "Brunei Darussalam",
+      "iso3": "BRN",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2016,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2016-11-04",
+          "url": "https://doi.org/10.1787/9789264266063-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2020,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2020-04-06",
+          "url": "https://doi.org/10.1787/7dac6e50-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2020,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2020-04-06",
+      "url": "https://doi.org/10.1787/7dac6e50-en"
+    },
+    {
+      "jurisdiction": "Bulgaria",
+      "iso3": "BGR",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2016,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2016-11-04",
+          "url": "https://doi.org/10.1787/9789264265790-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2024,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2024-03-28",
+          "url": "https://doi.org/10.1787/62fefba0-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2024,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2024-03-28",
+      "url": "https://doi.org/10.1787/62fefba0-en"
+    },
+    {
+      "jurisdiction": "Burkina Faso",
+      "iso3": "BFA",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2016,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2016-11-04",
+          "url": "https://doi.org/10.1787/9789264266070-en"
+        },
+        {
+          "rating": null,
+          "round": 2,
+          "review_year": 2025,
+          "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+          "source_outcome": "Phase 1 only**",
+          "published_on": "2025-03-18",
+          "url": "https://doi.org/10.1787/e5691e31-en"
+        }
+      ],
+      "rating": null,
+      "round": 2,
+      "review_year": 2025,
+      "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+      "source_outcome": "Phase 1 only**",
+      "published_on": "2025-03-18",
+      "url": "https://doi.org/10.1787/e5691e31-en"
+    },
+    {
+      "jurisdiction": "Cabo Verde",
+      "iso3": "CPV",
+      "reviews": [
+        {
+          "rating": null,
+          "round": 2,
+          "review_year": 2026,
+          "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+          "source_outcome": "Phase 1 only**",
+          "published_on": "2026-01-21",
+          "url": "https://doi.org/10.1787/2bbd378b-en"
+        }
+      ],
+      "rating": null,
+      "round": 2,
+      "review_year": 2026,
+      "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+      "source_outcome": "Phase 1 only**",
+      "published_on": "2026-01-21",
+      "url": "https://doi.org/10.1787/2bbd378b-en"
+    },
+    {
+      "jurisdiction": "Cambodia",
+      "iso3": "KHM",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2026,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2026-04-29",
+          "url": "https://doi.org/10.1787/549b27f0-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2026,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2026-04-29",
+      "url": "https://doi.org/10.1787/549b27f0-en"
+    },
+    {
+      "jurisdiction": "Cameroon",
+      "iso3": "CMR",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2016,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2016-07-26",
+          "url": "https://doi.org/10.1787/9789264258754-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2024,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2024-03-28",
+          "url": "https://doi.org/10.1787/495bcba9-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2024,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2024-03-28",
+      "url": "https://doi.org/10.1787/495bcba9-en"
+    },
+    {
+      "jurisdiction": "Canada",
+      "iso3": "CAN",
+      "reviews": [
+        {
+          "rating": "Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264205543-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2017,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2017-08-21",
+          "url": "https://doi.org/10.1787/9789264280137-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2017,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2017-08-21",
+      "url": "https://doi.org/10.1787/9789264280137-en"
+    },
+    {
+      "jurisdiction": "Cayman Islands",
+      "iso3": "CYM",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264192089-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2017,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2017-08-21",
+          "url": "https://doi.org/10.1787/9789264280168-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2017,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2017-08-21",
+      "url": "https://doi.org/10.1787/9789264280168-en"
+    },
+    {
+      "jurisdiction": "Chad",
+      "iso3": "TCD",
+      "reviews": [
+        {
+          "rating": null,
+          "round": null,
+          "review_year": null,
+          "status": "Not yet reviewed",
+          "source_outcome": "Not yet reviewed",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        }
+      ],
+      "rating": null,
+      "round": null,
+      "review_year": null,
+      "status": "Not yet reviewed",
+      "source_outcome": "Not yet reviewed",
+      "published_on": null,
+      "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+    },
+    {
+      "jurisdiction": "Chile",
+      "iso3": "CHL",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2014,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2014-08-04",
+          "url": "https://doi.org/10.1787/9789264217676-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2020,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2020-09-01",
+          "url": "https://doi.org/10.1787/ec2b5c7b-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2020,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2020-09-01",
+      "url": "https://doi.org/10.1787/ec2b5c7b-en"
+    },
+    {
+      "jurisdiction": "China",
+      "iso3": "CHN",
+      "reviews": [
+        {
+          "rating": "Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264205567-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2020,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2020-09-01",
+          "url": "https://doi.org/10.1787/1069fca1-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2020,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2020-09-01",
+      "url": "https://doi.org/10.1787/1069fca1-en"
+    },
+    {
+      "jurisdiction": "Colombia",
+      "iso3": "COL",
+      "reviews": [
+        {
+          "rating": "Compliant",
+          "round": 1,
+          "review_year": 2015,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": "2015-10-30",
+          "url": "https://doi.org/10.1787/9789264244993-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2024,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2024-11-21",
+          "url": "https://doi.org/10.1787/76d26379-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2024,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2024-11-21",
+      "url": "https://doi.org/10.1787/76d26379-en"
+    },
+    {
+      "jurisdiction": "Congo (Republic of the)",
+      "iso3": "COG",
+      "reviews": [
+        {
+          "rating": null,
+          "round": 2,
+          "review_year": 2026,
+          "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+          "source_outcome": "Phase 1 only**",
+          "published_on": "2026-11-03",
+          "url": "https://doi.org/10.1787/ecd16e8c-en"
+        }
+      ],
+      "rating": null,
+      "round": 2,
+      "review_year": 2026,
+      "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+      "source_outcome": "Phase 1 only**",
+      "published_on": "2026-11-03",
+      "url": "https://doi.org/10.1787/ecd16e8c-en"
+    },
+    {
+      "jurisdiction": "Cook Islands",
+      "iso3": "COK",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2015,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2015-03-16",
+          "url": "https://doi.org/10.1787/9789264231450-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2026,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2026-07-29",
+          "url": "https://doi.org/10.1787/6eb14e18-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2026,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2026-07-29",
+      "url": "https://doi.org/10.1787/6eb14e18-en"
+    },
+    {
+      "jurisdiction": "Costa Rica",
+      "iso3": "CRI",
+      "reviews": [
+        {
+          "rating": "Partially Compliant",
+          "round": 1,
+          "review_year": 2015,
+          "status": "Full peer review",
+          "source_outcome": "Partially Compliant",
+          "published_on": "2015-10-30",
+          "url": "https://doi.org/10.1787/9789264245044-en"
+        },
+        {
+          "rating": "Provisionally Largely Compliant",
+          "round": null,
+          "review_year": 2017,
+          "status": "Provisional fast-track rating",
+          "source_outcome": "Provisionally Largely Compliant",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2019,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2019-07-30",
+          "url": "https://doi.org/10.1787/4d74d8a2-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2019,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2019-07-30",
+      "url": "https://doi.org/10.1787/4d74d8a2-en"
+    },
+    {
+      "jurisdiction": "Croatia",
+      "iso3": "HRV",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2019,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2019-07-30",
+          "url": "https://doi.org/10.1787/ccacbca7-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2019,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2019-07-30",
+      "url": "https://doi.org/10.1787/ccacbca7-en"
+    },
+    {
+      "jurisdiction": "Curaçao",
+      "iso3": "CUW",
+      "reviews": [
+        {
+          "rating": "Partially Compliant",
+          "round": 1,
+          "review_year": 2015,
+          "status": "Full peer review",
+          "source_outcome": "Partially Compliant",
+          "published_on": "2015-03-16",
+          "url": "https://doi.org/10.1787/9789264231474-en"
+        },
+        {
+          "rating": "Partially Compliant",
+          "round": 2,
+          "review_year": 2017,
+          "status": "Full peer review",
+          "source_outcome": "Partially Compliant",
+          "published_on": "2017-11-17",
+          "url": "https://doi.org/10.1787/9789264283718-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2019,
+          "status": "Supplementary peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2019-11-12",
+          "url": "https://doi.org/10.1787/4f2c9b28-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2019,
+      "status": "Supplementary peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2019-11-12",
+      "url": "https://doi.org/10.1787/4f2c9b28-en"
+    },
+    {
+      "jurisdiction": "Cyprus",
+      "iso3": "CYP",
+      "reviews": [
+        {
+          "rating": "Non-Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Non-Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264205482-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2015,
+          "status": "Supplementary peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2015-10-30",
+          "url": "https://doi.org/10.1787/b22c069c-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2020,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2020-12-11",
+          "url": "https://doi.org/10.1787/5a08658c-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2020,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2020-12-11",
+      "url": "https://doi.org/10.1787/5a08658c-en"
+    },
+    {
+      "jurisdiction": "Czechia",
+      "iso3": "CZE",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2015,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2015-05-26",
+          "url": "https://doi.org/10.1787/9789264233706-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2023,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2023-03-28",
+          "url": "https://doi.org/10.1787/366b187f-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2023,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2023-03-28",
+      "url": "https://doi.org/10.1787/366b187f-en"
+    },
+    {
+      "jurisdiction": "Côte d'Ivoire",
+      "iso3": "CIV",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2025,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2025-03-18",
+          "url": "https://doi.org/10.1787/725d769c-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2025,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2025-03-18",
+      "url": "https://doi.org/10.1787/725d769c-en"
+    },
+    {
+      "jurisdiction": "Democratic Republic of the Congo",
+      "iso3": "COD",
+      "reviews": [
+        {
+          "rating": null,
+          "round": null,
+          "review_year": null,
+          "status": "Not yet reviewed",
+          "source_outcome": "Not yet reviewed",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        }
+      ],
+      "rating": null,
+      "round": null,
+      "review_year": null,
+      "status": "Not yet reviewed",
+      "source_outcome": "Not yet reviewed",
+      "published_on": null,
+      "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+    },
+    {
+      "jurisdiction": "Denmark",
+      "iso3": "DNK",
+      "reviews": [
+        {
+          "rating": "Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264205581-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2017,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2017-11-17",
+          "url": "https://doi.org/10.1787/9789264283732-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2017,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2017-11-17",
+      "url": "https://doi.org/10.1787/9789264283732-en"
+    },
+    {
+      "jurisdiction": "Djibouti",
+      "iso3": "DJI",
+      "reviews": [
+        {
+          "rating": null,
+          "round": 2,
+          "review_year": 2025,
+          "status": "Phase 1 only. The necessary legal and regulatory framework was not in place.",
+          "source_outcome": "Phase 1 only***",
+          "published_on": "2025-03-18",
+          "url": "https://doi.org/10.1787/ff182794-en"
+        }
+      ],
+      "rating": null,
+      "round": 2,
+      "review_year": 2025,
+      "status": "Phase 1 only. The necessary legal and regulatory framework was not in place.",
+      "source_outcome": "Phase 1 only***",
+      "published_on": "2025-03-18",
+      "url": "https://doi.org/10.1787/ff182794-en"
+    },
+    {
+      "jurisdiction": "Dominica",
+      "iso3": "DMA",
+      "reviews": [
+        {
+          "rating": "Partially Compliant",
+          "round": 1,
+          "review_year": 2016,
+          "status": "Full peer review",
+          "source_outcome": "Partially Compliant",
+          "published_on": "2016-11-04",
+          "url": "https://doi.org/10.1787/9789264266124-en"
+        },
+        {
+          "rating": "Provisionally Largely Compliant",
+          "round": null,
+          "review_year": 2017,
+          "status": "Provisional fast-track rating",
+          "source_outcome": "Provisionally Largely Compliant",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        },
+        {
+          "rating": "Partially Compliant",
+          "round": 2,
+          "review_year": 2020,
+          "status": "Full peer review",
+          "source_outcome": "Partially Compliant",
+          "published_on": "2020-12-11",
+          "url": "https://doi.org/10.1787/b6dd4a18-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2023,
+          "status": "Supplementary peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2023-11-08",
+          "url": "https://doi.org/10.1787/7624ec12-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2023,
+      "status": "Supplementary peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2023-11-08",
+      "url": "https://doi.org/10.1787/7624ec12-en"
+    },
+    {
+      "jurisdiction": "Dominican Republic",
+      "iso3": "DOM",
+      "reviews": [
+        {
+          "rating": "Partially Compliant",
+          "round": 1,
+          "review_year": 2016,
+          "status": "Full peer review",
+          "source_outcome": "Partially Compliant",
+          "published_on": "2016-11-04",
+          "url": "https://doi.org/10.1787/9789264258778-en"
+        },
+        {
+          "rating": "Provisionally Largely Compliant",
+          "round": null,
+          "review_year": 2017,
+          "status": "Provisional fast-track rating",
+          "source_outcome": "Provisionally Largely Compliant",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2019,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2019-11-12",
+          "url": "https://doi.org/10.1787/7f68d3cf-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2019,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2019-11-12",
+      "url": "https://doi.org/10.1787/7f68d3cf-en"
+    },
+    {
+      "jurisdiction": "Ecuador",
+      "iso3": "ECU",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2024,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2024-07-19",
+          "url": "https://doi.org/10.1787/76eb159b-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2024,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2024-07-19",
+      "url": "https://doi.org/10.1787/76eb159b-en"
+    },
+    {
+      "jurisdiction": "Egypt",
+      "iso3": "EGY",
+      "reviews": [
+        {
+          "rating": "Partially Compliant",
+          "round": 2,
+          "review_year": 2024,
+          "status": "Full peer review",
+          "source_outcome": "Partially Compliant",
+          "published_on": "2024-03-28",
+          "url": "https://doi.org/10.1787/f71584b9-en"
+        }
+      ],
+      "rating": "Partially Compliant",
+      "round": 2,
+      "review_year": 2024,
+      "status": "Full peer review",
+      "source_outcome": "Partially Compliant",
+      "published_on": "2024-03-28",
+      "url": "https://doi.org/10.1787/f71584b9-en"
+    },
+    {
+      "jurisdiction": "El Salvador",
+      "iso3": "SLV",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2016,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2016-03-14",
+          "url": "https://doi.org/10.1787/9789264250758-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2026,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2026-04-29",
+          "url": "https://doi.org/10.1787/8d538d31-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2026,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2026-04-29",
+      "url": "https://doi.org/10.1787/8d538d31-en"
+    },
+    {
+      "jurisdiction": "Estonia",
+      "iso3": "EST",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264206113-en"
+        },
+        {
+          "rating": "Compliant",
+          "round": 2,
+          "review_year": 2018,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": "2018-04-04",
+          "url": "https://doi.org/10.1787/9789264291034-en"
+        }
+      ],
+      "rating": "Compliant",
+      "round": 2,
+      "review_year": 2018,
+      "status": "Full peer review",
+      "source_outcome": "Compliant",
+      "published_on": "2018-04-04",
+      "url": "https://doi.org/10.1787/9789264291034-en"
+    },
+    {
+      "jurisdiction": "Eswatini",
+      "iso3": "SWZ",
+      "reviews": [
+        {
+          "rating": null,
+          "round": 2,
+          "review_year": 2025,
+          "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+          "source_outcome": "Phase 1 only**",
+          "published_on": "2025-11-10",
+          "url": "https://doi.org/10.1787/292d6e6f-en"
+        }
+      ],
+      "rating": null,
+      "round": 2,
+      "review_year": 2025,
+      "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+      "source_outcome": "Phase 1 only**",
+      "published_on": "2025-11-10",
+      "url": "https://doi.org/10.1787/292d6e6f-en"
+    },
+    {
+      "jurisdiction": "Faroe Islands",
+      "iso3": "FRO",
+      "reviews": [
+        {
+          "rating": "Compliant",
+          "round": 2,
+          "review_year": 2023,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": "2023-07-19",
+          "url": "https://doi.org/10.1787/306bc415-en"
+        }
+      ],
+      "rating": "Compliant",
+      "round": 2,
+      "review_year": 2023,
+      "status": "Full peer review",
+      "source_outcome": "Compliant",
+      "published_on": "2023-07-19",
+      "url": "https://doi.org/10.1787/306bc415-en"
+    },
+    {
+      "jurisdiction": "Fiji",
+      "iso3": "FJI",
+      "reviews": [
+        {
+          "rating": null,
+          "round": null,
+          "review_year": null,
+          "status": "Not yet reviewed",
+          "source_outcome": "Not yet reviewed",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        }
+      ],
+      "rating": null,
+      "round": null,
+      "review_year": null,
+      "status": "Not yet reviewed",
+      "source_outcome": "Not yet reviewed",
+      "published_on": null,
+      "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+    },
+    {
+      "jurisdiction": "Finland",
+      "iso3": "FIN",
+      "reviews": [
+        {
+          "rating": "Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2022,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2022-08-16",
+          "url": "https://doi.org/10.1787/9d732003-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2022,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2022-08-16",
+      "url": "https://doi.org/10.1787/9d732003-en"
+    },
+    {
+      "jurisdiction": "France",
+      "iso3": "FRA",
+      "reviews": [
+        {
+          "rating": "Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264205628-en"
+        },
+        {
+          "rating": "Compliant",
+          "round": 2,
+          "review_year": 2018,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": "2018-04-04",
+          "url": "https://doi.org/10.1787/9789264291058-en"
+        }
+      ],
+      "rating": "Compliant",
+      "round": 2,
+      "review_year": 2018,
+      "status": "Full peer review",
+      "source_outcome": "Compliant",
+      "published_on": "2018-04-04",
+      "url": "https://doi.org/10.1787/9789264291058-en"
+    },
+    {
+      "jurisdiction": "Gabon",
+      "iso3": "GAB",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2016,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2016-07-26",
+          "url": "https://doi.org/10.1787/9789264258792-en"
+        },
+        {
+          "rating": "Non-Compliant",
+          "round": 2,
+          "review_year": 2026,
+          "status": "Full peer review",
+          "source_outcome": "Non-Compliant",
+          "published_on": "2026-04-29",
+          "url": "https://doi.org/10.1787/77f8805e-en"
+        }
+      ],
+      "rating": "Non-Compliant",
+      "round": 2,
+      "review_year": 2026,
+      "status": "Full peer review",
+      "source_outcome": "Non-Compliant",
+      "published_on": "2026-04-29",
+      "url": "https://doi.org/10.1787/77f8805e-en"
+    },
+    {
+      "jurisdiction": "Georgia",
+      "iso3": "GEO",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2016,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2016-03-14",
+          "url": "https://doi.org/10.1787/9789264250772-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2024,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2024-03-28",
+          "url": "https://doi.org/10.1787/40424254-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2024,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2024-03-28",
+      "url": "https://doi.org/10.1787/40424254-en"
+    },
+    {
+      "jurisdiction": "Germany",
+      "iso3": "DEU",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264205642-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2017,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2017-08-21",
+          "url": "https://doi.org/10.1787/9789264280205-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2017,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2017-08-21",
+      "url": "https://doi.org/10.1787/9789264280205-en"
+    },
+    {
+      "jurisdiction": "Ghana",
+      "iso3": "GHA",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2014,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2014-10-29",
+          "url": "https://doi.org/10.1787/9789264222878-en"
+        },
+        {
+          "rating": "Partially Compliant",
+          "round": 2,
+          "review_year": 2018,
+          "status": "Full peer review",
+          "source_outcome": "Partially Compliant",
+          "published_on": "2018-04-04",
+          "url": "https://doi.org/10.1787/9789264291119-en"
+        }
+      ],
+      "rating": "Partially Compliant",
+      "round": 2,
+      "review_year": 2018,
+      "status": "Full peer review",
+      "source_outcome": "Partially Compliant",
+      "published_on": "2018-04-04",
+      "url": "https://doi.org/10.1787/9789264291119-en"
+    },
+    {
+      "jurisdiction": "Gibraltar",
+      "iso3": "GIB",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2014,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2014-10-29",
+          "url": "https://doi.org/10.1787/9789264222885-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2020,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2020-09-01",
+          "url": "https://doi.org/10.1787/8b4242db-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2020,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2020-09-01",
+      "url": "https://doi.org/10.1787/8b4242db-en"
+    },
+    {
+      "jurisdiction": "Greece",
+      "iso3": "GRC",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264205666-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2020,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2020-09-01",
+          "url": "https://doi.org/10.1787/8279749f-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2020,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2020-09-01",
+      "url": "https://doi.org/10.1787/8279749f-en"
+    },
+    {
+      "jurisdiction": "Greenland",
+      "iso3": "GRL",
+      "reviews": [
+        {
+          "rating": "Compliant",
+          "round": 2,
+          "review_year": 2023,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": "2023-07-19",
+          "url": "https://doi.org/10.1787/e1842f2b-en"
+        }
+      ],
+      "rating": "Compliant",
+      "round": 2,
+      "review_year": 2023,
+      "status": "Full peer review",
+      "source_outcome": "Compliant",
+      "published_on": "2023-07-19",
+      "url": "https://doi.org/10.1787/e1842f2b-en"
+    },
+    {
+      "jurisdiction": "Grenada",
+      "iso3": "GRD",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2014,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2014-10-29",
+          "url": "https://doi.org/10.1787/9789264223035-en"
+        },
+        {
+          "rating": null,
+          "round": 2,
+          "review_year": 2024,
+          "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+          "source_outcome": "Phase 1 only**",
+          "published_on": "2024-11-21",
+          "url": "https://doi.org/10.1787/1c45badc-en"
+        }
+      ],
+      "rating": null,
+      "round": 2,
+      "review_year": 2024,
+      "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+      "source_outcome": "Phase 1 only**",
+      "published_on": "2024-11-21",
+      "url": "https://doi.org/10.1787/1c45badc-en"
+    },
+    {
+      "jurisdiction": "Guatemala",
+      "iso3": "GTM",
+      "reviews": [
+        {
+          "rating": "Non-Compliant",
+          "round": 1,
+          "review_year": 2015,
+          "status": "Supplementary peer review",
+          "source_outcome": "Non-Compliant",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        },
+        {
+          "rating": "Provisionally Largely Compliant",
+          "round": null,
+          "review_year": 2017,
+          "status": "Provisional fast-track rating",
+          "source_outcome": "Provisionally Largely Compliant",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        },
+        {
+          "rating": "Non-Compliant",
+          "round": 2,
+          "review_year": 2019,
+          "status": "Full peer review",
+          "source_outcome": "Non-Compliant",
+          "published_on": "2019-07-30",
+          "url": "https://doi.org/10.1787/5ce22634-en"
+        }
+      ],
+      "rating": "Non-Compliant",
+      "round": 2,
+      "review_year": 2019,
+      "status": "Full peer review",
+      "source_outcome": "Non-Compliant",
+      "published_on": "2019-07-30",
+      "url": "https://doi.org/10.1787/5ce22634-en"
+    },
+    {
+      "jurisdiction": "Guernsey",
+      "iso3": "GGY",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264192102-en"
+        },
+        {
+          "rating": "Compliant",
+          "round": 2,
+          "review_year": 2018,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": "2018-07-16",
+          "url": "https://doi.org/10.1787/9789264302730-en"
+        }
+      ],
+      "rating": "Compliant",
+      "round": 2,
+      "review_year": 2018,
+      "status": "Full peer review",
+      "source_outcome": "Compliant",
+      "published_on": "2018-07-16",
+      "url": "https://doi.org/10.1787/9789264302730-en"
+    },
+    {
+      "jurisdiction": "Guinea",
+      "iso3": "GIN",
+      "reviews": [
+        {
+          "rating": null,
+          "round": 2,
+          "review_year": 2026,
+          "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+          "source_outcome": "Phase 1 only**",
+          "published_on": "2026-04-29",
+          "url": "https://doi.org/10.1787/574618bd-en"
+        }
+      ],
+      "rating": null,
+      "round": 2,
+      "review_year": 2026,
+      "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+      "source_outcome": "Phase 1 only**",
+      "published_on": "2026-04-29",
+      "url": "https://doi.org/10.1787/574618bd-en"
+    },
+    {
+      "jurisdiction": "Guyana",
+      "iso3": "GUY",
+      "reviews": [
+        {
+          "rating": null,
+          "round": 2,
+          "review_year": 2024,
+          "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+          "source_outcome": "Phase 1 only**",
+          "published_on": "2024-11-21",
+          "url": "https://doi.org/10.1787/6fa4af0d-en"
+        }
+      ],
+      "rating": null,
+      "round": 2,
+      "review_year": 2024,
+      "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+      "source_outcome": "Phase 1 only**",
+      "published_on": "2024-11-21",
+      "url": "https://doi.org/10.1787/6fa4af0d-en"
+    },
+    {
+      "jurisdiction": "Haiti",
+      "iso3": "HTI",
+      "reviews": [
+        {
+          "rating": null,
+          "round": null,
+          "review_year": null,
+          "status": "Not yet reviewed",
+          "source_outcome": "Not yet reviewed",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        }
+      ],
+      "rating": null,
+      "round": null,
+      "review_year": null,
+      "status": "Not yet reviewed",
+      "source_outcome": "Not yet reviewed",
+      "published_on": null,
+      "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+    },
+    {
+      "jurisdiction": "Honduras",
+      "iso3": "HND",
+      "reviews": [
+        {
+          "rating": null,
+          "round": 2,
+          "review_year": 2025,
+          "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+          "source_outcome": "Phase 1 only**",
+          "published_on": "2025-07-18",
+          "url": "https://doi.org/10.1787/a78756b9-en"
+        }
+      ],
+      "rating": null,
+      "round": 2,
+      "review_year": 2025,
+      "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+      "source_outcome": "Phase 1 only**",
+      "published_on": "2025-07-18",
+      "url": "https://doi.org/10.1787/a78756b9-en"
+    },
+    {
+      "jurisdiction": "Hong Kong, China",
+      "iso3": "HKG",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264206137-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2019,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2019-03-18",
+          "url": "https://doi.org/10.1787/34f9b9a8-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2019,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2019-03-18",
+      "url": "https://doi.org/10.1787/34f9b9a8-en"
+    },
+    {
+      "jurisdiction": "Hungary",
+      "iso3": "HUN",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2015,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2015-03-16",
+          "url": "https://doi.org/10.1787/9789264231498-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2018,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2018-04-04",
+          "url": "https://doi.org/10.1787/9789264291133-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2018,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2018-04-04",
+      "url": "https://doi.org/10.1787/9789264291133-en"
+    },
+    {
+      "jurisdiction": "Iceland",
+      "iso3": "ISL",
+      "reviews": [
+        {
+          "rating": "Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2022,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2022-11-09",
+          "url": "https://doi.org/10.1787/f27a2398-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2022,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2022-11-09",
+      "url": "https://doi.org/10.1787/f27a2398-en"
+    },
+    {
+      "jurisdiction": "India",
+      "iso3": "IND",
+      "reviews": [
+        {
+          "rating": "Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264202658-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2017,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2017-11-17",
+          "url": "https://doi.org/10.1787/9789264283756-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2017,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2017-11-17",
+      "url": "https://doi.org/10.1787/9789264283756-en"
+    },
+    {
+      "jurisdiction": "Indonesia",
+      "iso3": "IDN",
+      "reviews": [
+        {
+          "rating": "Partially Compliant",
+          "round": 1,
+          "review_year": 2014,
+          "status": "Full peer review",
+          "source_outcome": "Partially Compliant",
+          "published_on": "2014-08-04",
+          "url": "https://doi.org/10.1787/9789264217737-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2018,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2018-07-16",
+          "url": "https://doi.org/10.1787/9789264302754-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2018,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2018-07-16",
+      "url": "https://doi.org/10.1787/9789264302754-en"
+    },
+    {
+      "jurisdiction": "Ireland",
+      "iso3": "IRL",
+      "reviews": [
+        {
+          "rating": "Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264205703-en"
+        },
+        {
+          "rating": "Compliant",
+          "round": 2,
+          "review_year": 2017,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": "2017-08-21",
+          "url": "https://doi.org/10.1787/9789264280229-en"
+        }
+      ],
+      "rating": "Compliant",
+      "round": 2,
+      "review_year": 2017,
+      "status": "Full peer review",
+      "source_outcome": "Compliant",
+      "published_on": "2017-08-21",
+      "url": "https://doi.org/10.1787/9789264280229-en"
+    },
+    {
+      "jurisdiction": "Isle of Man",
+      "iso3": "IMN",
+      "reviews": [
+        {
+          "rating": "Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264205727-en"
+        },
+        {
+          "rating": "Compliant",
+          "round": 2,
+          "review_year": 2017,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": "2017-11-17",
+          "url": "https://doi.org/10.1787/9789264283770-en"
+        }
+      ],
+      "rating": "Compliant",
+      "round": 2,
+      "review_year": 2017,
+      "status": "Full peer review",
+      "source_outcome": "Compliant",
+      "published_on": "2017-11-17",
+      "url": "https://doi.org/10.1787/9789264283770-en"
+    },
+    {
+      "jurisdiction": "Israel",
+      "iso3": "ISR",
+      "reviews": [
+        {
+          "rating": "Partially Compliant",
+          "round": 1,
+          "review_year": 2014,
+          "status": "Full peer review",
+          "source_outcome": "Partially Compliant",
+          "published_on": "2014-10-29",
+          "url": "https://doi.org/10.1787/9789264223059-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2016,
+          "status": "Supplementary peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2016-11-04",
+          "url": "https://doi.org/10.1787/b70a5e22-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2024,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2024-07-19",
+          "url": "https://doi.org/10.1787/c06214b4-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2024,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2024-07-19",
+      "url": "https://doi.org/10.1787/c06214b4-en"
+    },
+    {
+      "jurisdiction": "Italy",
+      "iso3": "ITA",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264205741-en"
+        },
+        {
+          "rating": "Compliant",
+          "round": 2,
+          "review_year": 2017,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": "2017-11-17",
+          "url": "https://doi.org/10.1787/9789264283800-en"
+        }
+      ],
+      "rating": "Compliant",
+      "round": 2,
+      "review_year": 2017,
+      "status": "Full peer review",
+      "source_outcome": "Compliant",
+      "published_on": "2017-11-17",
+      "url": "https://doi.org/10.1787/9789264283800-en"
+    },
+    {
+      "jurisdiction": "Jamaica",
+      "iso3": "JAM",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2013-12-03",
+          "url": "https://doi.org/10.1787/9789264206151-en"
+        },
+        {
+          "rating": "Partially Compliant",
+          "round": 2,
+          "review_year": 2017,
+          "status": "Full peer review",
+          "source_outcome": "Partially Compliant",
+          "published_on": "2017-08-21",
+          "url": "https://doi.org/10.1787/9789264280281-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2018,
+          "status": "Supplementary peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2018-08-30",
+          "url": "https://doi.org/10.1787/854b209b-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2018,
+      "status": "Supplementary peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2018-08-30",
+      "url": "https://doi.org/10.1787/854b209b-en"
+    },
+    {
+      "jurisdiction": "Japan",
+      "iso3": "JPN",
+      "reviews": [
+        {
+          "rating": "Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264205765-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2018,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2018-07-16",
+          "url": "https://doi.org/10.1787/9789264302778-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2018,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2018-07-16",
+      "url": "https://doi.org/10.1787/9789264302778-en"
+    },
+    {
+      "jurisdiction": "Jersey",
+      "iso3": "JEY",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264205789-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2014,
+          "status": "Supplementary peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2014-08-04",
+          "url": "https://doi.org/10.1787/2585cf1b-en"
+        },
+        {
+          "rating": "Compliant",
+          "round": 2,
+          "review_year": 2017,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": "2017-11-17",
+          "url": "https://doi.org/10.1787/9789264283824-en"
+        }
+      ],
+      "rating": "Compliant",
+      "round": 2,
+      "review_year": 2017,
+      "status": "Full peer review",
+      "source_outcome": "Compliant",
+      "published_on": "2017-11-17",
+      "url": "https://doi.org/10.1787/9789264283824-en"
+    },
+    {
+      "jurisdiction": "Jordan",
+      "iso3": "JOR",
+      "reviews": [
+        {
+          "rating": null,
+          "round": 2,
+          "review_year": 2025,
+          "status": "Phase 1 only. The necessary legal and regulatory framework was not in place.",
+          "source_outcome": "Phase 1 only***",
+          "published_on": "2025-11-10",
+          "url": "https://doi.org/10.1787/65015428-en"
+        }
+      ],
+      "rating": null,
+      "round": 2,
+      "review_year": 2025,
+      "status": "Phase 1 only. The necessary legal and regulatory framework was not in place.",
+      "source_outcome": "Phase 1 only***",
+      "published_on": "2025-11-10",
+      "url": "https://doi.org/10.1787/65015428-en"
+    },
+    {
+      "jurisdiction": "Kazakhstan",
+      "iso3": "KAZ",
+      "reviews": [
+        {
+          "rating": "Partially Compliant",
+          "round": 2,
+          "review_year": 2018,
+          "status": "Full peer review",
+          "source_outcome": "Partially Compliant",
+          "published_on": "2018-07-16",
+          "url": "https://doi.org/10.1787/9789264302792-en"
+        }
+      ],
+      "rating": "Partially Compliant",
+      "round": 2,
+      "review_year": 2018,
+      "status": "Full peer review",
+      "source_outcome": "Partially Compliant",
+      "published_on": "2018-07-16",
+      "url": "https://doi.org/10.1787/9789264302792-en"
+    },
+    {
+      "jurisdiction": "Kenya",
+      "iso3": "KEN",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2016,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2016-03-14",
+          "url": "https://doi.org/10.1787/9789264250796-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2024,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2024-03-28",
+          "url": "https://doi.org/10.1787/348052b1-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2024,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2024-03-28",
+      "url": "https://doi.org/10.1787/348052b1-en"
+    },
+    {
+      "jurisdiction": "Korea",
+      "iso3": "KOR",
+      "reviews": [
+        {
+          "rating": "Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2020,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2020-09-01",
+          "url": "https://doi.org/10.1787/97daef15-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2020,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2020-09-01",
+      "url": "https://doi.org/10.1787/97daef15-en"
+    },
+    {
+      "jurisdiction": "Kuwait",
+      "iso3": "KWT",
+      "reviews": [
+        {
+          "rating": null,
+          "round": 2,
+          "review_year": 2022,
+          "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+          "source_outcome": "Phase 1 only**",
+          "published_on": "2022-11-09",
+          "url": "https://doi.org/10.1787/45cceecd-en"
+        }
+      ],
+      "rating": null,
+      "round": 2,
+      "review_year": 2022,
+      "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+      "source_outcome": "Phase 1 only**",
+      "published_on": "2022-11-09",
+      "url": "https://doi.org/10.1787/45cceecd-en"
+    },
+    {
+      "jurisdiction": "Latvia",
+      "iso3": "LVA",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2015,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2015-10-30",
+          "url": "https://doi.org/10.1787/9789264245068-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2023,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2023-11-08",
+          "url": "https://doi.org/10.1787/b58002ef-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2023,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2023-11-08",
+      "url": "https://doi.org/10.1787/b58002ef-en"
+    },
+    {
+      "jurisdiction": "Lebanon",
+      "iso3": "LBN",
+      "reviews": [
+        {
+          "rating": "Provisionally Largely Compliant",
+          "round": null,
+          "review_year": 2017,
+          "status": "Provisional fast-track rating",
+          "source_outcome": "Provisionally Largely Compliant",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2019,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2019-07-30",
+          "url": "https://doi.org/10.1787/939f334e-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2019,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2019-07-30",
+      "url": "https://doi.org/10.1787/939f334e-en"
+    },
+    {
+      "jurisdiction": "Lesotho",
+      "iso3": "LSO",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2016,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2016-11-04",
+          "url": "https://doi.org/10.1787/9789264266148-en"
+        },
+        {
+          "rating": null,
+          "round": 2,
+          "review_year": 2023,
+          "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+          "source_outcome": "Phase 1 only**",
+          "published_on": "2023-07-19",
+          "url": "https://doi.org/10.1787/cd387436-en"
+        }
+      ],
+      "rating": null,
+      "round": 2,
+      "review_year": 2023,
+      "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+      "source_outcome": "Phase 1 only**",
+      "published_on": "2023-07-19",
+      "url": "https://doi.org/10.1787/cd387436-en"
+    },
+    {
+      "jurisdiction": "Liberia",
+      "iso3": "LBR",
+      "reviews": [
+        {
+          "rating": "Partially Compliant",
+          "round": 2,
+          "review_year": 2020,
+          "status": "Full peer review",
+          "source_outcome": "Partially Compliant",
+          "published_on": "2020-04-06",
+          "url": "https://doi.org/10.1787/e8ecd632-en"
+        }
+      ],
+      "rating": "Partially Compliant",
+      "round": 2,
+      "review_year": 2020,
+      "status": "Full peer review",
+      "source_outcome": "Partially Compliant",
+      "published_on": "2020-04-06",
+      "url": "https://doi.org/10.1787/e8ecd632-en"
+    },
+    {
+      "jurisdiction": "Liechtenstein",
+      "iso3": "LIE",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2015,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2015-10-30",
+          "url": "https://doi.org/10.1787/9789264245082-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2019,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2019-03-18",
+          "url": "https://doi.org/10.1787/299793c5-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2019,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2019-03-18",
+      "url": "https://doi.org/10.1787/299793c5-en"
+    },
+    {
+      "jurisdiction": "Lithuania",
+      "iso3": "LTU",
+      "reviews": [
+        {
+          "rating": "Compliant",
+          "round": 1,
+          "review_year": 2015,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": "2015-08-03",
+          "url": "https://doi.org/10.1787/9789264237339-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2024,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2024-07-19",
+          "url": "https://doi.org/10.1787/60e21789-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2024,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2024-07-19",
+      "url": "https://doi.org/10.1787/60e21789-en"
+    },
+    {
+      "jurisdiction": "Luxembourg",
+      "iso3": "LUX",
+      "reviews": [
+        {
+          "rating": "Non-Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Non-Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264202672-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2015,
+          "status": "Supplementary peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2015-10-30",
+          "url": "https://doi.org/10.1787/9080dd80-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2019,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2019-03-18",
+          "url": "https://doi.org/10.1787/7ba732bf-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2019,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2019-03-18",
+      "url": "https://doi.org/10.1787/7ba732bf-en"
+    },
+    {
+      "jurisdiction": "Macau, China",
+      "iso3": "MAC",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2020,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2020-04-06",
+          "url": "https://doi.org/10.1787/28be6ec6-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2020,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2020-04-06",
+      "url": "https://doi.org/10.1787/28be6ec6-en"
+    },
+    {
+      "jurisdiction": "Madagascar",
+      "iso3": "MDG",
+      "reviews": [
+        {
+          "rating": null,
+          "round": 2,
+          "review_year": 2025,
+          "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+          "source_outcome": "Phase 1 only**",
+          "published_on": "2025-07-18",
+          "url": "https://doi.org/10.1787/8c58d3f8-en"
+        }
+      ],
+      "rating": null,
+      "round": 2,
+      "review_year": 2025,
+      "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+      "source_outcome": "Phase 1 only**",
+      "published_on": "2025-07-18",
+      "url": "https://doi.org/10.1787/8c58d3f8-en"
+    },
+    {
+      "jurisdiction": "Malaysia",
+      "iso3": "MYS",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2014,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2014-04-24",
+          "url": "https://doi.org/10.1787/9789264210004-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2019,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2019-07-30",
+          "url": "https://doi.org/10.1787/d422824d-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2019,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2019-07-30",
+      "url": "https://doi.org/10.1787/d422824d-en"
+    },
+    {
+      "jurisdiction": "Maldives",
+      "iso3": "MDV",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2026,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2026-11-03",
+          "url": "https://doi.org/10.1787/c958a55b-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2026,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2026-11-03",
+      "url": "https://doi.org/10.1787/c958a55b-en"
+    },
+    {
+      "jurisdiction": "Mali",
+      "iso3": "MLI",
+      "reviews": [
+        {
+          "rating": null,
+          "round": null,
+          "review_year": null,
+          "status": "Not yet reviewed",
+          "source_outcome": "Not yet reviewed",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        }
+      ],
+      "rating": null,
+      "round": null,
+      "review_year": null,
+      "status": "Not yet reviewed",
+      "source_outcome": "Not yet reviewed",
+      "published_on": null,
+      "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+    },
+    {
+      "jurisdiction": "Malta",
+      "iso3": "MLT",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264202696-en"
+        },
+        {
+          "rating": "Partially Compliant",
+          "round": 2,
+          "review_year": 2020,
+          "status": "Full peer review",
+          "source_outcome": "Partially Compliant",
+          "published_on": "2020-09-01",
+          "url": "https://doi.org/10.1787/d92a4f90-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2024,
+          "status": "Supplementary peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2024-03-28",
+          "url": "https://doi.org/10.1787/8145f488-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2024,
+      "status": "Supplementary peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2024-03-28",
+      "url": "https://doi.org/10.1787/8145f488-en"
+    },
+    {
+      "jurisdiction": "Marshall Islands",
+      "iso3": "MHL",
+      "reviews": [
+        {
+          "rating": "Non-Compliant",
+          "round": 1,
+          "review_year": 2016,
+          "status": "Full peer review",
+          "source_outcome": "Non-Compliant",
+          "published_on": "2016-11-04",
+          "url": "https://doi.org/10.1787/9789264258815-en"
+        },
+        {
+          "rating": "Provisionally Partially Compliant",
+          "round": null,
+          "review_year": 2017,
+          "status": "Provisional fast-track rating",
+          "source_outcome": "Provisionally Partially Compliant",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2019,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2019-11-12",
+          "url": "https://doi.org/10.1787/89b5f984-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2019,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2019-11-12",
+      "url": "https://doi.org/10.1787/89b5f984-en"
+    },
+    {
+      "jurisdiction": "Mauritania",
+      "iso3": "MRT",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2016,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2016-03-14",
+          "url": "https://doi.org/10.1787/9789264250819-en"
+        },
+        {
+          "rating": null,
+          "round": 2,
+          "review_year": 2023,
+          "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+          "source_outcome": "Phase 1 only**",
+          "published_on": "2023-11-08",
+          "url": "https://doi.org/10.1787/951c320f-en"
+        }
+      ],
+      "rating": null,
+      "round": 2,
+      "review_year": 2023,
+      "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+      "source_outcome": "Phase 1 only**",
+      "published_on": "2023-11-08",
+      "url": "https://doi.org/10.1787/951c320f-en"
+    },
+    {
+      "jurisdiction": "Mauritius",
+      "iso3": "MUS",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264205826-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2014,
+          "status": "Supplementary peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2014-04-24",
+          "url": "https://doi.org/10.1787/28845388-en"
+        },
+        {
+          "rating": "Compliant",
+          "round": 2,
+          "review_year": 2017,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": "2017-08-21",
+          "url": "https://doi.org/10.1787/9789264280304-en"
+        }
+      ],
+      "rating": "Compliant",
+      "round": 2,
+      "review_year": 2017,
+      "status": "Full peer review",
+      "source_outcome": "Compliant",
+      "published_on": "2017-08-21",
+      "url": "https://doi.org/10.1787/9789264280304-en"
+    },
+    {
+      "jurisdiction": "Mexico",
+      "iso3": "MEX",
+      "reviews": [
+        {
+          "rating": "Compliant",
+          "round": 1,
+          "review_year": 2014,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": "2014-08-04",
+          "url": "https://doi.org/10.1787/9789264217751-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2023,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2023-03-28",
+          "url": "https://doi.org/10.1787/6fd9ab78-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2023,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2023-03-28",
+      "url": "https://doi.org/10.1787/6fd9ab78-en"
+    },
+    {
+      "jurisdiction": "Micronesia",
+      "iso3": "FSM",
+      "reviews": [
+        {
+          "rating": "Provisionally Largely Compliant",
+          "round": null,
+          "review_year": 2017,
+          "status": "Provisional fast-track rating",
+          "source_outcome": "Provisionally Largely Compliant",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2019,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2019-07-30",
+          "url": "https://doi.org/10.1787/4bc8ab63-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2019,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2019-07-30",
+      "url": "https://doi.org/10.1787/4bc8ab63-en"
+    },
+    {
+      "jurisdiction": "Moldova",
+      "iso3": "MDA",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2024,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2024-07-19",
+          "url": "https://doi.org/10.1787/ae0c799e-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2024,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2024-07-19",
+      "url": "https://doi.org/10.1787/ae0c799e-en"
+    },
+    {
+      "jurisdiction": "Monaco",
+      "iso3": "MCO",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264202832-en"
+        },
+        {
+          "rating": "Compliant",
+          "round": 2,
+          "review_year": 2018,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": "2018-04-04",
+          "url": "https://doi.org/10.1787/9789264291157-en"
+        }
+      ],
+      "rating": "Compliant",
+      "round": 2,
+      "review_year": 2018,
+      "status": "Full peer review",
+      "source_outcome": "Compliant",
+      "published_on": "2018-04-04",
+      "url": "https://doi.org/10.1787/9789264291157-en"
+    },
+    {
+      "jurisdiction": "Mongolia",
+      "iso3": "MNG",
+      "reviews": [
+        {
+          "rating": null,
+          "round": 2,
+          "review_year": 2025,
+          "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+          "source_outcome": "Phase 1 only**",
+          "published_on": "2025-07-18",
+          "url": "https://doi.org/10.1787/ce46323a-en"
+        }
+      ],
+      "rating": null,
+      "round": 2,
+      "review_year": 2025,
+      "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+      "source_outcome": "Phase 1 only**",
+      "published_on": "2025-07-18",
+      "url": "https://doi.org/10.1787/ce46323a-en"
+    },
+    {
+      "jurisdiction": "Montenegro",
+      "iso3": "MNE",
+      "reviews": [
+        {
+          "rating": "Partially Compliant",
+          "round": 2,
+          "review_year": 2024,
+          "status": "Full peer review",
+          "source_outcome": "Partially Compliant",
+          "published_on": "2024-11-21",
+          "url": "https://doi.org/10.1787/e2a493d7-en"
+        }
+      ],
+      "rating": "Partially Compliant",
+      "round": 2,
+      "review_year": 2024,
+      "status": "Full peer review",
+      "source_outcome": "Partially Compliant",
+      "published_on": "2024-11-21",
+      "url": "https://doi.org/10.1787/e2a493d7-en"
+    },
+    {
+      "jurisdiction": "Montserrat",
+      "iso3": "MSR",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2014,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2014-08-04",
+          "url": "https://doi.org/10.1787/9789264217768-en"
+        },
+        {
+          "rating": null,
+          "round": 2,
+          "review_year": 2026,
+          "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+          "source_outcome": "Phase 1 only**",
+          "published_on": "2026-04-29",
+          "url": "https://doi.org/10.1787/669b04da-en"
+        }
+      ],
+      "rating": null,
+      "round": 2,
+      "review_year": 2026,
+      "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+      "source_outcome": "Phase 1 only**",
+      "published_on": "2026-04-29",
+      "url": "https://doi.org/10.1787/669b04da-en"
+    },
+    {
+      "jurisdiction": "Morocco",
+      "iso3": "MAR",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2016,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2016-11-04",
+          "url": "https://doi.org/10.1787/9789264261044-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2022,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2022-11-09",
+          "url": "https://doi.org/10.1787/4844d7e6-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2022,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2022-11-09",
+      "url": "https://doi.org/10.1787/4844d7e6-en"
+    },
+    {
+      "jurisdiction": "Namibia",
+      "iso3": "NAM",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2026,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2026-07-29",
+          "url": "https://doi.org/10.1787/60b2024d-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2026,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2026-07-29",
+      "url": "https://doi.org/10.1787/60b2024d-en"
+    },
+    {
+      "jurisdiction": "Naoero",
+      "iso3": "NRU",
+      "reviews": [
+        {
+          "rating": "Provisionally Largely Compliant",
+          "round": null,
+          "review_year": 2017,
+          "status": "Provisional fast-track rating",
+          "source_outcome": "Provisionally Largely Compliant",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2019,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2019-07-30",
+          "url": "https://doi.org/10.1787/43120c29-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2019,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2019-07-30",
+      "url": "https://doi.org/10.1787/43120c29-en"
+    },
+    {
+      "jurisdiction": "Nepal",
+      "iso3": "NPL",
+      "reviews": [
+        {
+          "rating": null,
+          "round": null,
+          "review_year": null,
+          "status": "Not yet reviewed",
+          "source_outcome": "Not yet reviewed",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        }
+      ],
+      "rating": null,
+      "round": null,
+      "review_year": null,
+      "status": "Not yet reviewed",
+      "source_outcome": "Not yet reviewed",
+      "published_on": null,
+      "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+    },
+    {
+      "jurisdiction": "Netherlands",
+      "iso3": "NLD",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264205840-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2019,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2019-03-18",
+          "url": "https://doi.org/10.1787/fdce8e7f-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2019,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2019-03-18",
+      "url": "https://doi.org/10.1787/fdce8e7f-en"
+    },
+    {
+      "jurisdiction": "New Zealand",
+      "iso3": "NZL",
+      "reviews": [
+        {
+          "rating": "Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264205864-en"
+        },
+        {
+          "rating": "Compliant",
+          "round": 2,
+          "review_year": 2018,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": "2018-04-04",
+          "url": "https://doi.org/10.1787/9789264291171-en"
+        }
+      ],
+      "rating": "Compliant",
+      "round": 2,
+      "review_year": 2018,
+      "status": "Full peer review",
+      "source_outcome": "Compliant",
+      "published_on": "2018-04-04",
+      "url": "https://doi.org/10.1787/9789264291171-en"
+    },
+    {
+      "jurisdiction": "Nicaragua",
+      "iso3": "NIC",
+      "reviews": [
+        {
+          "rating": "Non-Compliant",
+          "round": 2,
+          "review_year": 2023,
+          "status": "Full peer review",
+          "source_outcome": "Non-Compliant",
+          "published_on": "2023-03-28",
+          "url": "https://doi.org/10.1787/5caa2288-en"
+        }
+      ],
+      "rating": "Non-Compliant",
+      "round": 2,
+      "review_year": 2023,
+      "status": "Full peer review",
+      "source_outcome": "Non-Compliant",
+      "published_on": "2023-03-28",
+      "url": "https://doi.org/10.1787/5caa2288-en"
+    },
+    {
+      "jurisdiction": "Niger",
+      "iso3": "NER",
+      "reviews": [
+        {
+          "rating": null,
+          "round": null,
+          "review_year": null,
+          "status": "Not yet reviewed",
+          "source_outcome": "Not yet reviewed",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        }
+      ],
+      "rating": null,
+      "round": null,
+      "review_year": null,
+      "status": "Not yet reviewed",
+      "source_outcome": "Not yet reviewed",
+      "published_on": null,
+      "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+    },
+    {
+      "jurisdiction": "Nigeria",
+      "iso3": "NGA",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2016,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2016-03-14",
+          "url": "https://doi.org/10.1787/9789264250857-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2023,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2023-03-28",
+          "url": "https://doi.org/10.1787/90bade22-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2023,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2023-03-28",
+      "url": "https://doi.org/10.1787/90bade22-en"
+    },
+    {
+      "jurisdiction": "Niue",
+      "iso3": "NIU",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2016,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2016-03-14",
+          "url": "https://doi.org/10.1787/9789264250871-en"
+        },
+        {
+          "rating": null,
+          "round": 2,
+          "review_year": 2026,
+          "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+          "source_outcome": "Phase 1 only**",
+          "published_on": "2026-04-29",
+          "url": "https://doi.org/10.1787/78de2acb-en"
+        }
+      ],
+      "rating": null,
+      "round": 2,
+      "review_year": 2026,
+      "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+      "source_outcome": "Phase 1 only**",
+      "published_on": "2026-04-29",
+      "url": "https://doi.org/10.1787/78de2acb-en"
+    },
+    {
+      "jurisdiction": "North Macedonia",
+      "iso3": "MKD",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2014,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2019,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2019-03-18",
+          "url": "https://doi.org/10.1787/c02d85f9-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2019,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2019-03-18",
+      "url": "https://doi.org/10.1787/c02d85f9-en"
+    },
+    {
+      "jurisdiction": "Norway",
+      "iso3": "NOR",
+      "reviews": [
+        {
+          "rating": "Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264205888-en"
+        },
+        {
+          "rating": "Compliant",
+          "round": 2,
+          "review_year": 2017,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": "2017-08-21",
+          "url": "https://doi.org/10.1787/9789264280021-en"
+        }
+      ],
+      "rating": "Compliant",
+      "round": 2,
+      "review_year": 2017,
+      "status": "Full peer review",
+      "source_outcome": "Compliant",
+      "published_on": "2017-08-21",
+      "url": "https://doi.org/10.1787/9789264280021-en"
+    },
+    {
+      "jurisdiction": "Oman",
+      "iso3": "OMN",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2025,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2025-07-18",
+          "url": "https://doi.org/10.1787/f917ac6e-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2025,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2025-07-18",
+      "url": "https://doi.org/10.1787/f917ac6e-en"
+    },
+    {
+      "jurisdiction": "Pakistan",
+      "iso3": "PAK",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2016,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2016-07-26",
+          "url": "https://doi.org/10.1787/9789264258839-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2023,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2023-11-08",
+          "url": "https://doi.org/10.1787/81828107-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2023,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2023-11-08",
+      "url": "https://doi.org/10.1787/81828107-en"
+    },
+    {
+      "jurisdiction": "Palau",
+      "iso3": "PLW",
+      "reviews": [
+        {
+          "rating": null,
+          "round": 2,
+          "review_year": 2026,
+          "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+          "source_outcome": "Phase 1 only**",
+          "published_on": "2026-01-21",
+          "url": "https://doi.org/10.1787/cb886cba-en"
+        }
+      ],
+      "rating": null,
+      "round": 2,
+      "review_year": 2026,
+      "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+      "source_outcome": "Phase 1 only**",
+      "published_on": "2026-01-21",
+      "url": "https://doi.org/10.1787/cb886cba-en"
+    },
+    {
+      "jurisdiction": "Panama",
+      "iso3": "PAN",
+      "reviews": [
+        {
+          "rating": "Non-Compliant",
+          "round": 1,
+          "review_year": 2016,
+          "status": "Full peer review",
+          "source_outcome": "Non-Compliant",
+          "published_on": "2016-11-04",
+          "url": "https://doi.org/10.1787/9789264266162-en"
+        },
+        {
+          "rating": "Provisionally Largely Compliant",
+          "round": null,
+          "review_year": 2017,
+          "status": "Provisional fast-track rating",
+          "source_outcome": "Provisionally Largely Compliant",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        },
+        {
+          "rating": "Partially Compliant",
+          "round": 2,
+          "review_year": 2019,
+          "status": "Full peer review",
+          "source_outcome": "Partially Compliant",
+          "published_on": "2019-11-12",
+          "url": "https://doi.org/10.1787/5f2584a0-en"
+        }
+      ],
+      "rating": "Partially Compliant",
+      "round": 2,
+      "review_year": 2019,
+      "status": "Full peer review",
+      "source_outcome": "Partially Compliant",
+      "published_on": "2019-11-12",
+      "url": "https://doi.org/10.1787/5f2584a0-en"
+    },
+    {
+      "jurisdiction": "Papua New Guinea",
+      "iso3": "PNG",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2020,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2020-09-01",
+          "url": "https://doi.org/10.1787/72fe35f0-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2020,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2020-09-01",
+      "url": "https://doi.org/10.1787/72fe35f0-en"
+    },
+    {
+      "jurisdiction": "Paraguay",
+      "iso3": "PRY",
+      "reviews": [
+        {
+          "rating": null,
+          "round": 2,
+          "review_year": 2023,
+          "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+          "source_outcome": "Phase 1 only**",
+          "published_on": "2023-07-19",
+          "url": "https://doi.org/10.1787/07edaf33-en"
+        }
+      ],
+      "rating": null,
+      "round": 2,
+      "review_year": 2023,
+      "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+      "source_outcome": "Phase 1 only**",
+      "published_on": "2023-07-19",
+      "url": "https://doi.org/10.1787/07edaf33-en"
+    },
+    {
+      "jurisdiction": "Peru",
+      "iso3": "PER",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2020,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2020-04-06",
+          "url": "https://doi.org/10.1787/f155434a-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2020,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2020-04-06",
+      "url": "https://doi.org/10.1787/f155434a-en"
+    },
+    {
+      "jurisdiction": "Philippines",
+      "iso3": "PHL",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264206236-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2018,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2018-07-16",
+          "url": "https://doi.org/10.1787/9789264303317-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2018,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2018-07-16",
+      "url": "https://doi.org/10.1787/9789264303317-en"
+    },
+    {
+      "jurisdiction": "Poland",
+      "iso3": "POL",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2015,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2015-08-03",
+          "url": "https://doi.org/10.1787/9789264233737-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2023,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2023-11-08",
+          "url": "https://doi.org/10.1787/aae8ac89-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2023,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2023-11-08",
+      "url": "https://doi.org/10.1787/aae8ac89-en"
+    },
+    {
+      "jurisdiction": "Portugal",
+      "iso3": "PRT",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2015,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2015-03-16",
+          "url": "https://doi.org/10.1787/9789264231634-en"
+        },
+        {
+          "rating": "Compliant",
+          "round": 2,
+          "review_year": 2022,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": "2022-08-16",
+          "url": "https://doi.org/10.1787/a47c34f6-en"
+        }
+      ],
+      "rating": "Compliant",
+      "round": 2,
+      "review_year": 2022,
+      "status": "Full peer review",
+      "source_outcome": "Compliant",
+      "published_on": "2022-08-16",
+      "url": "https://doi.org/10.1787/a47c34f6-en"
+    },
+    {
+      "jurisdiction": "Qatar",
+      "iso3": "QAT",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264202757-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2017,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2017-08-21",
+          "url": "https://doi.org/10.1787/9789264280328-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2017,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2017-08-21",
+      "url": "https://doi.org/10.1787/9789264280328-en"
+    },
+    {
+      "jurisdiction": "Romania",
+      "iso3": "ROU",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2016,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2016-11-04",
+          "url": "https://doi.org/10.1787/9789264266186-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2024,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2024-03-28",
+          "url": "https://doi.org/10.1787/a01f0330-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2024,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2024-03-28",
+      "url": "https://doi.org/10.1787/a01f0330-en"
+    },
+    {
+      "jurisdiction": "Russia",
+      "iso3": "RUS",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2014,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2014-10-29",
+          "url": "https://doi.org/10.1787/9789264223103-en"
+        },
+        {
+          "rating": null,
+          "round": 2,
+          "review_year": 2021,
+          "status": "Phase 1 only. Pandemic-related travel restrictions delayed the practical assessment.",
+          "source_outcome": "Phase 1 only*",
+          "published_on": "2021-06-24",
+          "url": "https://doi.org/10.1787/385973ef-en"
+        }
+      ],
+      "rating": null,
+      "round": 2,
+      "review_year": 2021,
+      "status": "Phase 1 only. Pandemic-related travel restrictions delayed the practical assessment.",
+      "source_outcome": "Phase 1 only*",
+      "published_on": "2021-06-24",
+      "url": "https://doi.org/10.1787/385973ef-en"
+    },
+    {
+      "jurisdiction": "Rwanda",
+      "iso3": "RWA",
+      "reviews": [
+        {
+          "rating": null,
+          "round": 2,
+          "review_year": 2024,
+          "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+          "source_outcome": "Phase 1 only**",
+          "published_on": "2024-11-21",
+          "url": "https://doi.org/10.1787/0adbbbb5-en"
+        }
+      ],
+      "rating": null,
+      "round": 2,
+      "review_year": 2024,
+      "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+      "source_outcome": "Phase 1 only**",
+      "published_on": "2024-11-21",
+      "url": "https://doi.org/10.1787/0adbbbb5-en"
+    },
+    {
+      "jurisdiction": "Saint Kitts and Nevis",
+      "iso3": "KNA",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2014,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2018,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2018-10-15",
+          "url": "https://doi.org/10.1787/9789264306141-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2018,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2018-10-15",
+      "url": "https://doi.org/10.1787/9789264306141-en"
+    },
+    {
+      "jurisdiction": "Saint Lucia",
+      "iso3": "LCA",
+      "reviews": [
+        {
+          "rating": "Partially Compliant",
+          "round": 1,
+          "review_year": 2014,
+          "status": "Full peer review",
+          "source_outcome": "Partially Compliant",
+          "published_on": "2014-08-04",
+          "url": "https://doi.org/10.1787/9789264217898-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2016,
+          "status": "Supplementary peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2016-07-26",
+          "url": "https://doi.org/10.1787/529e2283-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2023,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2023-03-28",
+          "url": "https://doi.org/10.1787/b81e8db8-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2023,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2023-03-28",
+      "url": "https://doi.org/10.1787/b81e8db8-en"
+    },
+    {
+      "jurisdiction": "Saint Vincent and the Grenadines",
+      "iso3": "VCT",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2014,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2014-10-29",
+          "url": "https://doi.org/10.1787/9789264223134-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2023,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2023-07-19",
+          "url": "https://doi.org/10.1787/f6d0eaf4-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2023,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2023-07-19",
+      "url": "https://doi.org/10.1787/f6d0eaf4-en"
+    },
+    {
+      "jurisdiction": "Samoa",
+      "iso3": "WSM",
+      "reviews": [
+        {
+          "rating": "Partially Compliant",
+          "round": 1,
+          "review_year": 2015,
+          "status": "Full peer review",
+          "source_outcome": "Partially Compliant",
+          "published_on": "2015-10-30",
+          "url": "https://doi.org/10.1787/9789264245105-en"
+        },
+        {
+          "rating": "Provisionally Largely Compliant",
+          "round": null,
+          "review_year": 2017,
+          "status": "Provisional fast-track rating",
+          "source_outcome": "Provisionally Largely Compliant",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2019,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2019-11-12",
+          "url": "https://doi.org/10.1787/d8954bf5-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2019,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2019-11-12",
+      "url": "https://doi.org/10.1787/d8954bf5-en"
+    },
+    {
+      "jurisdiction": "San Marino",
+      "iso3": "SMR",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264202771-en"
+        },
+        {
+          "rating": "Compliant",
+          "round": 2,
+          "review_year": 2018,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": "2018-07-16",
+          "url": "https://doi.org/10.1787/9789264302839-en"
+        }
+      ],
+      "rating": "Compliant",
+      "round": 2,
+      "review_year": 2018,
+      "status": "Full peer review",
+      "source_outcome": "Compliant",
+      "published_on": "2018-07-16",
+      "url": "https://doi.org/10.1787/9789264302839-en"
+    },
+    {
+      "jurisdiction": "Saudi Arabia",
+      "iso3": "SAU",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2016,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2016-03-14",
+          "url": "https://doi.org/10.1787/9789264250895-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2019,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2019-11-12",
+          "url": "https://doi.org/10.1787/186f45ba-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2019,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2019-11-12",
+      "url": "https://doi.org/10.1787/186f45ba-en"
+    },
+    {
+      "jurisdiction": "Senegal",
+      "iso3": "SEN",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2016,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2016-07-26",
+          "url": "https://doi.org/10.1787/9789264258853-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2024,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2024-11-21",
+          "url": "https://doi.org/10.1787/51bf4668-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2024,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2024-11-21",
+      "url": "https://doi.org/10.1787/51bf4668-en"
+    },
+    {
+      "jurisdiction": "Serbia",
+      "iso3": "SRB",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2023,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2023-11-08",
+          "url": "https://doi.org/10.1787/ccb5184d-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2023,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2023-11-08",
+      "url": "https://doi.org/10.1787/ccb5184d-en"
+    },
+    {
+      "jurisdiction": "Seychelles",
+      "iso3": "SYC",
+      "reviews": [
+        {
+          "rating": "Non-Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Non-Compliant",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2015,
+          "status": "Supplementary peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        },
+        {
+          "rating": "Partially Compliant",
+          "round": 2,
+          "review_year": 2020,
+          "status": "Full peer review",
+          "source_outcome": "Partially Compliant",
+          "published_on": "2020-04-06",
+          "url": "https://doi.org/10.1787/688fc4f9-en"
+        },
+        {
+          "rating": "Partially Compliant",
+          "round": 2,
+          "review_year": 2023,
+          "status": "Supplementary peer review",
+          "source_outcome": "Partially Compliant",
+          "published_on": "2023-07-19",
+          "url": "https://doi.org/10.1787/ddc3d41d-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2026,
+          "status": "In-depth peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2026-01-21",
+          "url": "https://doi.org/10.1787/85ed0f04-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2026,
+      "status": "In-depth peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2026-01-21",
+      "url": "https://doi.org/10.1787/85ed0f04-en"
+    },
+    {
+      "jurisdiction": "Sierra Leone",
+      "iso3": "SLE",
+      "reviews": [
+        {
+          "rating": null,
+          "round": null,
+          "review_year": null,
+          "status": "Not yet reviewed",
+          "source_outcome": "Not yet reviewed",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        }
+      ],
+      "rating": null,
+      "round": null,
+      "review_year": null,
+      "status": "Not yet reviewed",
+      "source_outcome": "Not yet reviewed",
+      "published_on": null,
+      "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+    },
+    {
+      "jurisdiction": "Singapore",
+      "iso3": "SGP",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264192140-en"
+        },
+        {
+          "rating": "Compliant",
+          "round": 2,
+          "review_year": 2018,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": "2018-10-15",
+          "url": "https://doi.org/10.1787/9789264306165-en"
+        }
+      ],
+      "rating": "Compliant",
+      "round": 2,
+      "review_year": 2018,
+      "status": "Full peer review",
+      "source_outcome": "Compliant",
+      "published_on": "2018-10-15",
+      "url": "https://doi.org/10.1787/9789264306165-en"
+    },
+    {
+      "jurisdiction": "Sint Maarten",
+      "iso3": "SXM",
+      "reviews": [
+        {
+          "rating": "Partially Compliant",
+          "round": 1,
+          "review_year": 2015,
+          "status": "Full peer review",
+          "source_outcome": "Partially Compliant",
+          "published_on": "2015-08-03",
+          "url": "https://doi.org/10.1787/9789264237377-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2024,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2024-07-19",
+          "url": "https://doi.org/10.1787/f97c97df-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2024,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2024-07-19",
+      "url": "https://doi.org/10.1787/f97c97df-en"
+    },
+    {
+      "jurisdiction": "Slovak Republic",
+      "iso3": "SVK",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2014,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2014-04-24",
+          "url": "https://doi.org/10.1787/9789264210080-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2020,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2020-12-11",
+          "url": "https://doi.org/10.1787/960316d9-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2020,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2020-12-11",
+      "url": "https://doi.org/10.1787/960316d9-en"
+    },
+    {
+      "jurisdiction": "Slovenia",
+      "iso3": "SVN",
+      "reviews": [
+        {
+          "rating": "Compliant",
+          "round": 1,
+          "review_year": 2014,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": "2014-04-24",
+          "url": "https://doi.org/10.1787/9789264210158-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2022,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2022-11-09",
+          "url": "https://doi.org/10.1787/599d21ac-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2022,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2022-11-09",
+      "url": "https://doi.org/10.1787/599d21ac-en"
+    },
+    {
+      "jurisdiction": "South Africa",
+      "iso3": "ZAF",
+      "reviews": [
+        {
+          "rating": "Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264205901-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2022,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2022-11-09",
+          "url": "https://doi.org/10.1787/0cb5c667-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2022,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2022-11-09",
+      "url": "https://doi.org/10.1787/0cb5c667-en"
+    },
+    {
+      "jurisdiction": "Spain",
+      "iso3": "ESP",
+      "reviews": [
+        {
+          "rating": "Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264205925-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2019,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2019-03-18",
+          "url": "https://doi.org/10.1787/997a7b23-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2019,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2019-03-18",
+      "url": "https://doi.org/10.1787/997a7b23-en"
+    },
+    {
+      "jurisdiction": "Sri Lanka",
+      "iso3": "LKA",
+      "reviews": [
+        {
+          "rating": null,
+          "round": null,
+          "review_year": null,
+          "status": "Not yet reviewed",
+          "source_outcome": "Not yet reviewed",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        }
+      ],
+      "rating": null,
+      "round": null,
+      "review_year": null,
+      "status": "Not yet reviewed",
+      "source_outcome": "Not yet reviewed",
+      "published_on": null,
+      "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+    },
+    {
+      "jurisdiction": "Suriname",
+      "iso3": "SUR",
+      "reviews": [
+        {
+          "rating": null,
+          "round": null,
+          "review_year": null,
+          "status": "Not yet reviewed",
+          "source_outcome": "Not yet reviewed",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        }
+      ],
+      "rating": null,
+      "round": null,
+      "review_year": null,
+      "status": "Not yet reviewed",
+      "source_outcome": "Not yet reviewed",
+      "published_on": null,
+      "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+    },
+    {
+      "jurisdiction": "Sweden",
+      "iso3": "SWE",
+      "reviews": [
+        {
+          "rating": "Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Compliant",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2024,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2024-07-19",
+          "url": "https://doi.org/10.1787/d5c8f1b4-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2024,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2024-07-19",
+      "url": "https://doi.org/10.1787/d5c8f1b4-en"
+    },
+    {
+      "jurisdiction": "Switzerland",
+      "iso3": "CHE",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2016,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2016-07-26",
+          "url": "https://doi.org/10.1787/9789264258877-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2020,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2020-04-06",
+          "url": "https://doi.org/10.1787/fcfce6d7-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2020,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2020-04-06",
+      "url": "https://doi.org/10.1787/fcfce6d7-en"
+    },
+    {
+      "jurisdiction": "Tanzania",
+      "iso3": "TZA",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2026,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2026-07-29",
+          "url": "https://doi.org/10.1787/55831c5b-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2026,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2026-07-29",
+      "url": "https://doi.org/10.1787/55831c5b-en"
+    },
+    {
+      "jurisdiction": "Thailand",
+      "iso3": "THA",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2023,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2023-11-08",
+          "url": "https://doi.org/10.1787/80703c33-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2023,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2023-11-08",
+      "url": "https://doi.org/10.1787/80703c33-en"
+    },
+    {
+      "jurisdiction": "Togo",
+      "iso3": "TGO",
+      "reviews": [
+        {
+          "rating": null,
+          "round": 2,
+          "review_year": 2023,
+          "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+          "source_outcome": "Phase 1 only**",
+          "published_on": "2023-03-28",
+          "url": "https://doi.org/10.1787/9e90f5f4-en"
+        }
+      ],
+      "rating": null,
+      "round": 2,
+      "review_year": 2023,
+      "status": "Phase 1 only. Limited exchange experience; practical assessment pending.",
+      "source_outcome": "Phase 1 only**",
+      "published_on": "2023-03-28",
+      "url": "https://doi.org/10.1787/9e90f5f4-en"
+    },
+    {
+      "jurisdiction": "Trinidad and Tobago",
+      "iso3": "TTO",
+      "reviews": [
+        {
+          "rating": "Non-Compliant",
+          "round": 1,
+          "review_year": 2011,
+          "status": "Full peer review",
+          "source_outcome": "Non-Compliant",
+          "published_on": "2011-01-27",
+          "url": "https://doi.org/10.1787/9789264096936-en"
+        },
+        {
+          "rating": "Non-Compliant",
+          "round": null,
+          "review_year": 2017,
+          "status": "Full peer review",
+          "source_outcome": "Non-Compliant",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2025,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2025-07-18",
+          "url": "https://doi.org/10.1787/67f7ac93-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2025,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2025-07-18",
+      "url": "https://doi.org/10.1787/67f7ac93-en"
+    },
+    {
+      "jurisdiction": "Tunisia",
+      "iso3": "TUN",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2020,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2020-04-06",
+          "url": "https://doi.org/10.1787/fdeb6766-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2020,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2020-04-06",
+      "url": "https://doi.org/10.1787/fdeb6766-en"
+    },
+    {
+      "jurisdiction": "Turks and Caicos Islands",
+      "iso3": "TCA",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264206212-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2019,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2019-03-18",
+          "url": "https://doi.org/10.1787/5a837e0a-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2019,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2019-03-18",
+      "url": "https://doi.org/10.1787/5a837e0a-en"
+    },
+    {
+      "jurisdiction": "Türkiye",
+      "iso3": "TUR",
+      "reviews": [
+        {
+          "rating": "Partially Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Partially Compliant",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2022,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2022-11-09",
+          "url": "https://doi.org/10.1787/b2af0142-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2022,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2022-11-09",
+      "url": "https://doi.org/10.1787/b2af0142-en"
+    },
+    {
+      "jurisdiction": "Uganda",
+      "iso3": "UGA",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2016,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2016-11-04",
+          "url": "https://doi.org/10.1787/9789264266209-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2024,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2024-11-21",
+          "url": "https://doi.org/10.1787/6e03bd0b-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2024,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2024-11-21",
+      "url": "https://doi.org/10.1787/6e03bd0b-en"
+    },
+    {
+      "jurisdiction": "Ukraine",
+      "iso3": "UKR",
+      "reviews": [
+        {
+          "rating": null,
+          "round": 2,
+          "review_year": 2021,
+          "status": "Phase 1 only. Pandemic-related travel restrictions delayed the practical assessment.",
+          "source_outcome": "Phase 1 only*",
+          "published_on": "2021-06-24",
+          "url": "https://doi.org/10.1787/27e7f69f-en"
+        }
+      ],
+      "rating": null,
+      "round": 2,
+      "review_year": 2021,
+      "status": "Phase 1 only. Pandemic-related travel restrictions delayed the practical assessment.",
+      "source_outcome": "Phase 1 only*",
+      "published_on": "2021-06-24",
+      "url": "https://doi.org/10.1787/27e7f69f-en"
+    },
+    {
+      "jurisdiction": "United Arab Emirates",
+      "iso3": "ARE",
+      "reviews": [
+        {
+          "rating": "Partially Compliant",
+          "round": 1,
+          "review_year": 2016,
+          "status": "Full peer review",
+          "source_outcome": "Partially Compliant",
+          "published_on": "2016-07-26",
+          "url": "https://doi.org/10.1787/9789264258891-en"
+        },
+        {
+          "rating": "Provisionally Largely Compliant",
+          "round": null,
+          "review_year": 2017,
+          "status": "Provisional fast-track rating",
+          "source_outcome": "Provisionally Largely Compliant",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2019,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2019-11-12",
+          "url": "https://doi.org/10.1787/78bb1919-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2019,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2019-11-12",
+      "url": "https://doi.org/10.1787/78bb1919-en"
+    },
+    {
+      "jurisdiction": "United Kingdom",
+      "iso3": "GBR",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264205987-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2018,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2018-10-15",
+          "url": "https://doi.org/10.1787/9789264306189-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2018,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2018-10-15",
+      "url": "https://doi.org/10.1787/9789264306189-en"
+    },
+    {
+      "jurisdiction": "United States",
+      "iso3": "USA",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2013,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2013-11-22",
+          "url": "https://doi.org/10.1787/9789264206007-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2018,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2018-07-16",
+          "url": "https://doi.org/10.1787/9789264302853-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2018,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2018-07-16",
+      "url": "https://doi.org/10.1787/9789264302853-en"
+    },
+    {
+      "jurisdiction": "Uruguay",
+      "iso3": "URY",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 1,
+          "review_year": 2015,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2015-03-16",
+          "url": "https://doi.org/10.1787/9789264231665-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2020,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2020-09-01",
+          "url": "https://doi.org/10.1787/22fe7fbc-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2020,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2020-09-01",
+      "url": "https://doi.org/10.1787/22fe7fbc-en"
+    },
+    {
+      "jurisdiction": "Uzbekistan",
+      "iso3": "UZB",
+      "reviews": [
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2026,
+          "status": "Full peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2026-11-03",
+          "url": "https://doi.org/10.1787/053cb2f0-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2026,
+      "status": "Full peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2026-11-03",
+      "url": "https://doi.org/10.1787/053cb2f0-en"
+    },
+    {
+      "jurisdiction": "Vanuatu",
+      "iso3": "VUT",
+      "reviews": [
+        {
+          "rating": "Provisionally Largely Compliant",
+          "round": null,
+          "review_year": 2017,
+          "status": "Provisional fast-track rating",
+          "source_outcome": "Provisionally Largely Compliant",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        },
+        {
+          "rating": "Partially Compliant",
+          "round": 2,
+          "review_year": 2019,
+          "status": "Full peer review",
+          "source_outcome": "Partially Compliant",
+          "published_on": "2019-07-30",
+          "url": "https://doi.org/10.1787/dd70b774-en"
+        },
+        {
+          "rating": "Largely Compliant",
+          "round": 2,
+          "review_year": 2026,
+          "status": "Supplementary peer review",
+          "source_outcome": "Largely Compliant",
+          "published_on": "2026-04-29",
+          "url": "https://doi.org/10.1787/75b3bc85-en"
+        }
+      ],
+      "rating": "Largely Compliant",
+      "round": 2,
+      "review_year": 2026,
+      "status": "Supplementary peer review",
+      "source_outcome": "Largely Compliant",
+      "published_on": "2026-04-29",
+      "url": "https://doi.org/10.1787/75b3bc85-en"
+    },
+    {
+      "jurisdiction": "Viet Nam",
+      "iso3": "VNM",
+      "reviews": [
+        {
+          "rating": "Non-Compliant",
+          "round": 2,
+          "review_year": 2025,
+          "status": "Full peer review",
+          "source_outcome": "Non-Compliant",
+          "published_on": "2025-11-10",
+          "url": "https://doi.org/10.1787/750e6671-en"
+        }
+      ],
+      "rating": "Non-Compliant",
+      "round": 2,
+      "review_year": 2025,
+      "status": "Full peer review",
+      "source_outcome": "Non-Compliant",
+      "published_on": "2025-11-10",
+      "url": "https://doi.org/10.1787/750e6671-en"
+    },
+    {
+      "jurisdiction": "Zambia",
+      "iso3": "ZMB",
+      "reviews": [
+        {
+          "rating": null,
+          "round": null,
+          "review_year": null,
+          "status": "Not yet reviewed",
+          "source_outcome": "Not yet reviewed",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        }
+      ],
+      "rating": null,
+      "round": null,
+      "review_year": null,
+      "status": "Not yet reviewed",
+      "source_outcome": "Not yet reviewed",
+      "published_on": null,
+      "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+    },
+    {
+      "jurisdiction": "Zimbabwe",
+      "iso3": "ZWE",
+      "reviews": [
+        {
+          "rating": null,
+          "round": null,
+          "review_year": null,
+          "status": "Not yet reviewed",
+          "source_outcome": "Not yet reviewed",
+          "published_on": null,
+          "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+        }
+      ],
+      "rating": null,
+      "round": null,
+      "review_year": null,
+      "status": "Not yet reviewed",
+      "source_outcome": "Not yet reviewed",
+      "published_on": null,
+      "url": "https://datawrapper.dwcdn.net/LGXCI/75/"
+    }
+  ]
+}

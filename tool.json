@@ -1,16 +1,56 @@
 {
-  "id": "coolcode-tool-template",
-  "title": "CoolCode Tool Starter",
-  "description": "A browser-only example that trims lines and removes exact duplicates.",
-  "category": "security",
-  "tags": ["text", "lines", "duplicates"],
-  "icon": "scan-search",
-  "url": "/coolcode-tool-template/",
-  "source": "https://github.com/jsdyer/coolcode-tool-template",
+  "id": "offshorerecords",
+  "title": "Offshore Records Atlas",
+  "description": "Explore how countries appear in five offshore investigations, trace documented company roles and read dated tax-transparency reviews.",
+  "category": "explorers",
+  "tags": [
+    "offshore records",
+    "ICIJ",
+    "Panama Papers",
+    "Canada",
+    "corporate ownership",
+    "tax transparency"
+  ],
+  "icon": "landmark",
+  "url": "/offshorerecords/",
+  "source": "https://github.com/jsdyer/offshorerecords",
   "hosting": "project",
   "access": "browser",
   "data_info": {
-    "mode": "local",
-    "detail": "The browser reads the text you paste and compares its lines."
+    "mode": "snapshot",
+    "cadence": "Monthly",
+    "detail": "ICIJ archive counts, documented organization relationships and OECD tax-information exchange reviews, with source dates shown separately.",
+    "probes": [
+      {
+        "label": "Sources checked",
+        "url": "https://coolcode.ca/offshorerecords/data/status.json",
+        "path": [
+          "checked_at"
+        ],
+        "count_at": {
+          "path": [
+            "country_count"
+          ],
+          "unit": "linked countries and territories"
+        }
+      }
+    ]
+  },
+  "task_label": "Explore Offshore Leaks by Country and Investigation",
+  "sync_manifest": true,
+  "result_directory": {
+    "path": "records/",
+    "title": "Offshore records by country and investigation",
+    "additional_paths": [
+      "incorporation/",
+      "investigations/",
+      "places/",
+      "trails/"
+    ]
+  },
+  "dataset": {
+    "title": "Offshore Leaks record counts by country and investigation",
+    "file": "data/icij.json",
+    "format": "JSON"
   }
 }

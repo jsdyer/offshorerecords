@@ -1,0 +1,822 @@
+{
+  "source_url": "https://offshoreleaks.icij.org/pages/database",
+  "download_url": "https://offshoreleaks-data.icij.org/offshoreleaks/csv/full-oldb.LATEST.zip",
+  "country_label_source": "https://offshoreleaks.icij.org/investigations/pandora-papers?c=CAN",
+  "sources_url": "https://offshoreleaks.icij.org/pages/data",
+  "cutoff_url": "https://offshoreleaks.icij.org/pages/faq",
+  "attribution": "International Consortium of Investigative Journalists (ICIJ), Offshore Leaks Database. Counts calculated by CoolCode from the public CSV archive.",
+  "licences": {
+    "database": {
+      "name": "Open Database License 1.0",
+      "url": "https://opendatacommons.org/licenses/odbl/1-0/"
+    },
+    "contents": {
+      "name": "Creative Commons Attribution-ShareAlike 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  },
+  "investigations": [
+    {
+      "id": "offshore-leaks",
+      "name": "Offshore Leaks",
+      "coverage": "Provider records through 2010.",
+      "url": "https://offshoreleaks.icij.org/investigations/offshore-leaks",
+      "source_url": "https://offshoreleaks.icij.org/pages/data",
+      "cutoff_url": "https://offshoreleaks.icij.org/pages/faq"
+    },
+    {
+      "id": "panama-papers",
+      "name": "Panama Papers",
+      "coverage": "Mossack Fonseca records through 2015.",
+      "url": "https://offshoreleaks.icij.org/investigations/panama-papers",
+      "source_url": "https://offshoreleaks.icij.org/pages/data",
+      "cutoff_url": "https://offshoreleaks.icij.org/pages/faq"
+    },
+    {
+      "id": "bahamas-leaks",
+      "name": "Bahamas Leaks",
+      "coverage": "Corporate registry records through early 2016.",
+      "url": "https://offshoreleaks.icij.org/investigations/bahamas-leaks",
+      "source_url": "https://offshoreleaks.icij.org/pages/data",
+      "cutoff_url": "https://offshoreleaks.icij.org/pages/faq"
+    },
+    {
+      "id": "paradise-papers",
+      "name": "Paradise Papers",
+      "coverage": "Appleby records through 2014 and corporate registries through 2016.",
+      "url": "https://offshoreleaks.icij.org/investigations/paradise-papers",
+      "source_url": "https://offshoreleaks.icij.org/pages/data",
+      "cutoff_url": "https://offshoreleaks.icij.org/pages/faq"
+    },
+    {
+      "id": "pandora-papers",
+      "name": "Pandora Papers",
+      "coverage": "Coverage varies by provider and record, with some records through 2020.",
+      "url": "https://offshoreleaks.icij.org/investigations/pandora-papers",
+      "source_url": "https://offshoreleaks.icij.org/pages/data",
+      "cutoff_url": "https://offshoreleaks.icij.org/pages/faq"
+    }
+  ],
+  "countries": {
+    "ABW": "Aruba",
+    "AFG": "Afghanistan",
+    "AGO": "Angola",
+    "AIA": "Anguilla",
+    "ALA": "Åland Islands",
+    "ALB": "Albania",
+    "AND": "Andorra",
+    "ARE": "United Arab Emirates",
+    "ARG": "Argentina",
+    "ARM": "Armenia",
+    "ASM": "American Samoa",
+    "ATF": "French Southern Territories",
+    "ATG": "Antigua and Barbuda",
+    "AUS": "Australia",
+    "AUT": "Austria",
+    "AZE": "Azerbaijan",
+    "BDI": "Burundi",
+    "BEL": "Belgium",
+    "BEN": "Benin",
+    "BES": "Bonaire, Sint Eustatius and Saba",
+    "BFA": "Burkina Faso",
+    "BGD": "Bangladesh",
+    "BGR": "Bulgaria",
+    "BHR": "Bahrain",
+    "BHS": "Bahamas",
+    "BIH": "Bosnia and Herzegovina",
+    "BLM": "Saint Barthélemy",
+    "BLR": "Belarus",
+    "BLZ": "Belize",
+    "BMU": "Bermuda",
+    "BOL": "Bolivia",
+    "BRA": "Brazil",
+    "BRB": "Barbados",
+    "BRN": "Brunei",
+    "BTN": "Bhutan",
+    "BVT": "Bouvet Island",
+    "BWA": "Botswana",
+    "CAF": "Central African Republic",
+    "CAN": "Canada",
+    "CHE": "Switzerland",
+    "CHL": "Chile",
+    "CHN": "China",
+    "CIV": "Côte d'Ivoire",
+    "CMR": "Cameroon",
+    "COD": "DR Congo",
+    "COG": "Congo",
+    "COK": "Cook Islands",
+    "COL": "Colombia",
+    "COM": "The Comoros",
+    "CPV": "Cape Verde",
+    "CRI": "Costa Rica",
+    "CUB": "Cuba",
+    "CUW": "Curaçao",
+    "CYM": "Cayman Islands",
+    "CYP": "Cyprus",
+    "CZE": "Czech Republic",
+    "DEU": "Germany",
+    "DJI": "Djibouti",
+    "DMA": "Dominica",
+    "DNK": "Denmark",
+    "DOM": "Dominican Republic",
+    "DZA": "Algeria",
+    "ECU": "Ecuador",
+    "EGY": "Egypt",
+    "ERI": "Eritrea",
+    "ESP": "Spain",
+    "EST": "Estonia",
+    "ETH": "Ethiopia",
+    "FIN": "Finland",
+    "FJI": "Fiji",
+    "FRA": "France",
+    "FRO": "Faroe Islands",
+    "GAB": "Gabon",
+    "GBR": "United Kingdom",
+    "GEO": "Georgia",
+    "GGY": "Guernsey",
+    "GHA": "Ghana",
+    "GIB": "Gibraltar",
+    "GIN": "Guinea",
+    "GMB": "Gambia",
+    "GNB": "Guinea-Bissau",
+    "GNQ": "Equatorial Guinea",
+    "GRC": "Greece",
+    "GRD": "Grenada",
+    "GRL": "Greenland",
+    "GTM": "Guatemala",
+    "GUF": "French Guiana",
+    "GUM": "Guam",
+    "GUY": "Guyana",
+    "HKG": "Hong Kong",
+    "HND": "Honduras",
+    "HRV": "Croatia",
+    "HTI": "Haiti",
+    "HUN": "Hungary",
+    "IDN": "Indonesia",
+    "IMN": "Isle of Man",
+    "IND": "India",
+    "IOT": "British Indian Ocean Territory",
+    "IRL": "Ireland",
+    "IRN": "Iran",
+    "IRQ": "Iraq",
+    "ISL": "Iceland",
+    "ISR": "Israel",
+    "ITA": "Italy",
+    "JAM": "Jamaica",
+    "JEY": "Jersey",
+    "JOR": "Jordan",
+    "JPN": "Japan",
+    "KAZ": "Kazakhstan",
+    "KEN": "Kenya",
+    "KGZ": "Kyrgyzstan",
+    "KHM": "Cambodia",
+    "KIR": "Kiribati",
+    "KNA": "Saint Kitts and Nevis",
+    "KOR": "South Korea",
+    "KWT": "Kuwait",
+    "LAO": "Laos",
+    "LBN": "Lebanon",
+    "LBR": "Liberia",
+    "LBY": "Libya",
+    "LCA": "Saint Lucia",
+    "LIE": "Liechtenstein",
+    "LKA": "Sri Lanka",
+    "LSO": "Lesotho",
+    "LTU": "Lithuania",
+    "LUX": "Luxembourg",
+    "LVA": "Latvia",
+    "MAC": "Macao",
+    "MAF": "Saint Martin (French part)",
+    "MAR": "Morocco",
+    "MCO": "Monaco",
+    "MDA": "Moldova",
+    "MDG": "Madagascar",
+    "MDV": "Maldives",
+    "MEX": "Mexico",
+    "MHL": "Marshall Islands",
+    "MKD": "Macedonia",
+    "MLI": "Mali",
+    "MLT": "Malta",
+    "MMR": "Myanmar",
+    "MNE": "Montenegro",
+    "MNG": "Mongolia",
+    "MNP": "Northern Mariana Islands",
+    "MOZ": "Mozambique",
+    "MRT": "Mauritania",
+    "MTQ": "Martinique",
+    "MUS": "Mauritius",
+    "MWI": "Malawi",
+    "MYS": "Malaysia",
+    "MYT": "Mayotte",
+    "NAM": "Namibia",
+    "NCL": "New Caledonia",
+    "NER": "Niger",
+    "NFK": "Norfolk Island",
+    "NGA": "Nigeria",
+    "NIC": "Nicaragua",
+    "NIU": "Niue",
+    "NLD": "Netherlands",
+    "NOR": "Norway",
+    "NPL": "Nepal",
+    "NRU": "Nauru",
+    "NZL": "New Zealand",
+    "OMN": "Oman",
+    "PAK": "Pakistan",
+    "PAN": "Panama",
+    "PER": "Peru",
+    "PHL": "Philippines",
+    "PNG": "Papua New Guinea",
+    "POL": "Poland",
+    "PRI": "Puerto Rico",
+    "PRK": "North Korea",
+    "PRT": "Portugal",
+    "PRY": "Paraguay",
+    "PSE": "Palestine",
+    "PYF": "French Polynesia",
+    "QAT": "Qatar",
+    "REU": "Réunion",
+    "ROU": "Romania",
+    "RUS": "Russia",
+    "RWA": "Rwanda",
+    "SAU": "Saudi Arabia",
+    "SDN": "Sudan",
+    "SEN": "Senegal",
+    "SGP": "Singapore",
+    "SGS": "South Georgia and the South Sandwich Islands",
+    "SLB": "Solomon Islands",
+    "SLE": "Sierra Leone",
+    "SLV": "El Salvador",
+    "SMR": "San Marino",
+    "SOM": "Somalia",
+    "SPM": "Saint Pierre and Miquelon",
+    "SRB": "Serbia",
+    "SSD": "South Sudan",
+    "STP": "Sao Tome and Principe",
+    "SUR": "Suriname",
+    "SVK": "Slovakia",
+    "SVN": "Slovenia",
+    "SWE": "Sweden",
+    "SWZ": "Swaziland",
+    "SXM": "Sint Maarten (Dutch part)",
+    "SYC": "Seychelles",
+    "SYR": "Syria",
+    "TCA": "Turks and Caicos Islands",
+    "TCD": "Chad",
+    "TGO": "Togo",
+    "THA": "Thailand",
+    "TJK": "Tajikistan",
+    "TKL": "Tokelau",
+    "TKM": "Turkmenistan",
+    "TON": "Tonga",
+    "TTO": "Trinidad and Tobago",
+    "TUN": "Tunisia",
+    "TUR": "Turkey",
+    "TUV": "Tuvalu",
+    "TWN": "Taiwan",
+    "TZA": "Tanzania",
+    "UGA": "Uganda",
+    "UKR": "Ukraine",
+    "UMI": "United States Minor Outlying Islands",
+    "URY": "Uruguay",
+    "USA": "United States",
+    "UZB": "Uzbekistan",
+    "VCT": "Saint Vincent and the Grenadines",
+    "VEN": "Venezuela",
+    "VGB": "British Virgin Islands",
+    "VIR": "U.S. Virgin Islands",
+    "VNM": "Viet Nam",
+    "VUT": "Vanuatu",
+    "WSM": "Samoa",
+    "YEM": "Yemen",
+    "ZAF": "South Africa",
+    "ZMB": "Zambia",
+    "ZWE": "Zimbabwe",
+    "XK": "Kosovo",
+    "ANT": "Netherlands Antilles (historical)"
+  },
+  "nonstandard_country_tags": [
+    "BVI",
+    "SCP",
+    "UAE",
+    "YUG",
+    "ZAM",
+    "cura"
+  ],
+  "unidentified_jurisdiction_labels": [
+    "",
+    "Undetermined",
+    "Recorded in leaked files as \"fund\""
+  ],
+  "jurisdictions": {
+    "alaska": {
+      "name": "Alaska",
+      "iso3": null,
+      "labels": [
+        "Alaska"
+      ]
+    },
+    "anguilla": {
+      "name": "Anguilla",
+      "iso3": "AIA",
+      "labels": [
+        "Anguilla",
+        "British Anguilla"
+      ]
+    },
+    "antigua-and-barbuda": {
+      "name": "Antigua and Barbuda",
+      "iso3": "ATG",
+      "labels": [
+        "Antigua and Barbuda"
+      ]
+    },
+    "aruba": {
+      "name": "Aruba",
+      "iso3": "ABW",
+      "labels": [
+        "Aruba"
+      ]
+    },
+    "bahamas": {
+      "name": "Bahamas",
+      "iso3": "BHS",
+      "labels": [
+        "Bahamas"
+      ]
+    },
+    "barbados": {
+      "name": "Barbados",
+      "iso3": "BRB",
+      "labels": [
+        "Barbados"
+      ]
+    },
+    "belize": {
+      "name": "Belize",
+      "iso3": "BLZ",
+      "labels": [
+        "Belize"
+      ]
+    },
+    "bermuda": {
+      "name": "Bermuda",
+      "iso3": "BMU",
+      "labels": [
+        "Bermuda"
+      ]
+    },
+    "british-virgin-islands": {
+      "name": "British Virgin Islands",
+      "iso3": "VGB",
+      "labels": [
+        "BRITISH VIRGIN ISLANDS",
+        "British Virgin Islands"
+      ]
+    },
+    "brunei": {
+      "name": "Brunei",
+      "iso3": "BRN",
+      "labels": [
+        "Brunei"
+      ]
+    },
+    "cayman-islands": {
+      "name": "Cayman Islands",
+      "iso3": "CYM",
+      "labels": [
+        "Cayman",
+        "Cayman Islands"
+      ]
+    },
+    "china": {
+      "name": "China",
+      "iso3": "CHN",
+      "labels": [
+        "China"
+      ]
+    },
+    "cook-islands": {
+      "name": "Cook Islands",
+      "iso3": "COK",
+      "labels": [
+        "COOK ISLANDS",
+        "COOKISLANDS",
+        "Cook Islands"
+      ]
+    },
+    "costa-rica": {
+      "name": "Costa Rica",
+      "iso3": "CRI",
+      "labels": [
+        "Costa Rica"
+      ]
+    },
+    "cyprus": {
+      "name": "Cyprus",
+      "iso3": "CYP",
+      "labels": [
+        "Cyprus"
+      ]
+    },
+    "delaware": {
+      "name": "Delaware",
+      "iso3": null,
+      "labels": [
+        "Delaware",
+        "State of Delaware",
+        "USA (Delaware)"
+      ]
+    },
+    "district-of-columbia": {
+      "name": "District of Columbia",
+      "iso3": null,
+      "labels": [
+        "District of Columbia"
+      ]
+    },
+    "dubai": {
+      "name": "Dubai",
+      "iso3": null,
+      "labels": [
+        "Dubai"
+      ]
+    },
+    "florida": {
+      "name": "Florida",
+      "iso3": null,
+      "labels": [
+        "Florida"
+      ]
+    },
+    "georgia-us-state": {
+      "name": "Georgia (US state)",
+      "iso3": null,
+      "labels": [
+        "Georgia"
+      ]
+    },
+    "ghana": {
+      "name": "Ghana",
+      "iso3": "GHA",
+      "labels": [
+        "Ghana"
+      ]
+    },
+    "gibraltar": {
+      "name": "Gibraltar",
+      "iso3": "GIB",
+      "labels": [
+        "Gibraltar"
+      ]
+    },
+    "grenada": {
+      "name": "Grenada",
+      "iso3": "GRD",
+      "labels": [
+        "Grenada"
+      ]
+    },
+    "guernsey": {
+      "name": "Guernsey",
+      "iso3": "GGY",
+      "labels": [
+        "GUERNSEY",
+        "Guernsey"
+      ]
+    },
+    "hong-kong": {
+      "name": "Hong Kong",
+      "iso3": "HKG",
+      "labels": [
+        "Hong Kong"
+      ]
+    },
+    "illinois": {
+      "name": "Illinois",
+      "iso3": null,
+      "labels": [
+        "Illinois"
+      ]
+    },
+    "ireland": {
+      "name": "Ireland",
+      "iso3": "IRL",
+      "labels": [
+        "Ireland"
+      ]
+    },
+    "isle-of-man": {
+      "name": "Isle of Man",
+      "iso3": "IMN",
+      "labels": [
+        "Isle Of Man",
+        "Isle of Man"
+      ]
+    },
+    "jersey": {
+      "name": "Jersey",
+      "iso3": "JEY",
+      "labels": [
+        "Jersey"
+      ]
+    },
+    "labuan": {
+      "name": "Labuan",
+      "iso3": null,
+      "labels": [
+        "Labuan"
+      ]
+    },
+    "latvia": {
+      "name": "Latvia",
+      "iso3": "LVA",
+      "labels": [
+        "Latvia"
+      ]
+    },
+    "lebanon": {
+      "name": "Lebanon",
+      "iso3": "LBN",
+      "labels": [
+        "Lebanon"
+      ]
+    },
+    "liberia": {
+      "name": "Liberia",
+      "iso3": "LBR",
+      "labels": [
+        "Liberia"
+      ]
+    },
+    "liechtenstein": {
+      "name": "Liechtenstein",
+      "iso3": "LIE",
+      "labels": [
+        "Liechtenstein"
+      ]
+    },
+    "luxembourg": {
+      "name": "Luxembourg",
+      "iso3": "LUX",
+      "labels": [
+        "Luxembourg"
+      ]
+    },
+    "malaysia": {
+      "name": "Malaysia",
+      "iso3": "MYS",
+      "labels": [
+        "Malaysia"
+      ]
+    },
+    "malta": {
+      "name": "Malta",
+      "iso3": "MLT",
+      "labels": [
+        "Malta"
+      ]
+    },
+    "marshall-islands": {
+      "name": "Marshall Islands",
+      "iso3": "MHL",
+      "labels": [
+        "Marshall Islands"
+      ]
+    },
+    "mauritius": {
+      "name": "Mauritius",
+      "iso3": "MUS",
+      "labels": [
+        "Mauritius"
+      ]
+    },
+    "monaco": {
+      "name": "Monaco",
+      "iso3": "MCO",
+      "labels": [
+        "Monaco"
+      ]
+    },
+    "netherlands": {
+      "name": "Netherlands",
+      "iso3": "NLD",
+      "labels": [
+        "Netherlands"
+      ]
+    },
+    "netherlands-antilles": {
+      "name": "Netherlands Antilles",
+      "iso3": null,
+      "labels": [
+        "Netherlands Antilles"
+      ]
+    },
+    "nevada": {
+      "name": "Nevada",
+      "iso3": null,
+      "labels": [
+        "Nevada"
+      ]
+    },
+    "nevis": {
+      "name": "Nevis",
+      "iso3": null,
+      "labels": [
+        "Nevis"
+      ]
+    },
+    "new-hampshire": {
+      "name": "New Hampshire",
+      "iso3": null,
+      "labels": [
+        "New Hampshire"
+      ]
+    },
+    "new-york": {
+      "name": "New York",
+      "iso3": null,
+      "labels": [
+        "New York"
+      ]
+    },
+    "new-zealand": {
+      "name": "New Zealand",
+      "iso3": "NZL",
+      "labels": [
+        "New Zealand"
+      ]
+    },
+    "niue": {
+      "name": "Niue",
+      "iso3": "NIU",
+      "labels": [
+        "Niue"
+      ]
+    },
+    "oklahoma": {
+      "name": "Oklahoma",
+      "iso3": null,
+      "labels": [
+        "Oklahoma"
+      ]
+    },
+    "panama": {
+      "name": "Panama",
+      "iso3": "PAN",
+      "labels": [
+        "Panama"
+      ]
+    },
+    "ras-al-khaimah": {
+      "name": "Ras Al Khaimah",
+      "iso3": null,
+      "labels": [
+        "Ras Al Khaimah"
+      ]
+    },
+    "saint-kitts-and-nevis": {
+      "name": "Saint Kitts and Nevis",
+      "iso3": "KNA",
+      "labels": [
+        "Saint Kitts and Nevis"
+      ]
+    },
+    "saint-lucia": {
+      "name": "Saint Lucia",
+      "iso3": "LCA",
+      "labels": [
+        "Saint Lucia",
+        "St. Lucia"
+      ]
+    },
+    "saint-vincent-and-the-grenadines": {
+      "name": "Saint Vincent and the Grenadines",
+      "iso3": "VCT",
+      "labels": [
+        "Saint Vincent and the Grenadines"
+      ]
+    },
+    "samoa": {
+      "name": "Samoa",
+      "iso3": "WSM",
+      "labels": [
+        "Samoa"
+      ]
+    },
+    "seychelles": {
+      "name": "Seychelles",
+      "iso3": "SYC",
+      "labels": [
+        "Seychelles"
+      ]
+    },
+    "singapore": {
+      "name": "Singapore",
+      "iso3": "SGP",
+      "labels": [
+        "Singapore"
+      ]
+    },
+    "south-dakota": {
+      "name": "South Dakota",
+      "iso3": null,
+      "labels": [
+        "South Dakota",
+        "USA (South Dakota)"
+      ]
+    },
+    "switzerland": {
+      "name": "Switzerland",
+      "iso3": "CHE",
+      "labels": [
+        "Switzerland"
+      ]
+    },
+    "texas": {
+      "name": "Texas",
+      "iso3": null,
+      "labels": [
+        "Texas"
+      ]
+    },
+    "thailand": {
+      "name": "Thailand",
+      "iso3": "THA",
+      "labels": [
+        "Thailand"
+      ]
+    },
+    "turks-and-caicos-islands": {
+      "name": "Turks and Caicos Islands",
+      "iso3": "TCA",
+      "labels": [
+        "Turks and Caicos Islands"
+      ]
+    },
+    "u-s-virgin-islands": {
+      "name": "U.S. Virgin Islands",
+      "iso3": "VIR",
+      "labels": [
+        "US Virgin Islands"
+      ]
+    },
+    "united-arab-emirates": {
+      "name": "United Arab Emirates",
+      "iso3": "ARE",
+      "labels": [
+        "United Arab Emirates"
+      ]
+    },
+    "united-kingdom": {
+      "name": "United Kingdom",
+      "iso3": "GBR",
+      "labels": [
+        "United Kingdom"
+      ]
+    },
+    "united-states": {
+      "name": "United States",
+      "iso3": "USA",
+      "labels": [
+        "United States",
+        "United States Of America",
+        "United States of America"
+      ]
+    },
+    "uruguay": {
+      "name": "Uruguay",
+      "iso3": "URY",
+      "labels": [
+        "Uruguay"
+      ]
+    },
+    "vanuatu": {
+      "name": "Vanuatu",
+      "iso3": "VUT",
+      "labels": [
+        "Vanuatu"
+      ]
+    },
+    "virginia": {
+      "name": "Virginia",
+      "iso3": null,
+      "labels": [
+        "Virginia"
+      ]
+    },
+    "wyoming": {
+      "name": "Wyoming",
+      "iso3": null,
+      "labels": [
+        "Wyoming"
+      ]
+    }
+  },
+  "minimum_counts": {
+    "entities": 750000,
+    "officers": 700000,
+    "intermediaries": 24000,
+    "addresses": 370000,
+    "others": 2600
+  }
+}

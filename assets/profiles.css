@@ -1,0 +1,20 @@
+body.record-page{background:#faf9f5;color:#192b32;margin:0;font-family:"Source Sans 3",system-ui,sans-serif;line-height:1.58}
+.record-wrap{width:min(66rem,calc(100% - 2.3rem));margin:auto}
+.record-page header,.record-page footer{border-block:1px solid #c7cbc4;background:#f2f1ea}
+.record-page nav,.record-page footer .record-wrap{display:flex;flex-wrap:wrap;gap:1.5rem;padding-block:1rem}
+.record-page a{color:#006455;text-underline-offset:.18em}
+.record-page a:focus-visible,.record-scroll:focus-visible{outline:3px solid #b56227;outline-offset:3px}
+.record-page main{padding-block:2.4rem 3.5rem}
+.record-page h1,.record-page h2{font-family:Georgia,"Times New Roman",serif;line-height:1.13;color:#13332c}
+.record-page h1{font-size:clamp(2.2rem,5.6vw,4.1rem);letter-spacing:-.035em;max-width:24ch;margin:0 0 1rem}
+.record-page h2{font-size:clamp(1.45rem,3.3vw,2.1rem);margin:2.4rem 0 .6rem}
+.record-page p{max-width:76ch;margin:.65rem 0}
+.record-page .lead{font-size:1.12rem}
+.record-scroll{overflow-x:auto}
+.record-page table{border-collapse:collapse;width:100%;font-variant-numeric:tabular-nums}
+.record-page caption{text-align:left;padding:.65rem 0;color:#42554d}
+.record-page td,.record-page th{padding:.55rem .65rem;border-bottom:1px solid #c7cbc4;text-align:right;white-space:normal}
+.record-page th:first-child,.record-page td:first-child{text-align:left}
+.record-page thead{background:#e9ede4}
+.record-index{columns:3 14rem;padding-left:1.2rem}
+.record-index li{break-inside:avoid;margin:0 0 .4rem}

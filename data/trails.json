@@ -1,0 +1,330 @@
+{
+  "source": "International Consortium of Investigative Journalists, Offshore Leaks Database",
+  "source_url": "https://offshoreleaks.icij.org/",
+  "checked_at": "2026-11-27",
+  "trails": [
+    {
+      "id": "canada-trustee-bvi",
+      "title": "A Canadian trustee and a British Virgin Islands company",
+      "summary": "ICIJ tags the corporate trustee as Canadian and lists it as a shareholder of ONEIPA LIMITED. The company record names Rocky Enterprises Limited as director.",
+      "note": "The shareholder record names the trustee acting for the trust. The director has a separate role.",
+      "dataset": "Pandora Papers - Trident Trust",
+      "source_cutoff": "2016",
+      "nodes": [
+        {
+          "id": "240513158",
+          "name": "Concilium Trustees Canada Inc. as trustee of THE ONEIPA TRUST",
+          "kind": "Officer",
+          "countries": [
+            "Canada"
+          ],
+          "jurisdiction": null,
+          "incorporation_date": null,
+          "url": "https://offshoreleaks.icij.org/nodes/240513158"
+        },
+        {
+          "id": "240500922",
+          "name": "ONEIPA LIMITED",
+          "kind": "Entity",
+          "countries": [],
+          "jurisdiction": "British Virgin Islands",
+          "incorporation_date": null,
+          "url": "https://offshoreleaks.icij.org/nodes/240500922"
+        },
+        {
+          "id": "240513157",
+          "name": "Rocky Enterprises Limited",
+          "kind": "Officer",
+          "countries": [
+            "British Virgin Islands"
+          ],
+          "jurisdiction": null,
+          "incorporation_date": null,
+          "url": "https://offshoreleaks.icij.org/nodes/240513157"
+        }
+      ],
+      "edges": [
+        {
+          "from": "240513158",
+          "to": "240500922",
+          "role": "Shareholder",
+          "start_date": null,
+          "end_date": null,
+          "url": "https://offshoreleaks.icij.org/nodes/240500922"
+        },
+        {
+          "from": "240513157",
+          "to": "240500922",
+          "role": "Director",
+          "start_date": null,
+          "end_date": null,
+          "url": "https://offshoreleaks.icij.org/nodes/240500922"
+        }
+      ]
+    },
+    {
+      "id": "fireswirl-shareholding",
+      "title": "When a shareholding began and ended",
+      "summary": "The Panama Papers give both dates for Fireswirl Systems Inc.’s shareholding in Swirl Marketing Limited.",
+      "note": "ICIJ links the shareholder to Canada and the entity to Hong Kong. The entity’s registration jurisdiction is the British Virgin Islands.",
+      "dataset": "Panama Papers",
+      "source_cutoff": "2015",
+      "nodes": [
+        {
+          "id": "12095620",
+          "name": "FIRESWIRL SYSTEMS INC.",
+          "kind": "Officer",
+          "countries": [
+            "Canada"
+          ],
+          "jurisdiction": null,
+          "incorporation_date": null,
+          "url": "https://offshoreleaks.icij.org/nodes/12095620"
+        },
+        {
+          "id": "10202700",
+          "name": "SWIRL MARKETING LIMITED",
+          "kind": "Entity",
+          "countries": [
+            "Hong Kong"
+          ],
+          "jurisdiction": "British Virgin Islands",
+          "incorporation_date": "2005-03-23",
+          "url": "https://offshoreleaks.icij.org/nodes/10202700"
+        }
+      ],
+      "edges": [
+        {
+          "from": "12095620",
+          "to": "10202700",
+          "role": "Shareholder",
+          "start_date": "2005-03-23",
+          "end_date": "2006-12-13",
+          "url": "https://offshoreleaks.icij.org/nodes/12095620"
+        }
+      ]
+    },
+    {
+      "id": "ontario-bermuda",
+      "title": "One Ontario shareholder, two Bermuda companies",
+      "summary": "Appleby’s files list 726526 Ontario Inc. as a shareholder of Clydesdale Holdings (Bermuda) Limited and NATC Holding Company, Ltd.",
+      "note": "The two incorporation dates belong to the companies. The source gives no start or end date for either shareholding.",
+      "dataset": "Paradise Papers - Appleby",
+      "source_cutoff": "2014",
+      "nodes": [
+        {
+          "id": "80025884",
+          "name": "726526 Ontario Inc.",
+          "kind": "Officer",
+          "countries": [
+            "Canada"
+          ],
+          "jurisdiction": null,
+          "incorporation_date": null,
+          "url": "https://offshoreleaks.icij.org/nodes/80025884"
+        },
+        {
+          "id": "82003400",
+          "name": "Clydesdale Holdings (Bermuda) Limited",
+          "kind": "Entity",
+          "countries": [
+            "Bermuda",
+            "Canada"
+          ],
+          "jurisdiction": "Bermuda",
+          "incorporation_date": "1998-05-28",
+          "url": "https://offshoreleaks.icij.org/nodes/82003400"
+        },
+        {
+          "id": "82001470",
+          "name": "NATC HOLDING COMPANY, LTD.",
+          "kind": "Entity",
+          "countries": [
+            "Bermuda"
+          ],
+          "jurisdiction": "Bermuda",
+          "incorporation_date": "1993-02-22",
+          "url": "https://offshoreleaks.icij.org/nodes/82001470"
+        }
+      ],
+      "edges": [
+        {
+          "from": "80025884",
+          "to": "82003400",
+          "role": "Shareholder",
+          "start_date": null,
+          "end_date": null,
+          "url": "https://offshoreleaks.icij.org/nodes/80025884"
+        },
+        {
+          "from": "80025884",
+          "to": "82001470",
+          "role": "Shareholder",
+          "start_date": null,
+          "end_date": null,
+          "url": "https://offshoreleaks.icij.org/nodes/80025884"
+        }
+      ]
+    },
+    {
+      "id": "bml-betsson",
+      "title": "Who appears on BML Group Limited’s Malta record?",
+      "summary": "The Malta registry snapshot lists Betsson AB and Betsson Malta Holding Limited as shareholders. Pricewaterhousecoopers appears as auditor.",
+      "note": "The register dates BML Group Limited’s incorporation to 2004. The relationship rows leave the dates for these roles blank.",
+      "dataset": "Paradise Papers - Malta corporate registry",
+      "source_cutoff": "2016",
+      "nodes": [
+        {
+          "id": "56052846",
+          "name": "BETSSON AB",
+          "kind": "Officer",
+          "countries": [
+            "Sweden"
+          ],
+          "jurisdiction": null,
+          "incorporation_date": null,
+          "url": "https://offshoreleaks.icij.org/nodes/56052846"
+        },
+        {
+          "id": "55027598",
+          "name": "BML GROUP LIMITED",
+          "kind": "Entity",
+          "countries": [
+            "Malta"
+          ],
+          "jurisdiction": "Malta",
+          "incorporation_date": "2004-10-21",
+          "url": "https://offshoreleaks.icij.org/nodes/55027598"
+        },
+        {
+          "id": "56081303",
+          "name": "BETSSON MALTA HOLDING LIMITED",
+          "kind": "Officer",
+          "countries": [
+            "Malta"
+          ],
+          "jurisdiction": null,
+          "incorporation_date": null,
+          "url": "https://offshoreleaks.icij.org/nodes/56081303"
+        },
+        {
+          "id": "56072048",
+          "name": "PRICEWATERHOUSECOOPERS",
+          "kind": "Officer",
+          "countries": [
+            "Malta"
+          ],
+          "jurisdiction": null,
+          "incorporation_date": null,
+          "url": "https://offshoreleaks.icij.org/nodes/56072048"
+        }
+      ],
+      "edges": [
+        {
+          "from": "56052846",
+          "to": "55027598",
+          "role": "Shareholder",
+          "start_date": null,
+          "end_date": null,
+          "url": "https://offshoreleaks.icij.org/nodes/55027598"
+        },
+        {
+          "from": "56081303",
+          "to": "55027598",
+          "role": "Shareholder",
+          "start_date": null,
+          "end_date": null,
+          "url": "https://offshoreleaks.icij.org/nodes/55027598"
+        },
+        {
+          "from": "56072048",
+          "to": "55027598",
+          "role": "Auditor",
+          "start_date": null,
+          "end_date": null,
+          "url": "https://offshoreleaks.icij.org/nodes/55027598"
+        }
+      ]
+    },
+    {
+      "id": "cantox-blue-trust",
+      "title": "A Canadian organization recorded as a trust settlor",
+      "summary": "Offshore Leaks identifies Cantox Inc. as the settlor of Blue Trust, registered in the Cook Islands.",
+      "note": "A settlor establishes a trust. The source gives a start date for this role and leaves the end date blank.",
+      "dataset": "Offshore Leaks",
+      "source_cutoff": "2010",
+      "nodes": [
+        {
+          "id": "51821",
+          "name": "Cantox Inc.",
+          "kind": "Officer",
+          "countries": [
+            "Canada"
+          ],
+          "jurisdiction": null,
+          "incorporation_date": null,
+          "url": "https://offshoreleaks.icij.org/nodes/51821"
+        },
+        {
+          "id": "169305",
+          "name": "Blue Trust",
+          "kind": "Entity",
+          "countries": [],
+          "jurisdiction": "Cook Islands",
+          "incorporation_date": "1993-04-14",
+          "url": "https://offshoreleaks.icij.org/nodes/169305"
+        }
+      ],
+      "edges": [
+        {
+          "from": "51821",
+          "to": "169305",
+          "role": "Trust settlor",
+          "start_date": "1993-04-14",
+          "end_date": null,
+          "url": "https://offshoreleaks.icij.org/nodes/51821"
+        }
+      ]
+    },
+    {
+      "id": "punto-larga-intermediary",
+      "title": "The intermediary on a Bahamas company record",
+      "summary": "The Bahamas Leaks registry names M & A Corporate Services Limited as an intermediary for Punto Larga Ltd.",
+      "note": "January 7, 2005 is the company’s incorporation date. The intermediary entry supplies no relationship dates.",
+      "dataset": "Bahamas Leaks",
+      "source_cutoff": "early 2016",
+      "nodes": [
+        {
+          "id": "23000002",
+          "name": "M & A CORPORATE SERVICES LIMITED",
+          "kind": "Intermediary",
+          "countries": [
+            "Bahamas"
+          ],
+          "jurisdiction": null,
+          "incorporation_date": null,
+          "url": "https://offshoreleaks.icij.org/nodes/23000002"
+        },
+        {
+          "id": "20135138",
+          "name": "PUNTO LARGA LTD.",
+          "kind": "Entity",
+          "countries": [],
+          "jurisdiction": "Bahamas",
+          "incorporation_date": "2005-01-07",
+          "url": "https://offshoreleaks.icij.org/nodes/20135138"
+        }
+      ],
+      "edges": [
+        {
+          "from": "23000002",
+          "to": "20135138",
+          "role": "Intermediary",
+          "start_date": null,
+          "end_date": null,
+          "url": "https://offshoreleaks.icij.org/nodes/23000002"
+        }
+      ]
+    }
+  ]
+}

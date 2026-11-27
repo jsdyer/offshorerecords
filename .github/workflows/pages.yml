@@ -1,33 +1,45 @@
-name: Browser tool · Check and publish
+name: Offshore Records Atlas · Check sources and publish
 on:
   pull_request:
   push:
     branches: [main]
+  schedule:
+    - cron: '23 11 3 * *'
   workflow_dispatch:
 permissions:
   contents: read
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 40
+    permissions:
+      contents: write
+    concurrency:
+      group: offshore-atlas-build-${{ github.ref }}
+      cancel-in-progress: false
     outputs:
       publish: ${{ steps.identity.outputs.publish }}
     steps:
       - uses: actions/checkout@v7
         with:
-          persist-credentials: false
+          persist-credentials: ${{ (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch') && github.ref == 'refs/heads/main' }}
       - uses: actions/setup-python@v6
         with:
           python-version: '3.12'
       - uses: actions/setup-node@v6
         with:
           node-version: '24'
+      - name: Refresh archive and transparency sources
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: python scripts/refresh.py
       - name: Test the application
         run: node --test tests/*.test.mjs
       - name: Test the builder
         run: python3 -m unittest discover -s tests -v
       - name: Build the static application
-        run: python3 scripts/build.py
+        run: |
+          python3 scripts/build.py
+          python3 scripts/check_pages.py
       - name: Check whether the tool has been initialized
         id: identity
         env:
@@ -46,6 +58,16 @@ jobs:
           python3 -m playwright install --with-deps chromium
       - name: Check application in a browser
         run: python3 tests/browser_smoke.py
+      - name: Save validated source snapshots
+        if: (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch') && github.ref == 'refs/heads/main'
+        run: |
+          git add data/
+          if ! git diff --cached --quiet; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git commit -m "Refresh archive counts and source evidence"
+            git push origin HEAD:main
+          fi
       - name: Save browser screenshots
         if: always()
         uses: actions/upload-artifact@v7
